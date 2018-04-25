@@ -2,7 +2,6 @@
 layout: default
 title: 0, a game jam reflection
 date: 2017-12-26 05:20
-categories: [design, gamejam, my work, team work]
 ---
 <img class=" wp-image-60 aligncenter" src="https://iuondesign.files.wordpress.com/2017/12/backawk.png" alt="backawk" width="255" height="107" />
 <p style="text-align:center;"><strong>Many years ago, four friends gathered for a game jam.
