@@ -24,7 +24,8 @@ github_username: iuyhcdfs
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-basically-basic
+skin: steel
 plugins:
   - jekyll-feed
 
