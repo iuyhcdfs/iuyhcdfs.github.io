@@ -1,8 +1,8 @@
 ---
-title: Curriculum Vitæ
+title: cv (under construction)
 layout: cv
-actions:
-  - label: "Download as PDF"
-    icon: pdf
-    url: "#pdf-asset"
+#actions:
+#  - label: "Download as PDF"
+#    icon: pdf
+#    url: "#pdf-asset"
 ---
