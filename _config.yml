@@ -21,7 +21,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://sannaigames.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sultan_vinnie
 github_username: iuyhcdfs
-
+logo: /assets/icons/sannai.svg
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-basically-basic
