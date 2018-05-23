@@ -22,6 +22,10 @@ url: "http://sannaigames.com" # the base hostname & protocol for your site, e.g.
 twitter_username: sultan_vinnie
 github_username: iuyhcdfs
 logo: /assets/icons/sannai.svg
+
+liquid:
+  error_mode: strict
+
 # Build settings
 markdown: kramdown
 #theme: minima
@@ -32,13 +36,13 @@ plugins: # previously gems
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
-#  - jekyll-paginate
+  - jekyll-paginate
 feed:
   path: atom.xml
 
 # Pagination - https://jekyllrb.com/docs/pagination/
-#paginate: 10
-#paginate_path: /page:num/
+paginate: 10
+paginate_path: /page:num/
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -60,7 +64,7 @@ feed:
 
 # Front Matter Defaults
 defaults:
-  # _posts
+   #_posts
   - scope:
       path: "_posts"
       type: posts
