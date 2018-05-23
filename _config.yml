@@ -16,7 +16,7 @@
 title: sannaigames
 email: sannaigames@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  "David Dreams of Design"
+  "David dreams of design"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://sannaigames.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sultan_vinnie
@@ -27,9 +27,18 @@ markdown: kramdown
 #theme: minima
 #theme: jekyll-theme-basically-basic
 remote-theme: "mmistakes/jekyll-theme-basically-basic"
-skin: steel
-plugins:
+#skin: steel
+plugins: # previously gems
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+feed:
+  path: atom.xml
+
+# Pagination - https://jekyllrb.com/docs/pagination/
+paginate: 10
+paginate_path: /page:num/
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -42,3 +51,19 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Collections
+#collections:
+#  recipes:
+#    output: true
+#    permalink: /:collection/:path/
+
+# Front Matter Defaults
+defaults:
+  # _posts
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: post
+      read_time: true
