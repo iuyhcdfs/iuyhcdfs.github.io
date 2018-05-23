@@ -24,7 +24,7 @@ github_username: iuyhcdfs
 logo: /assets/icons/sannai.svg
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-basically-basic
+#theme: jekyll-theme-basically-basic
 remote-theme: "mmistakes/jekyll-theme-basically-basic"
 skin: steel
 plugins:
