@@ -5,7 +5,7 @@ categories:
 ---
 
 Nintendo Labo is a low-tech housing for the high-tech joycons.
-I've played it. I made others play it. Here's my raw notes. Cheers.
+I've played it. I made others play it. Here's some raw notes.
 
 I didn't get an opportunity to observe how different people <i>built the toycons.</i> 
 But I did see them play with the final controllers. 

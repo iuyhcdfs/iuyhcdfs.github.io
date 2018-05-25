@@ -3,7 +3,27 @@ layout: default
 ---
 
 {% include page-intro.html %}
+<head>
+  <style>
+    .PageNavigation {
+      font-size: 14px;
+      display: block;
+      width: auto;
+      overflow: hidden;
+    }
 
+    .PageNavigation a {
+      display: block;
+      width: 50%;
+      float: left;
+      margin: 1em 0;
+    }
+
+    .PageNavigation .next {
+      text-align: right;
+    }
+  </style>
+</head>
 <main id="main" class="page-content" aria-label="Content">
   <div class="inner">
     <article class="entry-wrap">
@@ -13,6 +33,22 @@ layout: default
       {% if site.disqus.shortname %}
         {% include disqus_comments.html %}
       {% endif %}
+      <br />
+      <hr>
+      <div style="display: flex; justify-content: space-between;">
+        <div>
+          {% if page.previous.url %}
+            <a class="entry-content" href="{{page.previous.url}}"><i>Previous:</i> [{{page.previous.title}}]</a>
+          {% endif %}
+        </div>
+        <div>
+          {% if page.next.url %}
+            <a class="entry-content" href="{{page.next.url}}"><i>Next:</i> [{{page.next.title}}]</a>
+          {% endif %}
+        </div>
+      </div>
     </article>
+  </div>
+  <div class="inner">
   </div>
 </main>
