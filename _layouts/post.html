@@ -3,30 +3,10 @@ layout: default
 ---
 
 {% include page-intro.html %}
-<head>
-  <style>
-    .PageNavigation {
-      font-size: 14px;
-      display: block;
-      width: auto;
-      overflow: hidden;
-    }
-
-    .PageNavigation a {
-      display: block;
-      width: 50%;
-      float: left;
-      margin: 1em 0;
-    }
-
-    .PageNavigation .next {
-      text-align: right;
-    }
-  </style>
-</head>
 <main id="main" class="page-content" aria-label="Content">
   <div class="inner">
     <article class="entry-wrap">
+    
       <div class="entry-content">
         {{ content }}
       </div>
@@ -35,6 +15,7 @@ layout: default
       {% endif %}
       <br />
       <hr>
+      
       <div style="display: flex; justify-content: space-between;">
         <div>
           {% if page.previous.url %}
@@ -47,8 +28,6 @@ layout: default
           {% endif %}
         </div>
       </div>
+    
     </article>
-  </div>
-  <div class="inner">
-  </div>
 </main>
