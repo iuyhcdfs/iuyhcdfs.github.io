@@ -10,7 +10,7 @@ This... "Uncertainty", if handled badly punishes the player even if they played 
 Some things are a slight irritation. Most players wont realise they're being irritated.
  - Not knowing when a temporary powerup finishes (countless examples)
  - Never being able to explore certain dialogue options (especially ones that have pre-requisites)
- - Multiple paths to the goal as a cheap design trick (multiple mechanics however, is good design)
+ - Multiple paths to the goal done carelessly (high quantity, medium/low quality design)
 
 Then we have poor visual indicators or appeal. As a player I should have answers to questions such as:
  - Is that area part of the game world? Can I go there? 

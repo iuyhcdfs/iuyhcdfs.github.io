@@ -1,0 +1,127 @@
+{
+  "basics": {
+    "name": "David Sicong Zhou",
+    "label": "Designer, Programmer",
+    "picture": "",
+    "email": "david.sicong.zhou@gmail.com",
+    "phone": "",
+    "website": "sannaigames.com",
+    "summary": "Makes ",
+    "location": {
+      "address": "123",
+      "postalCode": "456",
+      "city": "inkopolis",
+      "countryCode": "the ocean",
+      "region": "oceania"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "iuyhcdfs",
+        "url": ""
+      },
+      {
+        "network": "SoundCloud",
+        "username": "hm",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "test",
+      "position": "CEO/President",
+      "website": "sannaigames.com",
+      "startDate": "1992-10-30",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "made a website",
+        "making dope game prototypes"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "life",
+      "position": "actor",
+      "website": "",
+      "startDate": "1995-01-01",
+      "endDate": "1997-03-20",
+      "summary": "hooked a fish",
+      "highlights": [
+        "caught said fish"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of New South Wales",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2010-06-01",
+      "endDate": "2017-01-01",
+      "gpa": "great",
+      "courses": [
+        "test0001 - necessary journeys of ethics and empathy",
+        ""
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Invincible demon king of mario party 3",
+      "date": "2014-11-01",
+      "awarder": "public consensus",
+      "summary": "dude its not even fair"
+    }
+  ],
+  "publications": [
+    {
+      "name": "sannaigames blog",
+      "publisher": "david sicong zhou",
+      "releaseDate": "",
+      "website": "sannaigames.com",
+      "summary": "test"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Listening to music",
+      "level": "Three Michellin stars",
+      "keywords": [
+        "Sultan Vinnie",
+        "iuyhcdfs"
+      ]
+    },
+    {
+      "name": "name",
+      "level": "level",
+      "keywords": [
+        "keywords",
+        "keywords"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Whatever I want",
+      "fluency": "Babelfish"
+    }
+  ],
+  "interests": [
+    {
+      "name": "The future",
+      "keywords": [
+        "games",
+        "disasters"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Kermit the Frog",
+      "reference": "It's not easy being green, but we have run extensive checks and he will be a valuable addition to any company."
+    }
+  ]
+}
