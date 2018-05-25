@@ -1,5 +1,5 @@
 --- 
-title: "Being annoyed at uncertainty in games"
+title: Being annoyed at uncertainty in games
 categories:
   - Blog
 ---
