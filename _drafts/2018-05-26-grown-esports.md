@@ -1,11 +1,10 @@
 --- 
-title: "Don't punish players!"
+title: "Grown esports"
 categories:
   - Blog
 ---
 
-There's really no need to set the player back. You DID make fun gameplay though, right?
-
+Some of them didn't happen without some intervention. How important was it?
 
 
 <b>Have fun out there, won't ya?</b>
