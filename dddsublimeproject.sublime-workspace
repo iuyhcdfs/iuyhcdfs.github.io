@@ -48,57 +48,6 @@
 			}
 		},
 		{
-			"file": "_posts/2018-05-24-being-annoyed-at-uncertainty-in-games.md",
-			"settings":
-			{
-				"buffer_size": 1615,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "_posts/2018-05-22-lets-a-go.md",
-			"settings":
-			{
-				"buffer_size": 713,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "index.html",
-			"settings":
-			{
-				"buffer_size": 445,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "_drafts/2000-00-00-jekyll-sandbox.md",
-			"settings":
-			{
-				"buffer_size": 180,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"contents": "Searching 436 files for \"wordpress\"\n\nC:\\Users\\David Sicong Zhou\\sannaigames\\iuyhcdfs.github.io\\_drafts\\2017-12-26-0-a-game-jam-reflection.md:\n    3  date: 2017-12-26 05:20\n    4  ---\n    5: <img class=\" wp-image-60 aligncenter\" src=\"https://iuondesign.files.wordpress.com/2017/12/backawk.png\" alt=\"backawk\" width=\"255\" height=\"107\" />\n    6  <p style=\"text-align:center;\"><strong>Many years ago, four friends gathered for a game jam.\n    7  </strong>A lesson on spending time more wisely</p>\n\nC:\\Users\\David Sicong Zhou\\sannaigames\\iuyhcdfs.github.io\\_drafts\\2017-12-26-about.md:\n   25  \n   26  Has traveled quite a lot.\n   27: <h3><strong>Why are you using wordpress.com instead of .org or whatever?</strong></h3>\n   28  It works, and immediately. This maximizes the time I spend making things.\n   29  \n\nC:\\Users\\David Sicong Zhou\\sannaigames\\iuyhcdfs.github.io\\_drafts\\2018-01-06-1-welcome-to-clock-town.md:\n    7  categories: [clock, design, mechanic, nintendo, time, zelda]\n    8  ---\n    9: <img class=\"alignnone  wp-image-94 aligncenter\" src=\"https://iuondesign.files.wordpress.com/2017/12/zeldan64.png\" alt=\"picture of the moon and sheik\" width=\"456\" height=\"200\" />\n   10  <p style=\"text-align:center;\"><b>Time passes, people move.</b>\n   11  The design of the in game clock in Ocarina of Time and Majora's Mask</p>\n\nC:\\Users\\David Sicong Zhou\\sannaigames\\iuyhcdfs.github.io\\_drafts\\2018-01-19-.md:\n    7  categories: [Uncategorized]\n    8  ---\n    9: [caption id=\"attachment_151\" align=\"aligncenter\" width=\"619\"]<img class=\"alignnone  wp-image-151\" src=\"https://iuondesign.files.wordpress.com/2018/01/akumario-hanashi-3-with-hud.png\" alt=\"itsa me, akuma-rio\" width=\"619\" height=\"271\" /> Nintendo bends the design to fit <strong>gameplay,</strong> not story. I merely drew this for no reason. (Reference <a href=\"https://www.youtube.com/watch?v=MtCdQtbHJiY&amp;t=16s\" target=\"_blank\" rel=\"noopener\">https://www.youtube.com/watch?v=MtCdQtbHJiY&amp;t=16s</a>)[/caption]\n   10  <p style=\"text-align:center;\">Looking at how games (could) have balanced gameplay and story\n   11  <!--more--></p>\n\nC:\\Users\\David Sicong Zhou\\sannaigames\\iuyhcdfs.github.io\\_drafts\\2018-02-02-3-a-look-at-luge-design.md:\n    7  categories: [design, luge]\n    8  ---\n    9: [caption id=\"attachment_161\" align=\"aligncenter\" width=\"626\"]<img class=\"alignnone  wp-image-161\" src=\"https://iuondesign.files.wordpress.com/2018/02/qtownlugecropped.png\" alt=\"qtownlugecropped\" width=\"626\" height=\"293\" /> A shot from the chairlift.[/caption]\n   10  <p style=\"text-align:center;\"><em><strong>the \"Luge\" is basically gravity-powered go-karts.\n   11  </strong></em>Being on holiday wont stop me analyzing the last \"game\" I played\n   ..\n   73  Here's a hastily shot picture of the routes (the left part got cropped but the red and blue tracks only crossover that one time in the middle)\n   74  \n   75: <img class=\"  wp-image-162 aligncenter\" src=\"https://iuondesign.files.wordpress.com/2018/02/luge-map-e1517543114642.jpg\" alt=\"luge map\" width=\"391\" height=\"328\" />\n   76  \n   77  Intriguingly, if you look at the shadows and contours of the mountain, the hardest thing to build is a straightway! The twists and turns were basically decided by the mountain. All your company needs to do is make a downhill course <em>safe</em>, and it'll be exciting.\n\nC:\\Users\\David Sicong Zhou\\sannaigames\\iuyhcdfs.github.io\\_drafts\\2018-02-07-.md:\n    7  categories: [design]\n    8  ---\n    9: <p style=\"text-align:center;\"><img class=\"  wp-image-175 aligncenter\" src=\"https://iuondesign.files.wordpress.com/2018/02/powerstar1.png\" alt=\"powerstar\" width=\"424\" height=\"186\" /></p>\n   10  <p style=\"text-align:center;\"><strong>There's no Mario Maker for 3D games, but that didnt stop Skelux.\n   11  </strong>The Super Mario 64 mod, Star Road. Different levels, same Mario\n\nC:\\Users\\David Sicong Zhou\\sannaigames\\iuyhcdfs.github.io\\_drafts\\2018-02-17-4-spore-and-league-of-legends.md:\n    7  categories: [casual, design, hardcore, leagueoflegends, spore]\n    8  ---\n    9: <p style=\"text-align:center;\"><img class=\"  wp-image-200 aligncenter\" src=\"https://iuondesign.files.wordpress.com/2018/02/spore-and-league.png\" alt=\"picture of spore creatures and league champions\" width=\"515\" height=\"272\" /></p>\n   10  <p style=\"text-align:center;\"><strong>Comparing how Spore and League appeal to casual and hardcore players.\n   11  </strong>\"Having something for everybody\" can be an overarching design goal.\n\nC:\\Users\\David Sicong Zhou\\sannaigames\\iuyhcdfs.github.io\\_drafts\\2018-02-20-5-a-very-nintendo-chinese-new-year.md:\n    5  author: iuyhcdfs\n    6  comments: true\n    7: categories: [ideas, middle aged players, nintendo, nintendo land, notes, old players, what do wordpress tags do?, wii sports, wii sports resort, young players]\n    8  ---\n    9  <p style=\"text-align:center;\"><strong> Did you know gamefaq's has guides for wii sports?\n\nC:\\Users\\David Sicong Zhou\\sannaigames\\iuyhcdfs.github.io\\_drafts\\2018-03-02-.md:\n   11  \n   12  <h3><strong>the student/player analogy</strong></h3>\n   13: It was like this when a <a href=\"https://iuondesign.wordpress.com/2018/02/20/5-a-very-nintendo-chinese-new-year/\" target=\"_blank\" rel=\"noopener\">10 year old cousin played videogames:</a> the main observation with new players is that, these controllers might not make sense.\n   14  \n   15  The goal of the game might not be apparent either. Games might actually be too complex for some players.\n\nC:\\Users\\David Sicong Zhou\\sannaigames\\iuyhcdfs.github.io\\_drafts\\2018-03-03-8-full-notes-florence.md:\n    7  categories: [design, florence, ideas, notes]\n    8  ---\n    9: <img class=\"  wp-image-271 aligncenter\" src=\"https://iuondesign.files.wordpress.com/2018/03/quickflorence.png\" alt=\"a hastily drawn picture of florence.\" width=\"392\" height=\"194\" />\n   10  <p style=\"text-align:center;\"><strong>time passes, people... change?</strong></p>\n   11  <p style=\"text-align:left;\">Florence is a game by Mountains, where you follow and borderline act yourself as Florence, a mild mannered Asian woman who's keeping her adult life together.</p>\n\nC:\\Users\\David Sicong Zhou\\sannaigames\\iuyhcdfs.github.io\\_drafts\\2018-04-13-Blog-start.md:\n    1  ---\n    2  layout: default\n    3: title:  \"importing from wordpress\"\n    4  date:   2018-04-13 20:12:15 +1000\n    5  categories: \n    6  ---\n    7  \n    8: The website started around this time. just bringing in the wordpress posts and seeing how it goes!\n\nC:\\Users\\David Sicong Zhou\\sannaigames\\iuyhcdfs.github.io\\_posts\\2017-12-26-0-a-game-jam-reflection.md:\n    5    - Old Blog\n    6  ---\n    7: <img class=\" wp-image-60 aligncenter\" src=\"https://iuondesign.files.wordpress.com/2017/12/backawk.png\" alt=\"backawk\" width=\"255\" height=\"107\" />\n    8  <p style=\"text-align:center;\"><strong>Many years ago, four friends gathered for a game jam.\n    9  </strong>A lesson on spending time more wisely</p>\n\nC:\\Users\\David Sicong Zhou\\sannaigames\\iuyhcdfs.github.io\\_posts\\2018-01-06-1-welcome-to-clock-town.md:\n    5    - Old Blog\n    6  ---\n    7: <img class=\"alignnone  wp-image-94 aligncenter\" src=\"https://iuondesign.files.wordpress.com/2017/12/zeldan64.png\" alt=\"picture of the moon and sheik\" width=\"456\" height=\"200\" />\n    8  <p style=\"text-align:center;\"><b>Time passes, people move.</b>\n    9  The design of the in game clock in Ocarina of Time and Majora's Mask</p>\n\nC:\\Users\\David Sicong Zhou\\sannaigames\\iuyhcdfs.github.io\\_posts\\2018-02-02-3-a-look-at-luge-design.md:\n    5    - Old Blog\n    6  ---\n    7: <img class=\"alignnone  wp-image-161\" src=\"https://iuondesign.files.wordpress.com/2018/02/qtownlugecropped.png\" alt=\"qtownlugecropped\" width=\"626\" height=\"293\" /> A shot from the chairlift.\n    8  <p style=\"text-align:center;\"><em><strong>the \"Luge\" is basically gravity-powered go-karts.\n    9  </strong></em>Being on holiday wont stop me analyzing the last \"game\" I played\n   ..\n   72  Here's a hastily shot picture of the routes (the left part got cropped but the red and blue tracks only crossover that one time in the middle)\n   73  \n   74: <img class=\"  wp-image-162 aligncenter\" src=\"https://iuondesign.files.wordpress.com/2018/02/luge-map-e1517543114642.jpg\" alt=\"luge map\" width=\"391\" height=\"328\" />\n   75  \n   76  Intriguingly, if you look at the shadows and contours of the mountain, the hardest thing to build is a straightway! The twists and turns were basically decided by the mountain. All your company needs to do is make a downhill course <em>safe</em>, and it'll be exciting.\n\nC:\\Users\\David Sicong Zhou\\sannaigames\\iuyhcdfs.github.io\\_posts\\2018-02-17-4-spore-and-league-of-legends.md:\n    5    - Old Blog\n    6  ---\n    7: <p style=\"text-align:center;\"><img class=\"  wp-image-200 aligncenter\" src=\"https://iuondesign.files.wordpress.com/2018/02/spore-and-league.png\" alt=\"picture of spore creatures and league champions\" width=\"515\" height=\"272\" /></p>\n    8  <p style=\"text-align:center;\"><strong>Comparing how Spore and League appeal to casual and hardcore players.\n    9  </strong>\"Having something for everybody\" can be an overarching design goal.\n\nC:\\Users\\David Sicong Zhou\\sannaigames\\iuyhcdfs.github.io\\_posts\\2018-03-03-8-full-notes-florence.md:\n    5    - Old Blog\n    6  ---\n    7: <img class=\"  wp-image-271 aligncenter\" src=\"https://iuondesign.files.wordpress.com/2018/03/quickflorence.png\" alt=\"a hastily drawn picture of florence.\" width=\"392\" height=\"194\" />\n    8  <p style=\"text-align:center;\"><strong>time passes, people... change?</strong></p>\n    9  <p style=\"text-align:left;\">Florence is a game by Mountains, where you play/guide florence, a mild mannered Asian woman with the relatable struggle of keeping her adult life together while falling in love.</p>\n\nC:\\Users\\David Sicong Zhou\\sannaigames\\iuyhcdfs.github.io\\_posts\\2018-05-22-lets-a-go.md:\n    5  ---\n    6  \n    7: I previously blogged <i>game notes and thoughts</i> on iuondesign.wordpress.com. Don't worry, I've already imported my old blog onto this website. All posts older than this are from iuondesign!\n    8  \n    9  Is it okay to share notes and thoughts? Yes. It's interesting to see other peoples thoughts, and if you're really set on doing something creative, you'll do it your way. \n\nC:\\Users\\David Sicong Zhou\\sannaigames\\iuyhcdfs.github.io\\_site\\atom.xml:\n   72   It was a liberating feeling when I taped a stolen flap from a tissue box onto a bent RC car’s leg to make it work again.&lt;/li&gt;\n   73    &lt;li&gt;Some of the cool toycon feedback (all rubber band components) could have been demonstrated more. We never saw the motorcycle handle snap back when released in the initial reveal trailer.&lt;/li&gt;\n   74: &lt;/ul&gt;</content><author><name></name></author><summary type=\"html\">Nintendo Labo is a low-tech housing for the high-tech joycons. I’ve played it. I made others play it. Here’s some raw notes.</summary></entry><entry><title type=\"html\">Lets a go: Old and new blog posts</title><link href=\"http://localhost:4000/blog/2018/05/22/lets-a-go.html\" rel=\"alternate\" type=\"text/html\" title=\"Lets a go: Old and new blog posts\" /><published>2018-05-22T00:00:00+10:00</published><updated>2018-05-22T00:00:00+10:00</updated><id>http://localhost:4000/blog/2018/05/22/lets-a-go</id><content type=\"html\" xml:base=\"http://localhost:4000/blog/2018/05/22/lets-a-go.html\">&lt;p&gt;I previously blogged &lt;i&gt;game notes and thoughts&lt;/i&gt; on iuondesign.wordpress.com. Don’t worry, I’ve already imported my old blog onto this website. All posts older than this are from iuondesign!&lt;/p&gt;\n   75  \n   76  &lt;p&gt;Is it okay to share notes and thoughts? Yes. It’s interesting to see other peoples thoughts, and if you’re really set on doing something creative, you’ll do it your way.&lt;/p&gt;\n   ..\n   80  &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLq-fEiQjcdPcXdqQpyIMMtYGKbMSFAArP&quot;&gt;Nothing much else to say, but here’s some music I’ve been listening to.&lt;/a&gt;&lt;/p&gt;\n   81  \n   82: &lt;p&gt;&lt;b&gt;Have fun out there, won’t you?&lt;/b&gt;&lt;/p&gt;</content><author><name></name></author><summary type=\"html\">I previously blogged game notes and thoughts on iuondesign.wordpress.com. Don’t worry, I’ve already imported my old blog onto this website. All posts older than this are from iuondesign!</summary></entry><entry><title type=\"html\">notes: overcooked</title><link href=\"http://localhost:4000/old%20blog/2018/04/05/notes-overcooked.html\" rel=\"alternate\" type=\"text/html\" title=\"notes: overcooked\" /><published>2018-04-05T00:00:00+10:00</published><updated>2018-04-05T00:00:00+10:00</updated><id>http://localhost:4000/old%20blog/2018/04/05/notes-overcooked</id><content type=\"html\" xml:base=\"http://localhost:4000/old%20blog/2018/04/05/notes-overcooked.html\">&lt;p&gt;Played with a friend on a switch, only co-op mode so far.&lt;/p&gt;\n   83  \n   84  &lt;p&gt;If you haven’t played: watching videos of gameplay should show all the controls.&lt;/p&gt;\n   ..\n  420  &lt;p&gt;Also because the final boss is not always the same, you’re going to have to hope your deck can deal with different issues (enemy buffs, minions/solo, huge damage bursts).&lt;/p&gt;\n  421  &lt;h3 style=&quot;text-align:center;&quot;&gt;&lt;/h3&gt;\n  422: &lt;h3 style=&quot;text-align:center;&quot;&gt;&lt;em&gt;Have fun out there, but PLEASE LOOK AT THE CLOCK, SET AN ALARM, DO NOT PLAY A GAME FOR SEVERAL STRAIGHT HOURS.&lt;/em&gt;&lt;/h3&gt;</content><author><name></name></author><summary type=\"html\">Been playing Slay the Spire, fast mode on. Lets talk about why it’s addictive.</summary></entry><entry><title type=\"html\">8. full notes: Florence</title><link href=\"http://localhost:4000/old%20blog/2018/03/03/8-full-notes-florence.html\" rel=\"alternate\" type=\"text/html\" title=\"8. full notes: Florence\" /><published>2018-03-03T00:00:00+11:00</published><updated>2018-03-03T00:00:00+11:00</updated><id>http://localhost:4000/old%20blog/2018/03/03/8-full-notes-florence</id><content type=\"html\" xml:base=\"http://localhost:4000/old%20blog/2018/03/03/8-full-notes-florence.html\">&lt;p&gt;&lt;img class=&quot;  wp-image-271 aligncenter&quot; src=&quot;https://iuondesign.files.wordpress.com/2018/03/quickflorence.png&quot; alt=&quot;a hastily drawn picture of florence.&quot; width=&quot;392&quot; height=&quot;194&quot; /&gt;&lt;/p&gt;\n  423  &lt;p style=&quot;text-align:center;&quot;&gt;&lt;strong&gt;time passes, people... change?&lt;/strong&gt;&lt;/p&gt;\n  424  &lt;p style=&quot;text-align:left;&quot;&gt;Florence is a game by Mountains, where you play/guide florence, a mild mannered Asian woman with the relatable struggle of keeping her adult life together while falling in love.&lt;/p&gt;\n\nC:\\Users\\David Sicong Zhou\\sannaigames\\iuyhcdfs.github.io\\_site\\index.html:\n  310    <div class=\"entry-excerpt\">\n  311      \n  312:       <p>I previously blogged <i>game notes and thoughts</i> on iuondesign.wordpress.com. Don’t worry, I’ve already imported my old blog onto this website. All posts older than this are from iuondesign!</p>\n  313  \n  314  \n  ...\n  502    <div class=\"entry-excerpt\">\n  503      \n  504:       <p><img class=\"  wp-image-271 aligncenter\" src=\"https://iuondesign.files.wordpress.com/2018/03/quickflorence.png\" alt=\"a hastily drawn picture of florence.\" width=\"392\" height=\"194\" /></p>\n  505  <p style=\"text-align:center;\"><strong>time passes, people... change?</strong></p>\n  506  <p style=\"text-align:left;\">Florence is a game by Mountains, where you play/guide florence, a mild mannered Asian woman with the relatable struggle of keeping her adult life together while falling in love.</p>\n\nC:\\Users\\David Sicong Zhou\\sannaigames\\iuyhcdfs.github.io\\_site\\assets\\javascripts\\search-data.json:\n   91        },{\n   92          \"title\": \"Lets a go: Old and new blog posts\",\n   93:         \"excerpt\":\"I previously blogged game notes and thoughts on iuondesign.wordpress.com. Don’t worry, I’ve already imported my old blog onto this website. All posts older than this are from iuondesign! Is it okay to share notes and thoughts? Yes. It’s interesting to see other peoples thoughts, and if you’re really set on...\",\"categories\": [\"Blog\"],\n   94          \"tags\": [],\n   95          \"url\": \"http://localhost:4000/blog/2018/05/22/lets-a-go.html\"\n\nC:\\Users\\David Sicong Zhou\\sannaigames\\iuyhcdfs.github.io\\_site\\blog\\2018\\05\\22\\lets-a-go.html:\n   19  <meta property=\"og:title\" content=\"Lets a go: Old and new blog posts\" />\n   20  <meta property=\"og:locale\" content=\"en_US\" />\n   21: <meta name=\"description\" content=\"I previously blogged game notes and thoughts on iuondesign.wordpress.com. Don’t worry, I’ve already imported my old blog onto this website. All posts older than this are from iuondesign!\" />\n   22: <meta property=\"og:description\" content=\"I previously blogged game notes and thoughts on iuondesign.wordpress.com. Don’t worry, I’ve already imported my old blog onto this website. All posts older than this are from iuondesign!\" />\n   23  <link rel=\"canonical\" href=\"http://localhost:4000/blog/2018/05/22/lets-a-go.html\" />\n   24  <meta property=\"og:url\" content=\"http://localhost:4000/blog/2018/05/22/lets-a-go.html\" />\n   ..\n   27  <meta property=\"article:published_time\" content=\"2018-05-22T00:00:00+10:00\" />\n   28  <script type=\"application/ld+json\">\n   29: {\"description\":\"I previously blogged game notes and thoughts on iuondesign.wordpress.com. Don’t worry, I’ve already imported my old blog onto this website. All posts older than this are from iuondesign!\",\"@type\":\"BlogPosting\",\"url\":\"http://localhost:4000/blog/2018/05/22/lets-a-go.html\",\"publisher\":{\"@type\":\"Organization\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"http://localhost:4000/assets/icons/sannai.svg\"}},\"headline\":\"Lets a go: Old and new blog posts\",\"dateModified\":\"2018-05-22T00:00:00+10:00\",\"datePublished\":\"2018-05-22T00:00:00+10:00\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"http://localhost:4000/blog/2018/05/22/lets-a-go.html\"},\"@context\":\"http://schema.org\"}</script>\n   30  <!-- End Jekyll SEO tag -->\n   31  \n   ..\n  199      \n  200        <div class=\"entry-content\">\n  201:         <p>I previously blogged <i>game notes and thoughts</i> on iuondesign.wordpress.com. Don’t worry, I’ve already imported my old blog onto this website. All posts older than this are from iuondesign!</p>\n  202  \n  203  <p>Is it okay to share notes and thoughts? Yes. It’s interesting to see other peoples thoughts, and if you’re really set on doing something creative, you’ll do it your way.</p>\n\nC:\\Users\\David Sicong Zhou\\sannaigames\\iuyhcdfs.github.io\\_site\\old blog\\2017\\12\\26\\0-a-game-jam-reflection.html:\n  199      \n  200        <div class=\"entry-content\">\n  201:         <p><img class=\" wp-image-60 aligncenter\" src=\"https://iuondesign.files.wordpress.com/2017/12/backawk.png\" alt=\"backawk\" width=\"255\" height=\"107\" /></p>\n  202  <p style=\"text-align:center;\"><strong>Many years ago, four friends gathered for a game jam.\n  203  </strong>A lesson on spending time more wisely</p>\n\nC:\\Users\\David Sicong Zhou\\sannaigames\\iuyhcdfs.github.io\\_site\\old blog\\2018\\01\\06\\1-welcome-to-clock-town.html:\n  201      \n  202        <div class=\"entry-content\">\n  203:         <p><img class=\"alignnone  wp-image-94 aligncenter\" src=\"https://iuondesign.files.wordpress.com/2017/12/zeldan64.png\" alt=\"picture of the moon and sheik\" width=\"456\" height=\"200\" /></p>\n  204  <p style=\"text-align:center;\"><b>Time passes, people move.</b>\n  205  The design of the in game clock in Ocarina of Time and Majora's Mask</p>\n\nC:\\Users\\David Sicong Zhou\\sannaigames\\iuyhcdfs.github.io\\_site\\old blog\\2018\\02\\02\\3-a-look-at-luge-design.html:\n  201      \n  202        <div class=\"entry-content\">\n  203:         <p><img class=\"alignnone  wp-image-161\" src=\"https://iuondesign.files.wordpress.com/2018/02/qtownlugecropped.png\" alt=\"qtownlugecropped\" width=\"626\" height=\"293\" /> A shot from the chairlift.</p>\n  204  <p style=\"text-align:center;\"><em><strong>the \"Luge\" is basically gravity-powered go-karts.\n  205  </strong></em>Being on holiday wont stop me analyzing the last \"game\" I played\n  ...\n  268  <p>Here’s a hastily shot picture of the routes (the left part got cropped but the red and blue tracks only crossover that one time in the middle)</p>\n  269  \n  270: <p><img class=\"  wp-image-162 aligncenter\" src=\"https://iuondesign.files.wordpress.com/2018/02/luge-map-e1517543114642.jpg\" alt=\"luge map\" width=\"391\" height=\"328\" /></p>\n  271  \n  272  <p>Intriguingly, if you look at the shadows and contours of the mountain, the hardest thing to build is a straightway! The twists and turns were basically decided by the mountain. All your company needs to do is make a downhill course <em>safe</em>, and it’ll be exciting.</p>\n\nC:\\Users\\David Sicong Zhou\\sannaigames\\iuyhcdfs.github.io\\_site\\old blog\\2018\\02\\17\\4-spore-and-league-of-legends.html:\n  201      \n  202        <div class=\"entry-content\">\n  203:         <p style=\"text-align:center;\"><img class=\"  wp-image-200 aligncenter\" src=\"https://iuondesign.files.wordpress.com/2018/02/spore-and-league.png\" alt=\"picture of spore creatures and league champions\" width=\"515\" height=\"272\" /></p>\n  204  <p style=\"text-align:center;\"><strong>Comparing how Spore and League appeal to casual and hardcore players.\n  205  </strong>\"Having something for everybody\" can be an overarching design goal.\n\nC:\\Users\\David Sicong Zhou\\sannaigames\\iuyhcdfs.github.io\\_site\\old blog\\2018\\03\\03\\8-full-notes-florence.html:\n  201      \n  202        <div class=\"entry-content\">\n  203:         <p><img class=\"  wp-image-271 aligncenter\" src=\"https://iuondesign.files.wordpress.com/2018/03/quickflorence.png\" alt=\"a hastily drawn picture of florence.\" width=\"392\" height=\"194\" /></p>\n  204  <p style=\"text-align:center;\"><strong>time passes, people... change?</strong></p>\n  205  <p style=\"text-align:left;\">Florence is a game by Mountains, where you play/guide florence, a mild mannered Asian woman with the relatable struggle of keeping her adult life together while falling in love.</p>\n\nC:\\Users\\David Sicong Zhou\\sannaigames\\iuyhcdfs.github.io\\_site\\page2\\index.html:\n  444    <div class=\"entry-excerpt\">\n  445      \n  446:       <p style=\"text-align:center;\"><img class=\"  wp-image-200 aligncenter\" src=\"https://iuondesign.files.wordpress.com/2018/02/spore-and-league.png\" alt=\"picture of spore creatures and league champions\" width=\"515\" height=\"272\" /></p>\n  447  <p style=\"text-align:center;\"><strong>Comparing how Spore and League appeal to casual and hardcore players.\n  448  </strong>\"Having something for everybody\" can be an overarching design goal.\n  ...\n  480    <div class=\"entry-excerpt\">\n  481      \n  482:       <p><img class=\"alignnone  wp-image-161\" src=\"https://iuondesign.files.wordpress.com/2018/02/qtownlugecropped.png\" alt=\"qtownlugecropped\" width=\"626\" height=\"293\" /> A shot from the chairlift.</p>\n  483  <p style=\"text-align:center;\"><em><strong>the \"Luge\" is basically gravity-powered go-karts.\n  484  </strong></em>Being on holiday wont stop me analyzing the last \"game\" I played\n  ...\n  551    <div class=\"entry-excerpt\">\n  552      \n  553:       <p><img class=\"alignnone  wp-image-94 aligncenter\" src=\"https://iuondesign.files.wordpress.com/2017/12/zeldan64.png\" alt=\"picture of the moon and sheik\" width=\"456\" height=\"200\" /></p>\n  554  <p style=\"text-align:center;\"><b>Time passes, people move.</b>\n  555  The design of the in game clock in Ocarina of Time and Majora's Mask</p>\n\nC:\\Users\\David Sicong Zhou\\sannaigames\\iuyhcdfs.github.io\\_site\\page3\\index.html:\n  246    <div class=\"entry-excerpt\">\n  247      \n  248:       <p><img class=\" wp-image-60 aligncenter\" src=\"https://iuondesign.files.wordpress.com/2017/12/backawk.png\" alt=\"backawk\" width=\"255\" height=\"107\" /></p>\n  249  <p style=\"text-align:center;\"><strong>Many years ago, four friends gathered for a game jam.\n  250  </strong>A lesson on spending time more wisely</p>\n\nC:\\Users\\David Sicong Zhou\\sannaigames\\iuyhcdfs.github.io\\_site\\posts\\index.html:\n  303    <div class=\"entry-excerpt\">\n  304      \n  305:       <p>I previously blogged <i>game notes and thoughts</i> on iuondesign.wordpress.com. Don’t worry, I’ve already imported my old blog onto this website. All posts older than this are from iuondesign!</p>\n  306  \n  307  \n  ...\n  495    <div class=\"entry-excerpt\">\n  496      \n  497:       <p><img class=\"  wp-image-271 aligncenter\" src=\"https://iuondesign.files.wordpress.com/2018/03/quickflorence.png\" alt=\"a hastily drawn picture of florence.\" width=\"392\" height=\"194\" /></p>\n  498  <p style=\"text-align:center;\"><strong>time passes, people... change?</strong></p>\n  499  <p style=\"text-align:left;\">Florence is a game by Mountains, where you play/guide florence, a mild mannered Asian woman with the relatable struggle of keeping her adult life together while falling in love.</p>\n  ...\n  762    <div class=\"entry-excerpt\">\n  763      \n  764:       <p style=\"text-align:center;\"><img class=\"  wp-image-200 aligncenter\" src=\"https://iuondesign.files.wordpress.com/2018/02/spore-and-league.png\" alt=\"picture of spore creatures and league champions\" width=\"515\" height=\"272\" /></p>\n  765  <p style=\"text-align:center;\"><strong>Comparing how Spore and League appeal to casual and hardcore players.\n  766  </strong>\"Having something for everybody\" can be an overarching design goal.\n  ...\n  798    <div class=\"entry-excerpt\">\n  799      \n  800:       <p><img class=\"alignnone  wp-image-161\" src=\"https://iuondesign.files.wordpress.com/2018/02/qtownlugecropped.png\" alt=\"qtownlugecropped\" width=\"626\" height=\"293\" /> A shot from the chairlift.</p>\n  801  <p style=\"text-align:center;\"><em><strong>the \"Luge\" is basically gravity-powered go-karts.\n  802  </strong></em>Being on holiday wont stop me analyzing the last \"game\" I played\n  ...\n  869    <div class=\"entry-excerpt\">\n  870      \n  871:       <p><img class=\"alignnone  wp-image-94 aligncenter\" src=\"https://iuondesign.files.wordpress.com/2017/12/zeldan64.png\" alt=\"picture of the moon and sheik\" width=\"456\" height=\"200\" /></p>\n  872  <p style=\"text-align:center;\"><b>Time passes, people move.</b>\n  873  The design of the in game clock in Ocarina of Time and Majora's Mask</p>\n  ...\n  911    <div class=\"entry-excerpt\">\n  912      \n  913:       <p><img class=\" wp-image-60 aligncenter\" src=\"https://iuondesign.files.wordpress.com/2017/12/backawk.png\" alt=\"backawk\" width=\"255\" height=\"107\" /></p>\n  914  <p style=\"text-align:center;\"><strong>Many years ago, four friends gathered for a game jam.\n  915  </strong>A lesson on spending time more wisely</p>\n\n46 matches across 29 files\n",
-			"settings":
-			{
-				"buffer_size": 26503,
-				"line_ending": "Windows",
-				"name": "Find Results",
-				"scratch": true
-			}
-		},
-		{
-			"settings":
-			{
-				"buffer_size": 0,
-				"line_ending": "Windows"
-			}
-		},
-		{
 			"file": "/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/poppy squareface",
 			"settings":
 			{
@@ -122,28 +71,9 @@
 			"file": "/C/Users/David Sicong Zhou/Dropbox/00 jp/what did nintendo want",
 			"settings":
 			{
-				"buffer_size": 5743,
+				"buffer_size": 10720,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Users/David Sicong Zhou/sannaigames/prototyping",
-			"settings":
-			{
-				"buffer_size": 2033,
-				"encoding": "UTF-8",
-				"line_ending": "Windows",
-				"name": "prototyping"
-			}
-		},
-		{
-			"contents": "poppy prototype\n\ni want to move along discret points or whatever\ni want to edit the mesh and squash stuff\n\nhah\nwell\nyou want cube\nyou want surface it stands on\nit should always just be perpendicular from the thing it's on\n\n======================\n=== have a clipbox ===\n======================\nwhen you get onto a surface then STICK\nand if the surface is \"discrete\" then ORIENT\n\n",
-			"settings":
-			{
-				"buffer_size": 377,
-				"line_ending": "Windows",
-				"name": "poppy prototype"
 			}
 		},
 		{
@@ -157,85 +87,10 @@
 			}
 		},
 		{
-			"contents": "---\nlayout: page\ntitle: Design Manifesto\npermalink: /manifesto/\n---\nJust a list of my own favourite game design thoughts.\nI've repeatedly mentioned these while talking about design (to people or in this blog).\nIt's basically my approach to design.\n\nIt doesn't have to make sense, it just has to feel right.\n\nMost of game flow arises because the game was good at teaching the player how to play.\n\nCutscenes should be skippable (but protect players from accidentally skipping)\nPlayers shouldn't get lost if they want to skip cutscenes. ",
-			"file": "manifesto.temparooni",
-			"file_size": 534,
-			"file_write_time": 131680990354933344,
-			"settings":
-			{
-				"buffer_size": 534,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_config.yml",
-			"settings":
-			{
-				"buffer_size": 2095,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"contents": "lets address this uncomfortable feeling\nyou hit a wall\nyou need to do some tedious tasks yes\nbut you need to bring something to life\nare you going to accept that or what\n\nall great things have the quiet boring part\nand it could get excruciating\n\nyou truly do need to see the goal\nwhat are you doing\n\nwhat are you doing\ni am bringing poppy to life\nany consideration for the future\ni need to endure the journey\n\nbut when you look at previous things\nwhy cringe\nwhy feel bad\nwhy think this might curse you\n\nyou should be proud\nof the effort you put in to make something real\nand perhaps it wasn't perfect but you did it and you refined it\n\nand you made the most of it\nyou only made a fleeting game experience but guess what\nyou made something and it didn't feel shallow\nand best of all\nwho fucking cares youre going to get better\nso if you just stop spinning your wheels\nyou'll become a god.\n",
-			"settings":
-			{
-				"buffer_size": 888,
-				"line_ending": "Windows",
-				"name": "lets address this uncomfortable feeling"
-			}
-		},
-		{
 			"file": "/C/Users/David Sicong Zhou/sannaigames/jekyll-theme-basically-basic/example/_config.yml",
 			"settings":
 			{
 				"buffer_size": 2477,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "_data/theme.yml",
-			"settings":
-			{
-				"buffer_size": 779,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Users/David Sicong Zhou/sannaigames/jekyll-theme-basically-basic/example/Gemfile",
-			"settings":
-			{
-				"buffer_size": 317,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "Gemfile",
-			"settings":
-			{
-				"buffer_size": 1135,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"contents": "---\nlayout: home\npaginate: true\nalt_title: \"sannaigames\"\nsub_title: \"have fun out there, won't ya?\"\nimage: /assets/images/homebanner2.png\nintroduction: |\n  David Sicong Zhou's Homepage\n  \n  - Anything I've learned is documented on my blog\n  - Check out my curriculm vitæ, or resume. Basically everything i've done.\n  \n  There's a long way to go myself, let's get to work.\n---\n",
-			"file": "index.md",
-			"file_size": 391,
-			"file_write_time": 131715426607469485,
-			"settings":
-			{
-				"buffer_size": 376,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "cv.md",
-			"settings":
-			{
-				"buffer_size": 127,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -264,7 +119,7 @@
 			"file": "/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/your heart has spoken",
 			"settings":
 			{
-				"buffer_size": 1829,
+				"buffer_size": 2272,
 				"encoding": "UTF-8",
 				"line_ending": "Windows",
 				"name": "your heart has spoken"
@@ -308,19 +163,30 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/David Sicong Zhou/sannaigames/iuyhcdfs.github.io"
+		"/C/Users/David Sicong Zhou/sannaigames/iuyhcdfs.github.io",
+		"/C/Users/David Sicong Zhou/sannaigames/iuyhcdfs.github.io/_posts"
 	],
 	"file_history":
 	[
+		"/C/Users/David Sicong Zhou/sannaigames/iuyhcdfs.github.io/index.html",
+		"/C/Users/David Sicong Zhou/sannaigames/prototyping",
+		"/C/Users/David Sicong Zhou/sannaigames/iuyhcdfs.github.io/manifesto.temparooni",
+		"/C/Users/David Sicong Zhou/sannaigames/iuyhcdfs.github.io/_config.yml",
+		"/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/lets address this uncomfortable feeling",
+		"/C/Users/David Sicong Zhou/sannaigames/jekyll-theme-basically-basic/example/Gemfile",
+		"/C/Users/David Sicong Zhou/sannaigames/iuyhcdfs.github.io/_data/theme.yml",
+		"/C/Users/David Sicong Zhou/sannaigames/iuyhcdfs.github.io/Gemfile",
+		"/C/Users/David Sicong Zhou/sannaigames/iuyhcdfs.github.io/index.md",
+		"/C/Users/David Sicong Zhou/sannaigames/iuyhcdfs.github.io/cv.md",
+		"/C/Users/David Sicong Zhou/sannaigames/iuyhcdfs.github.io/_posts/2018-05-22-lets-a-go.md",
+		"/C/Users/David Sicong Zhou/sannaigames/iuyhcdfs.github.io/_posts/2018-05-24-being-annoyed-at-uncertainty-in-games.md",
 		"/C/Users/David Sicong Zhou/sannaigames/jekyll-theme-basically-basic/example/_data/theme.yml",
 		"/C/Users/David Sicong Zhou/sannaigames/iuyhcdfs.github.io/_posts/2018-05-23-notes-nintendo-labo.md",
-		"/C/Users/David Sicong Zhou/sannaigames/iuyhcdfs.github.io/_posts/2018-05-22-lets-a-go.md",
 		"/C/Users/David Sicong Zhou/sannaigames/iuyhcdfs.github.io/_layouts/post.html",
 		"/C/Users/David Sicong Zhou/sannaigames/iuyhcdfs.github.io/_posts/2018-05-22-Lets-a-go.md",
 		"/C/Users/David Sicong Zhou/sannaigames/jekyll-theme-basically-basic/_data/theme.yml",
 		"/C/Users/David Sicong Zhou/sannaigames/jekyll-theme-basically-basic/Gemfile",
 		"/C/Users/David Sicong Zhou/sannaigames/jekyll-theme-basically-basic/_config.yml",
-		"/C/Users/David Sicong Zhou/sannaigames/iuyhcdfs.github.io/_data/theme.yml",
 		"/C/Users/David Sicong Zhou/sannaigames/jekyll-theme-basically-basic/example/_config.yml",
 		"/C/Users/David Sicong Zhou/sannaigames/iuyhcdfs.github.io/404.html",
 		"/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/what is the design process",
@@ -510,7 +376,7 @@
 	"groups":
 	[
 		{
-			"selected": 10,
+			"selected": 3,
 			"sheets":
 			[
 				{
@@ -536,10 +402,10 @@
 							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 420.0,
+						"translation.y": 20.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 9,
 					"type": "text"
 				},
 				{
@@ -555,8 +421,8 @@
 						"selection":
 						[
 							[
-								10001,
-								10001
+								2593,
+								2593
 							]
 						],
 						"settings":
@@ -565,380 +431,14 @@
 							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 4629.0,
+						"translation.y": 509.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
 					"buffer": 2,
-					"file": "_posts/2018-05-24-being-annoyed-at-uncertainty-in-games.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1615,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 10,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "_posts/2018-05-22-lets-a-go.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 713,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								685,
-								685
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 9,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 445,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								445,
-								445
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "_drafts/2000-00-00-jekyll-sandbox.md",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 180,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								180,
-								180
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 26503,
-						"regions":
-						{
-							"match":
-							{
-								"flags": 112,
-								"regions":
-								[
-									[
-										258,
-										267
-									],
-									[
-										658,
-										667
-									],
-									[
-										1074,
-										1083
-									],
-									[
-										1588,
-										1597
-									],
-									[
-										2384,
-										2393
-									],
-									[
-										2942,
-										2951
-									],
-									[
-										3550,
-										3559
-									],
-									[
-										4126,
-										4135
-									],
-									[
-										4719,
-										4728
-									],
-									[
-										5102,
-										5111
-									],
-									[
-										5688,
-										5697
-									],
-									[
-										6244,
-										6253
-									],
-									[
-										6401,
-										6410
-									],
-									[
-										6652,
-										6661
-									],
-									[
-										7107,
-										7116
-									],
-									[
-										7567,
-										7576
-									],
-									[
-										8115,
-										8124
-									],
-									[
-										8743,
-										8752
-									],
-									[
-										9283,
-										9292
-									],
-									[
-										9884,
-										9893
-									],
-									[
-										11381,
-										11390
-									],
-									[
-										12139,
-										12148
-									],
-									[
-										14122,
-										14131
-									],
-									[
-										14852,
-										14861
-									],
-									[
-										15141,
-										15150
-									],
-									[
-										15828,
-										15837
-									],
-									[
-										16539,
-										16548
-									],
-									[
-										16778,
-										16787
-									],
-									[
-										17316,
-										17325
-									],
-									[
-										18111,
-										18120
-									],
-									[
-										18689,
-										18698
-									],
-									[
-										19191,
-										19200
-									],
-									[
-										19698,
-										19707
-									],
-									[
-										20260,
-										20269
-									],
-									[
-										20939,
-										20948
-									],
-									[
-										21522,
-										21531
-									],
-									[
-										22189,
-										22198
-									],
-									[
-										22656,
-										22665
-									],
-									[
-										23116,
-										23125
-									],
-									[
-										23586,
-										23595
-									],
-									[
-										24038,
-										24047
-									],
-									[
-										24327,
-										24336
-									],
-									[
-										24917,
-										24926
-									],
-									[
-										25384,
-										25393
-									],
-									[
-										25844,
-										25853
-									],
-									[
-										26237,
-										26246
-									]
-								],
-								"scope": ""
-							}
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"detect_indentation": false,
-							"line_numbers": false,
-							"output_tag": 1,
-							"result_base_dir": "",
-							"result_file_regex": "^([^ \t].*):$",
-							"result_line_regex": "^ +([0-9]+):",
-							"scroll_past_end": true,
-							"syntax": "Packages/Default/Find Results.hidden-tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 2940.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 22,
-					"type": "text"
-				},
-				{
-					"buffer": 8,
 					"file": "/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/poppy squareface",
 					"semi_transient": false,
 					"settings":
@@ -950,8 +450,8 @@
 						"selection":
 						[
 							[
-								4082,
-								4082
+								3533,
+								3533
 							]
 						],
 						"settings":
@@ -960,14 +460,14 @@
 							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 2061.0,
+						"translation.y": 1770.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
-					"buffer": 9,
+					"buffer": 3,
 					"file": "/C/Users/David Sicong Zhou/Downloads/world_to_screen.cs",
 					"semi_transient": false,
 					"settings":
@@ -979,8 +479,8 @@
 						"selection":
 						[
 							[
-								1034,
-								1034
+								1626,
+								1626
 							]
 						],
 						"settings":
@@ -992,24 +492,24 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
-					"buffer": 10,
+					"buffer": 4,
 					"file": "/C/Users/David Sicong Zhou/Dropbox/00 jp/what did nintendo want",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 5743,
+						"buffer_size": 10720,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5743,
-								5743
+								9926,
+								9926
 							]
 						],
 						"settings":
@@ -1018,71 +518,14 @@
 							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 2569.0,
+						"translation.y": 4309.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 4,
 					"type": "text"
 				},
 				{
-					"buffer": 11,
-					"file": "/C/Users/David Sicong Zhou/sannaigames/prototyping",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2033,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2033,
-								2033
-							]
-						],
-						"settings":
-						{
-							"auto_name": "prototyping",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 24,
-					"type": "text"
-				},
-				{
-					"buffer": 12,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 377,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								377,
-								377
-							]
-						],
-						"settings":
-						{
-							"auto_name": "poppy prototype",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 20,
-					"type": "text"
-				},
-				{
-					"buffer": 13,
+					"buffer": 5,
 					"file": "/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/splat online",
 					"semi_transient": false,
 					"settings":
@@ -1094,8 +537,8 @@
 						"selection":
 						[
 							[
-								2896,
-								2896
+								650,
+								650
 							]
 						],
 						"settings":
@@ -1104,159 +547,19 @@
 							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 1609.0,
+						"translation.y": 2089.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 21,
+					"stack_index": 5,
 					"type": "text"
 				},
 				{
-					"buffer": 14,
-					"file": "manifesto.temparooni",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 534,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3,
-								3
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 14,
-					"type": "text"
-				},
-				{
-					"buffer": 15,
-					"file": "_config.yml",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2095,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1457,
-								1457
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/YAML/YAML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 190.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 12,
-					"type": "text"
-				},
-				{
-					"buffer": 16,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 888,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								888,
-								888
-							]
-						],
-						"settings":
-						{
-							"auto_name": "lets address this uncomfortable feeling",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 11,
-					"type": "text"
-				},
-				{
-					"buffer": 17,
+					"buffer": 6,
 					"file": "/C/Users/David Sicong Zhou/sannaigames/jekyll-theme-basically-basic/example/_config.yml",
 					"semi_transient": false,
 					"settings":
 					{
 						"buffer_size": 2477,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1660,
-								1660
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/YAML/YAML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 470.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 8,
-					"type": "text"
-				},
-				{
-					"buffer": 18,
-					"file": "_data/theme.yml",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 779,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								757,
-								757
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/YAML/YAML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 51.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 13,
-					"type": "text"
-				},
-				{
-					"buffer": 19,
-					"file": "/C/Users/David Sicong Zhou/sannaigames/jekyll-theme-basically-basic/example/Gemfile",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 317,
 						"regions":
 						{
 						},
@@ -1269,101 +572,17 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+							"syntax": "Packages/YAML/YAML.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 17,
+					"stack_index": 7,
 					"type": "text"
 				},
 				{
-					"buffer": 20,
-					"file": "Gemfile",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1135,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								695,
-								695
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 15,
-					"type": "text"
-				},
-				{
-					"buffer": 21,
-					"file": "index.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 376,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								31,
-								31
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 16,
-					"type": "text"
-				},
-				{
-					"buffer": 22,
-					"file": "cv.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 127,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								127,
-								127
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 18,
-					"type": "text"
-				},
-				{
-					"buffer": 23,
+					"buffer": 7,
 					"file": "/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/david dreams of design",
 					"semi_transient": false,
 					"settings":
@@ -1388,11 +607,11 @@
 						"translation.y": 240.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 19,
+					"stack_index": 6,
 					"type": "text"
 				},
 				{
-					"buffer": 24,
+					"buffer": 8,
 					"file": "/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/Mickey's Ten Commandments",
 					"semi_transient": false,
 					"settings":
@@ -1417,24 +636,24 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 25,
+					"stack_index": 8,
 					"type": "text"
 				},
 				{
-					"buffer": 25,
+					"buffer": 9,
 					"file": "/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/your heart has spoken",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1829,
+						"buffer_size": 2272,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1827,
-								1827
+								1825,
+								1825
 							]
 						],
 						"settings":
@@ -1443,10 +662,10 @@
 							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 549.0,
+						"translation.y": 869.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 23,
+					"stack_index": 3,
 					"type": "text"
 				}
 			]
