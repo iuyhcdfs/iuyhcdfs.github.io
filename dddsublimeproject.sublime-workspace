@@ -28,101 +28,110 @@
 	"buffers":
 	[
 		{
-			"file": "/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/omoiyari for game dev",
+			"file": "/C/Users/David Sicong Zhou/Dropbox/ok",
 			"settings":
 			{
-				"buffer_size": 1825,
+				"buffer_size": 1562,
 				"encoding": "UTF-8",
 				"line_ending": "Windows",
-				"name": "omoiyari for game dev"
+				"name": "ok"
+			}
+		},
+		{
+			"file": "/C/Users/David Sicong Zhou/Dropbox/cool",
+			"settings":
+			{
+				"buffer_size": 6539,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "cool"
+			}
+		},
+		{
+			"file": "/C/Users/David Sicong Zhou/Dropbox/this is the big japan checklist",
+			"settings":
+			{
+				"buffer_size": 4655,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "this is the big japan checklist"
 			}
 		},
 		{
 			"file": "/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/nintendo quotes.txt",
 			"settings":
 			{
-				"buffer_size": 10138,
+				"buffer_size": 10712,
 				"encoding": "UTF-8",
 				"line_ending": "Windows",
 				"name": "Gunpei Yokoi"
 			}
 		},
 		{
-			"file": "/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/poppy squareface",
-			"settings":
-			{
-				"buffer_size": 4082,
-				"encoding": "UTF-8",
-				"line_ending": "Windows",
-				"name": "poppy squareface"
-			}
-		},
-		{
-			"file": "/C/Users/David Sicong Zhou/Downloads/world_to_screen.cs",
-			"settings":
-			{
-				"buffer_size": 2670,
-				"encoding": "UTF-8",
-				"line_ending": "Windows",
-				"name": "/// <summary>"
-			}
-		},
-		{
 			"file": "/C/Users/David Sicong Zhou/Dropbox/00 jp/what did nintendo want",
 			"settings":
 			{
-				"buffer_size": 10720,
+				"buffer_size": 30690,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/splat online",
+			"contents": "this is sacred\n\nthat tells you how special these competitions are\n\nyou just lay it out and just leave it on the field or in the kitchen\nand let the winning or losing take care of itself",
 			"settings":
 			{
-				"buffer_size": 3420,
-				"encoding": "UTF-8",
+				"buffer_size": 185,
 				"line_ending": "Windows",
-				"name": "splat online"
+				"name": "this is sacred"
 			}
 		},
 		{
-			"file": "/C/Users/David Sicong Zhou/sannaigames/jekyll-theme-basically-basic/example/_config.yml",
+			"file": "/C/Users/David Sicong Zhou/Dropbox/hey what are you doing in japan",
 			"settings":
 			{
-				"buffer_size": 2477,
+				"buffer_size": 528,
 				"encoding": "UTF-8",
-				"line_ending": "Windows"
+				"line_ending": "Windows",
+				"name": "hey what are you doing in japan"
 			}
 		},
 		{
-			"file": "/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/david dreams of design",
+			"file": "/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/DESIGNMAKING",
 			"settings":
 			{
-				"buffer_size": 6444,
+				"buffer_size": 4645,
 				"encoding": "UTF-8",
 				"line_ending": "Windows",
-				"name": "david dreams of design"
+				"name": "making designs"
 			}
 		},
 		{
-			"file": "/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/Mickey's Ten Commandments",
+			"file": "/C/Users/David Sicong Zhou/Dropbox/here be dragson",
 			"settings":
 			{
-				"buffer_size": 2212,
+				"buffer_size": 2071,
 				"encoding": "UTF-8",
 				"line_ending": "Windows",
-				"name": "Mickey's Ten Commandments"
+				"name": "here be dragson"
 			}
 		},
 		{
-			"file": "/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/your heart has spoken",
+			"contents": "graphics input audio etc\n\nthe ins and outs need specialist procedures\n\nbut you can still handle alot of the engine elsewhere\n\nwhat kind of functionality\nhow modular it is\nhow easily can you hot swap things anyway\n\nyou need to plan this out all properly\n\nkeep reminding yourself\nthat you don't actually have a knowledge gap\nyou dont actually have a knowledge gap now\nyou dont have a knowledge gap\nokay\n\nyou just research\nyou have the general idea of how everything works\nthere must be some reason\nsome logic behind the magic\nalways\n",
 			"settings":
 			{
-				"buffer_size": 2272,
+				"buffer_size": 531,
+				"line_ending": "Windows",
+				"name": "graphics input audio etc"
+			}
+		},
+		{
+			"file": "/C/Users/David Sicong Zhou/Dropbox/[MAK GAM]/coding standard at epic games",
+			"settings":
+			{
+				"buffer_size": 5736,
 				"encoding": "UTF-8",
 				"line_ending": "Windows",
-				"name": "your heart has spoken"
+				"name": "coding standard at epic games"
 			}
 		}
 	],
@@ -163,11 +172,33 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/David Sicong Zhou/sannaigames/iuyhcdfs.github.io",
-		"/C/Users/David Sicong Zhou/sannaigames/iuyhcdfs.github.io/_posts"
+		"/C/Users/David Sicong Zhou/sannaigames/amaneshi"
 	],
 	"file_history":
 	[
+		"/C/Users/David Sicong Zhou/Dropbox/[MAK GAM]/factorygen.h",
+		"/C/Users/David Sicong Zhou/Dropbox/[MAK GAM]/Derived.h",
+		"/C/Users/David Sicong Zhou/Dropbox/[MAK GAM]/Main.cpp",
+		"/C/Users/David Sicong Zhou/Dropbox/[MAK GAM]/Base.h",
+		"/C/Users/David Sicong Zhou/Dropbox/[MAK GAM]/junejuly nsi winter game jam",
+		"/C/Users/David Sicong Zhou/sannaigames/amaneshi/main.cpp",
+		"/C/Users/David Sicong Zhou/Dropbox/implementing odys mechanics",
+		"/C/Users/David Sicong Zhou/sannaigames/one jump man/README.md",
+		"/C/Users/David Sicong Zhou/sannaigames/one jump man/index.html",
+		"/C/Users/David Sicong Zhou/sannaigames/iuyhcdfs.github.io/_posts/2018-06-26-dealing-with-inputs.md",
+		"/C/Users/David Sicong Zhou/Dropbox/credentials",
+		"/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/Mickey's Ten Commandments",
+		"/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/omoiyari for game dev",
+		"/C/Users/David Sicong Zhou/Dropbox/router changes",
+		"/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/your heart has spoken",
+		"/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/one piece moba",
+		"/C/Users/David Sicong Zhou/sannaigames/iuyhcdfs.github.io/_posts/2018-06-14-post-e3.md",
+		"/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/poppy squareface",
+		"/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/david dreams of design",
+		"/C/Users/David Sicong Zhou/sannaigames/jekyll-theme-basically-basic/example/_config.yml",
+		"/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/splat online",
+		"/C/Users/David Sicong Zhou/Dropbox/fkn stupid co op game where one player is the camera.txt",
+		"/C/Users/David Sicong Zhou/Downloads/world_to_screen.cs",
 		"/C/Users/David Sicong Zhou/sannaigames/iuyhcdfs.github.io/index.html",
 		"/C/Users/David Sicong Zhou/sannaigames/prototyping",
 		"/C/Users/David Sicong Zhou/sannaigames/iuyhcdfs.github.io/manifesto.temparooni",
@@ -187,7 +218,6 @@
 		"/C/Users/David Sicong Zhou/sannaigames/jekyll-theme-basically-basic/_data/theme.yml",
 		"/C/Users/David Sicong Zhou/sannaigames/jekyll-theme-basically-basic/Gemfile",
 		"/C/Users/David Sicong Zhou/sannaigames/jekyll-theme-basically-basic/_config.yml",
-		"/C/Users/David Sicong Zhou/sannaigames/jekyll-theme-basically-basic/example/_config.yml",
 		"/C/Users/David Sicong Zhou/sannaigames/iuyhcdfs.github.io/404.html",
 		"/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/what is the design process",
 		"/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/interview stuff",
@@ -273,26 +303,7 @@
 		"/C/Users/David Sicong Zhou/gastap/death-rock/Interlude1.js",
 		"/C/Users/David Sicong Zhou/gastap/death-rock/DeathRock.js",
 		"/C/Users/David Sicong Zhou/simplegamejs/css/fullscreencanvas.css",
-		"/C/Users/David Sicong Zhou/simplegamejs/css/canvas.css",
-		"/C/Users/David Sicong Zhou/gastap/death-rock/index.html",
-		"/C/Users/David Sicong Zhou/simplegamejs/js/simplegame.js",
-		"/C/Users/David Sicong Zhou/gastap/death-rock/Main.js",
-		"/C/Users/David Sicong Zhou/Dropbox/san.nai/the pogogun revisit.txt",
-		"/C/Users/David Sicong Zhou/simplegamejs/js/render - Copy.js",
-		"/C/Users/David Sicong Zhou/Dropbox/simplegame/js/balloon.js",
-		"/C/Users/David Sicong Zhou/Dropbox/simplegame/js/render.js",
-		"/C/Users/David Sicong Zhou/Dropbox/simplegame/js/plane.js",
-		"/C/Users/David Sicong Zhou/Dropbox/simplegame/js/control.js",
-		"/C/Users/David Sicong Zhou/Dropbox/simplegame/index.html",
-		"/C/Users/David Sicong Zhou/gastap/death-rock/example.js",
-		"/C/Users/David Sicong Zhou/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-		"/C/Users/David Sicong Zhou/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
-		"/C/Users/David Sicong Zhou/AppData/Roaming/Sublime Text 3/Packages/User/JSON.sublime-settings",
-		"/C/Users/David Sicong Zhou/Downloads/CreateJS_Pong_Source/Main.js",
-		"/C/Users/David Sicong Zhou/gastap/death-rock/main.js",
-		"/C/Users/David Sicong Zhou/gastap/death-rock/RockChair.js",
-		"/C/Users/David Sicong Zhou/gastap/death-rock/deathrock.js",
-		"/C/Users/David Sicong Zhou/Downloads/temp.html"
+		"/C/Users/David Sicong Zhou/simplegamejs/css/canvas.css"
 	],
 	"find":
 	{
@@ -376,53 +387,111 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 4,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/omoiyari for game dev",
+					"file": "/C/Users/David Sicong Zhou/Dropbox/ok",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1825,
+						"buffer_size": 1562,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1825,
-								1825
+								610,
+								610
 							]
 						],
 						"settings":
 						{
-							"auto_name": "omoiyari for game dev",
+							"auto_name": "ok",
 							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 20.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 9,
+					"stack_index": 5,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/nintendo quotes.txt",
+					"file": "/C/Users/David Sicong Zhou/Dropbox/cool",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 10138,
+						"buffer_size": 6539,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2593,
-								2593
+								6539,
+								6539
+							]
+						],
+						"settings":
+						{
+							"auto_name": "cool",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 150.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/David Sicong Zhou/Dropbox/this is the big japan checklist",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4655,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3933,
+								3933
+							]
+						],
+						"settings":
+						{
+							"auto_name": "this is the big japan checklist",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1164.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/nintendo quotes.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10712,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10712,
+								10712
 							]
 						],
 						"settings":
@@ -431,68 +500,10 @@
 							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 509.0,
+						"translation.y": 1034.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/poppy squareface",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 4082,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3533,
-								3533
-							]
-						],
-						"settings":
-						{
-							"auto_name": "poppy squareface",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 1770.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "/C/Users/David Sicong Zhou/Downloads/world_to_screen.cs",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2670,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1626,
-								1626
-							]
-						],
-						"settings":
-						{
-							"auto_name": "/// <summary>",
-							"syntax": "Packages/C#/C#.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
@@ -501,15 +512,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 10720,
+						"buffer_size": 30690,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								9926,
-								9926
+								29370,
+								29370
 							]
 						],
 						"settings":
@@ -518,48 +529,18 @@
 							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 4309.0,
+						"translation.y": 16049.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
 					"buffer": 5,
-					"file": "/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/splat online",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3420,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								650,
-								650
-							]
-						],
-						"settings":
-						{
-							"auto_name": "splat online",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 2089.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "/C/Users/David Sicong Zhou/sannaigames/jekyll-theme-basically-basic/example/_config.yml",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2477,
+						"buffer_size": 185,
 						"regions":
 						{
 						},
@@ -572,7 +553,95 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/YAML/YAML.sublime-syntax"
+							"auto_name": "this is sacred",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/Users/David Sicong Zhou/Dropbox/hey what are you doing in japan",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 528,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "hey what are you doing in japan",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/DESIGNMAKING",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4645,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4645,
+								4645
+							]
+						],
+						"settings":
+						{
+							"auto_name": "making designs",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 89.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/C/Users/David Sicong Zhou/Dropbox/here be dragson",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2071,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								321,
+								321
+							]
+						],
+						"settings":
+						{
+							"auto_name": "here be dragson",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -582,90 +651,60 @@
 					"type": "text"
 				},
 				{
-					"buffer": 7,
-					"file": "/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/david dreams of design",
+					"buffer": 9,
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 6444,
+						"buffer_size": 531,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								318,
-								318
+								531,
+								531
 							]
 						],
 						"settings":
 						{
-							"auto_name": "david dreams of design",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 240.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 8,
-					"file": "/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/Mickey's Ten Commandments",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2212,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1733,
-								1733
-							]
-						],
-						"settings":
-						{
-							"auto_name": "Mickey's Ten Commandments",
+							"auto_name": "graphics input audio etc",
 							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 8,
+					"stack_index": 4,
 					"type": "text"
 				},
 				{
-					"buffer": 9,
-					"file": "/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/your heart has spoken",
+					"buffer": 10,
+					"file": "/C/Users/David Sicong Zhou/Dropbox/[MAK GAM]/coding standard at epic games",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2272,
+						"buffer_size": 5736,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1825,
-								1825
+								3821,
+								3821
 							]
 						],
 						"settings":
 						{
-							"auto_name": "your heart has spoken",
+							"auto_name": "coding standard at epic games",
 							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 869.0,
+						"translation.y": 3601.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
