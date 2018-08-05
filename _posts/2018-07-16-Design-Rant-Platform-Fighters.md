@@ -115,4 +115,4 @@ Some items were created with the intention of creating chaos... if this is the c
 Finally, I never talked about combos. If attacks work together in a combo, it improves their value... but only for players who know how to combo attacks. 
 You should always know your target audience...
 
-<b>Have fun out there, wont ya?</b>
+<b>Have fun out there, won't ya?</b>

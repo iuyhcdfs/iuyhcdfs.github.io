@@ -26,20 +26,28 @@ Of course, the skills I learn are more important than supplanting existing game 
 Making these happen isn't a chore, but I have to make sure I don't forget them.
 
  - Having fun
+
+You might think having fun is difficult, but the secret is just finding your own rewards. 
+If you feel rewarded it means "you care about what you're working on".
+
  - Readable intuitive code and folders
- - Production code quality
- - Better intuition for making a game from start to finish
- - Better understanding of game engines
- - Better understanding of making games work in game engines
  
-The last point will require me to actually make games using my own engine. Exciting.
+I want the entire project to be easy for beginner programmers to understand too!
+You shouldn't feel like you're going through a maze of folders, and the file names should make sense.
+ 
+ - Production code quality
 
-You might think having fun is difficult, but the secret is just finding your own rewards.
+It is a skill I need to always be developing. You can't make a long term living off poor quality work.
 
-If you do it means "you care about what you're working on".
+ - Better understanding of game engines
+ - Better intuition for making a game from start to finish
 
-Will my optimism run dry? Or will I become the next Iwata? No harm in trying!
+This will require me to actually make games. Some causes of project failure can only be prevented by someone who intuitively know every process.
 
-Ahem, the code is at: https://github.com/iuyhcdfs/amaneshi
+<b>[Thats all for now]</b>
 
-<b>Have fun out there, wont ya?</b>
+Will my optimism run dry? Or will I become the next Iwata?
+
+I have to try at least.
+
+<b><a href="https://github.com/iuyhcdfs/amaneshi">Have fun out there, won't ya?</a></b>
