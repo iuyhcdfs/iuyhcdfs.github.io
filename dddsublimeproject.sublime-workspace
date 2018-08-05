@@ -28,6 +28,26 @@
 	"buffers":
 	[
 		{
+			"file": "/C/Users/David Sicong Zhou/Dropbox/here be dragson",
+			"settings":
+			{
+				"buffer_size": 4646,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "here be dragson"
+			}
+		},
+		{
+			"file": "/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/future",
+			"settings":
+			{
+				"buffer_size": 1212,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "future"
+			}
+		},
+		{
 			"file": "/C/Users/David Sicong Zhou/Dropbox/ok",
 			"settings":
 			{
@@ -38,30 +58,48 @@
 			}
 		},
 		{
-			"file": "/C/Users/David Sicong Zhou/Dropbox/cool",
-			"settings":
-			{
-				"buffer_size": 6539,
-				"encoding": "UTF-8",
-				"line_ending": "Windows",
-				"name": "cool"
-			}
-		},
-		{
 			"file": "/C/Users/David Sicong Zhou/Dropbox/this is the big japan checklist",
 			"settings":
 			{
-				"buffer_size": 4655,
+				"buffer_size": 4799,
 				"encoding": "UTF-8",
 				"line_ending": "Windows",
 				"name": "this is the big japan checklist"
 			}
 		},
 		{
+			"file": "_posts/2018-07-17-My-Tetris-Experience.md",
+			"settings":
+			{
+				"buffer_size": 715,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "unreal\n\nNaming Conventions\n\nThe first letter of each word in a name (e.g. type or variable) is capitalized, and there is usually no underscore between words. For example, Health and UPrimitiveComponent, but not lastMouseCoordinates or delta_coordinates.\n\nType names are prefixed with an additional upper-case letter to distinguish them from variable names. For example, FSkin is a type name, and Skin is an instance of a FSkin.\n\n    Template classes are prefixed by T.\n\n    Classes that inherit from UObject are prefixed by U.\n\n    Classes that inherit from AActor are prefixed by A.\n\n    Classes that inherit from SWidget are prefixed by S.\n\n    Classes that are abstract interfaces are prefixed by I.\n\n    Enums are prefixed by E.\n\n    Boolean variables must be prefixed by b (e.g. \"bPendingDestruction\", or \"bHasFadedIn\").\n\n    Most other classes are prefixed by F, though some subsystems use other letters.\n\nTypedefs should be prefixed by whatever is appropriate for that type: F if it's a typedef of a struct, U if it's a typedef of a UObject etc.\n\nA typedef of a particular template instantiation is no longer a template and should be prefixed accordingly, e.g.:\n\ntypedef TArray<FMyType> FArrayOfMyTypes;\n\nPrefixes are omitted in C#.\n\nUnrealHeaderTool requires the correct prefixes in most cases, so it's important to provide them.\n\nType and variable names are nouns.\n\nMethod names are verbs that describe the method's effect, or describe the return value of a method that has no effect.",
+			"settings":
+			{
+				"buffer_size": 1493,
+				"line_ending": "Windows",
+				"name": "unreal"
+			}
+		},
+		{
+			"file": "/C/Users/David Sicong Zhou/Dropbox/cool",
+			"settings":
+			{
+				"buffer_size": 10631,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "cool"
+			}
+		},
+		{
 			"file": "/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/nintendo quotes.txt",
 			"settings":
 			{
-				"buffer_size": 10712,
+				"buffer_size": 10781,
 				"encoding": "UTF-8",
 				"line_ending": "Windows",
 				"name": "Gunpei Yokoi"
@@ -71,67 +109,47 @@
 			"file": "/C/Users/David Sicong Zhou/Dropbox/00 jp/what did nintendo want",
 			"settings":
 			{
-				"buffer_size": 30690,
+				"buffer_size": 35346,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"contents": "this is sacred\n\nthat tells you how special these competitions are\n\nyou just lay it out and just leave it on the field or in the kitchen\nand let the winning or losing take care of itself",
+			"file": "/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/(」￣︿￣)」",
 			"settings":
 			{
-				"buffer_size": 185,
-				"line_ending": "Windows",
-				"name": "this is sacred"
-			}
-		},
-		{
-			"file": "/C/Users/David Sicong Zhou/Dropbox/hey what are you doing in japan",
-			"settings":
-			{
-				"buffer_size": 528,
+				"buffer_size": 2099,
 				"encoding": "UTF-8",
 				"line_ending": "Windows",
-				"name": "hey what are you doing in japan"
+				"name": "(」￣︿￣)」"
 			}
 		},
 		{
-			"file": "/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/DESIGNMAKING",
+			"file": "_data/cv.json",
 			"settings":
 			{
-				"buffer_size": 4645,
+				"buffer_size": 3064,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/David Sicong Zhou/sannaigames/multithreading.txt",
+			"settings":
+			{
+				"buffer_size": 1397,
 				"encoding": "UTF-8",
 				"line_ending": "Windows",
-				"name": "making designs"
+				"name": "a task is a small piece of independent code"
 			}
 		},
 		{
-			"file": "/C/Users/David Sicong Zhou/Dropbox/here be dragson",
+			"file": "/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/dining philosophers except you only see how full Y",
 			"settings":
 			{
-				"buffer_size": 2071,
+				"buffer_size": 393,
 				"encoding": "UTF-8",
-				"line_ending": "Windows",
-				"name": "here be dragson"
-			}
-		},
-		{
-			"contents": "graphics input audio etc\n\nthe ins and outs need specialist procedures\n\nbut you can still handle alot of the engine elsewhere\n\nwhat kind of functionality\nhow modular it is\nhow easily can you hot swap things anyway\n\nyou need to plan this out all properly\n\nkeep reminding yourself\nthat you don't actually have a knowledge gap\nyou dont actually have a knowledge gap now\nyou dont have a knowledge gap\nokay\n\nyou just research\nyou have the general idea of how everything works\nthere must be some reason\nsome logic behind the magic\nalways\n",
-			"settings":
-			{
-				"buffer_size": 531,
-				"line_ending": "Windows",
-				"name": "graphics input audio etc"
-			}
-		},
-		{
-			"file": "/C/Users/David Sicong Zhou/Dropbox/[MAK GAM]/coding standard at epic games",
-			"settings":
-			{
-				"buffer_size": 5736,
-				"encoding": "UTF-8",
-				"line_ending": "Windows",
-				"name": "coding standard at epic games"
+				"line_ending": "Windows"
 			}
 		}
 	],
@@ -172,10 +190,53 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/David Sicong Zhou/sannaigames/amaneshi"
+		"/C/Users/David Sicong Zhou/sannaigames/iuyhcdfs.github.io",
+		"/C/Users/David Sicong Zhou/sannaigames/iuyhcdfs.github.io/_data",
+		"/C/Users/David Sicong Zhou/sannaigames/iuyhcdfs.github.io/_posts",
+		"/C/Users/David Sicong Zhou/sannaigames/jobxx",
+		"/C/Users/David Sicong Zhou/sannaigames/jobxx/include",
+		"/C/Users/David Sicong Zhou/sannaigames/jobxx/include/jobxx",
+		"/C/Users/David Sicong Zhou/sannaigames/jobxx/include/jobxx/_detail",
+		"/C/Users/David Sicong Zhou/sannaigames/jobxx/source",
+		"/C/Users/David Sicong Zhou/UnrealEngine",
+		"/C/Users/David Sicong Zhou/UnrealEngine/Engine",
+		"/C/Users/David Sicong Zhou/UnrealEngine/Engine/Source",
+		"/C/Users/David Sicong Zhou/UnrealEngine/Engine/Source/Runtime",
+		"/C/Users/David Sicong Zhou/UnrealEngine/Engine/Source/Runtime/ApplicationCore",
+		"/C/Users/David Sicong Zhou/UnrealEngine/Engine/Source/Runtime/ApplicationCore/Private",
+		"/C/Users/David Sicong Zhou/UnrealEngine/Engine/Source/Runtime/ApplicationCore/Public",
+		"/C/Users/David Sicong Zhou/UnrealEngine/Engine/Source/Runtime/AutomationWorker",
+		"/C/Users/David Sicong Zhou/UnrealEngine/Engine/Source/Runtime/AutomationWorker/Private",
+		"/C/Users/David Sicong Zhou/UnrealEngine/Engine/Source/Runtime/AutomationWorker/Public",
+		"/C/Users/David Sicong Zhou/UnrealEngine/Engine/Source/Runtime/Core",
+		"/C/Users/David Sicong Zhou/UnrealEngine/Engine/Source/Runtime/Core/Public",
+		"/C/Users/David Sicong Zhou/UnrealEngine/Engine/Source/Runtime/Engine",
+		"/C/Users/David Sicong Zhou/UnrealEngine/Engine/Source/Runtime/Renderer",
+		"/C/Users/David Sicong Zhou/UnrealEngine/Engine/Source/Runtime/Renderer/Public"
 	],
 	"file_history":
 	[
+		"/C/Users/David Sicong Zhou/sannaigames/jobxx/include/jobxx/queue.h",
+		"/C/Users/David Sicong Zhou/Dropbox/[00] library/supermariobrosdisassembly.ASM",
+		"/C/Users/David Sicong Zhou/sannaigames/summary unreal engine gdc2014.txt",
+		"/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/dining philosophers except you only see how full Y",
+		"/C/Users/David Sicong Zhou/sannaigames/jobxx/include/jobxx/predicate.h",
+		"/C/Users/David Sicong Zhou/sannaigames/jobxx/CMakeSettings.json",
+		"/C/Users/David Sicong Zhou/sannaigames/jobxx/include/jobxx/park.h",
+		"/C/Users/David Sicong Zhou/sannaigames/jobxx/include/jobxx/delegate.h",
+		"/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/vocab topics",
+		"/C/Users/David Sicong Zhou/Dropbox/hey what are you doing in japan",
+		"/C/Users/David Sicong Zhou/sannaigames/amaneshi/README.md",
+		"/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/DESIGNMAKING",
+		"/C/Users/David Sicong Zhou/sannaigames/iuyhcdfs.github.io/_posts/2018-07-16-Design-Rant-Platform-Fighters.md",
+		"/C/Users/David Sicong Zhou/Dropbox/[MAK GAM]/coding standard at epic games",
+		"/C/Users/David Sicong Zhou/Dropbox/this is sacred",
+		"/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/why do people believe themselves so easily",
+		"/C/Users/David Sicong Zhou/sannaigames/iuyhcdfs.github.io/_posts/2018-05-24-being-annoyed-at-uncertainty-in-games.md",
+		"/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/platform fighters",
+		"/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/real platform fighters",
+		"/C/Users/David Sicong Zhou/sannaigames/iuyhcdfs.github.io/_posts/2018-07-17-awefawef.md",
+		"/C/Users/David Sicong Zhou/sannaigames/iuyhcdfs.github.io/_posts/2018-06-01-enjoying-randomness.md",
 		"/C/Users/David Sicong Zhou/Dropbox/[MAK GAM]/factorygen.h",
 		"/C/Users/David Sicong Zhou/Dropbox/[MAK GAM]/Derived.h",
 		"/C/Users/David Sicong Zhou/Dropbox/[MAK GAM]/Main.cpp",
@@ -210,7 +271,6 @@
 		"/C/Users/David Sicong Zhou/sannaigames/iuyhcdfs.github.io/index.md",
 		"/C/Users/David Sicong Zhou/sannaigames/iuyhcdfs.github.io/cv.md",
 		"/C/Users/David Sicong Zhou/sannaigames/iuyhcdfs.github.io/_posts/2018-05-22-lets-a-go.md",
-		"/C/Users/David Sicong Zhou/sannaigames/iuyhcdfs.github.io/_posts/2018-05-24-being-annoyed-at-uncertainty-in-games.md",
 		"/C/Users/David Sicong Zhou/sannaigames/jekyll-theme-basically-basic/example/_data/theme.yml",
 		"/C/Users/David Sicong Zhou/sannaigames/iuyhcdfs.github.io/_posts/2018-05-23-notes-nintendo-labo.md",
 		"/C/Users/David Sicong Zhou/sannaigames/iuyhcdfs.github.io/_layouts/post.html",
@@ -283,37 +343,19 @@
 		"/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/blog000007 difficulty gap in super smash bros.txt",
 		"/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/blog000001 trees.txt",
 		"/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/blog000005 winning and losing.txt",
-		"/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/blog000002 balconies and air vents.txt",
-		"/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/blog000003 young cousins opinions.txt",
-		"/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/blog000004 expert users and hotkeys.txt",
-		"/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/backawk retrospect",
-		"/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/blog000008 ranked ladders.txt",
-		"/C/Users/David Sicong Zhou/simplegamejs/README.md",
-		"/C/Users/David Sicong Zhou/simplegamejs/index.html",
-		"/C/Users/David Sicong Zhou/simplegamejs/js/1_balloon.js",
-		"/C/Users/David Sicong Zhou/simplegamejs/js/iu_control.js",
-		"/C/Users/David Sicong Zhou/simplegamejs/css/FullScreenCanvas.css",
-		"/C/Users/David Sicong Zhou/simplegamejs/js/main.js",
-		"/C/Users/David Sicong Zhou/Downloads/EaselJS-master/EaselJS-master/examples/SpriteSheet.html",
-		"/C/Users/David Sicong Zhou/simplegamejs/js/2_golf.js",
-		"/C/Users/David Sicong Zhou/simplegamejs/guide.txt",
-		"/C/Users/David Sicong Zhou/simplegamejs/LICENSE",
-		"/C/Users/David Sicong Zhou/simplegamejs/js/iu_plane.js",
-		"/C/Users/David Sicong Zhou/simplegamejs/style guide.txt",
-		"/C/Users/David Sicong Zhou/gastap/death-rock/Interlude1.js",
-		"/C/Users/David Sicong Zhou/gastap/death-rock/DeathRock.js",
-		"/C/Users/David Sicong Zhou/simplegamejs/css/fullscreencanvas.css",
-		"/C/Users/David Sicong Zhou/simplegamejs/css/canvas.css"
+		"/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/blog000002 balconies and air vents.txt"
 	],
 	"find":
 	{
-		"height": 28.0
+		"height": 29.0
 	},
 	"find_in_files":
 	{
 		"height": 107.0,
 		"where_history":
 		[
+			"C:\\Users\\David Sicong Zhou\\UnrealEngine",
+			"C:\\Users\\David Sicong Zhou\\sannaigames\\jobxx\\include",
 			""
 		]
 	},
@@ -322,6 +364,12 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"thread",
+			"thunk",
+			"impl",
+			"thunk",
+			"_assign",
+			"item",
 			"cross",
 			"wordpress",
 			"theme",
@@ -387,255 +435,24 @@
 	"groups":
 	[
 		{
-			"selected": 4,
+			"selected": 10,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/C/Users/David Sicong Zhou/Dropbox/ok",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1562,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								610,
-								610
-							]
-						],
-						"settings":
-						{
-							"auto_name": "ok",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/C/Users/David Sicong Zhou/Dropbox/cool",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 6539,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								6539,
-								6539
-							]
-						],
-						"settings":
-						{
-							"auto_name": "cool",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 150.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/C/Users/David Sicong Zhou/Dropbox/this is the big japan checklist",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 4655,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3933,
-								3933
-							]
-						],
-						"settings":
-						{
-							"auto_name": "this is the big japan checklist",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 1164.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/nintendo quotes.txt",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 10712,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								10712,
-								10712
-							]
-						],
-						"settings":
-						{
-							"auto_name": "Gunpei Yokoi",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 1034.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "/C/Users/David Sicong Zhou/Dropbox/00 jp/what did nintendo want",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 30690,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								29370,
-								29370
-							]
-						],
-						"settings":
-						{
-							"auto_name": "",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 16049.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 185,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"auto_name": "this is sacred",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 10,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "/C/Users/David Sicong Zhou/Dropbox/hey what are you doing in japan",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 528,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"auto_name": "hey what are you doing in japan",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 9,
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/DESIGNMAKING",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 4645,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								4645,
-								4645
-							]
-						],
-						"settings":
-						{
-							"auto_name": "making designs",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 89.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 8,
-					"type": "text"
-				},
-				{
-					"buffer": 8,
 					"file": "/C/Users/David Sicong Zhou/Dropbox/here be dragson",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2071,
+						"buffer_size": 4646,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								321,
-								321
+								352,
+								352
 							]
 						],
 						"settings":
@@ -647,28 +464,143 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 7,
+					"stack_index": 9,
 					"type": "text"
 				},
 				{
-					"buffer": 9,
+					"buffer": 1,
+					"file": "/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/future",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 531,
+						"buffer_size": 1212,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								531,
-								531
+								1047,
+								1047
 							]
 						],
 						"settings":
 						{
-							"auto_name": "graphics input audio etc",
+							"auto_name": "future",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/David Sicong Zhou/Dropbox/ok",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1562,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								977,
+								977
+							]
+						],
+						"settings":
+						{
+							"auto_name": "ok",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 530.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/David Sicong Zhou/Dropbox/this is the big japan checklist",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4799,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1981,
+								1981
+							]
+						],
+						"settings":
+						{
+							"auto_name": "this is the big japan checklist",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "_posts/2018-07-17-My-Tetris-Experience.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 715,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								587,
+								587
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 60.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1493,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1295,
+								1295
+							]
+						],
+						"settings":
+						{
+							"auto_name": "unreal",
 							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
@@ -679,32 +611,204 @@
 					"type": "text"
 				},
 				{
-					"buffer": 10,
-					"file": "/C/Users/David Sicong Zhou/Dropbox/[MAK GAM]/coding standard at epic games",
+					"buffer": 6,
+					"file": "/C/Users/David Sicong Zhou/Dropbox/cool",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 5736,
+						"buffer_size": 10631,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3821,
-								3821
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"auto_name": "coding standard at epic games",
+							"auto_name": "cool",
 							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 3601.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/nintendo quotes.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10781,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8894,
+								8894
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Gunpei Yokoi",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 4329.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/C/Users/David Sicong Zhou/Dropbox/00 jp/what did nintendo want",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 35346,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								85,
+								85
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/(」￣︿￣)」",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2099,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "(」￣︿￣)」",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "_data/cv.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3064,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								741,
+								741
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/C/Users/David Sicong Zhou/sannaigames/multithreading.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1397,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1197,
+								1197
+							]
+						],
+						"settings":
+						{
+							"auto_name": "a task is a small piece of independent code",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 80.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/dining philosophers except you only see how full Y",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 393,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								289,
+								289
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
 					"type": "text"
 				}
 			]
@@ -712,11 +816,11 @@
 	],
 	"incremental_find":
 	{
-		"height": 28.0
+		"height": 29.0
 	},
 	"input":
 	{
-		"height": 38.0
+		"height": 41.0
 	},
 	"layout":
 	{
@@ -749,7 +853,7 @@
 	"project": "dddsublimeproject.sublime-project",
 	"replace":
 	{
-		"height": 52.0
+		"height": 54.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -791,7 +895,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 202.0,
+	"side_bar_width": 307.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

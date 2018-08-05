@@ -28,6 +28,8 @@ Value comes from effectiveness. So what makes a move effective?
  - It's fast!
  - It knocks the enemy very far away!
  - If it hits an opponent's attack at the same time, it wins!
+ - It looks cool!
+ - It makes a cool sound effect!
     
 These help lets the player think:
 "I'm going to win by using these attacks!"
@@ -99,6 +101,8 @@ There even has been games where specific moves are required to score points... b
 Even when done well, some moves tend to be better than others.
 
 Somehow, if every attack is almost equally useful, while still being unique, new players won't be at too much of a disadvantage (accidentally using low value attacks), and experienced players have more tools worth using.
+
+
 
 <b>[Last thoughts]</b>
 

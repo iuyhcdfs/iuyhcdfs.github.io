@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "David Sicong Zhou",
-    "label": "Designer, Programmer",
+    "name": "~ This is a test resume ~",
+    "label": "Successor to Satoru Iwata",
     "picture": "",
     "email": "david.sicong.zhou@gmail.com",
     "phone": "",
     "website": "http://www.sannaigames.com",
-    "summary": "Makes ",
+    "summary": "",
     "location": {
-      "address": "123",
-      "postalCode": "456",
-      "city": "inkopolis",
-      "countryCode": "the ocean",
-      "region": "oceania"
+      "address": "???, ?????, ?????-ku",
+      "postalCode": "606-????",
+      "city": "kyoto",
+      "countryCode": "earth",
+      "region": "milky way"
     },
     "profiles": [
       {
@@ -22,18 +22,18 @@
       },
       {
         "network": "SoundCloud",
-        "username": "hm",
+        "username": "wait i dont make music",
         "url": ""
       }
     ]
   },
   "work": [
     {
-      "company": "test",
-      "position": "CEO/President",
+      "company": "n/a",
+      "position": "Software Engineer",
       "website": "http://www.sannaigames.com",
-      "startDate": "1992-10-30",
-      "endDate": "",
+      "startDate": "1992-04-01",
+      "endDate": "until now",
       "summary": "",
       "highlights": [
         "made a website",
@@ -59,12 +59,21 @@
       "institution": "University of New South Wales",
       "area": "Computer Science",
       "studyType": "Bachelor",
-      "startDate": "2010-06-01",
-      "endDate": "2017-01-01",
+      "startDate": "2011",
+      "endDate": "2017-01-24",
       "gpa": "great",
       "courses": [
-        "test0001 - necessary journeys of ethics and empathy",
-        ""
+        "Artificial Intelligence",
+        "Computer Networks",
+        "Computer Graphics",
+        "Human-Computer Interaction",
+        "Advanced Operating Systems",
+        "Advanced Algorithms and Programming Techniques",
+        "Engineering Design",
+        "Engineering Mechanics",
+        "Thermodynamics",
+        "Fluid Mechanics",
+        "Digital Circuit Design"
       ]
     }
   ],
@@ -82,7 +91,7 @@
       "publisher": "david sicong zhou",
       "releaseDate": "",
       "website": "http://www.sannaigames.com",
-      "summary": "test"
+      "summary": "this is still a test resume sorry"
     }
   ],
   "skills": [
@@ -90,13 +99,13 @@
       "name": "Listening to music",
       "level": "Three Michellin stars",
       "keywords": [
-        "Sultan Vinnie",
+        "Sultan Vinnie Playlist",
         "iuyhcdfs"
       ]
     },
     {
-      "name": "name",
-      "level": "level",
+      "name": "test name",
+      "level": "test level",
       "keywords": [
         "keywords",
         "keywords"
@@ -105,7 +114,7 @@
   ],
   "languages": [
     {
-      "language": "Whatever I want",
+      "language": "Whatever I need",
       "fluency": "Babelfish"
     }
   ],
