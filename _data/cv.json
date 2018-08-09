@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "~ This is a test resume ~",
-    "label": "Successor to Satoru Iwata",
+    "label": "this is a test label",
     "picture": "",
     "email": "david.sicong.zhou@gmail.com",
     "phone": "",
@@ -27,7 +27,7 @@
       }
     ]
   },
-  "work": [
+  "Profession": [
     {
       "company": "n/a",
       "position": "Software Engineer",
@@ -37,11 +37,13 @@
       "summary": "",
       "highlights": [
         "made a website",
-        "making dope game prototypes"
+        "made a blog",
+        "makes the best games",
+        "ALMOST MADE A RESUME",
       ]
     }
   ],
-  "volunteer": [
+  "Volunteering": [
     {
       "organization": "life",
       "position": "actor",
@@ -54,7 +56,7 @@
       ]
     }
   ],
-  "education": [
+  "Education": [
     {
       "institution": "University of New South Wales",
       "area": "Computer Science",

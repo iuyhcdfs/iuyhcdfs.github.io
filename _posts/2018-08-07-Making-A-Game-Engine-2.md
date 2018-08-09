@@ -56,13 +56,15 @@ What was I thinking? I wanted to try the idea of globals in a namespace compared
 
 I guess that just means I got sidetracked. But the conclusion is useful: Don't do that. For some things, theres a reason why you don't see it in other source code.
 
-I got some extreme deja vu typing this so I'm sure I'm on the right track.
+I got some extreme deja vu typing this so I'm sure I'm on the right track. Curiosity shouldn't override foresight.
 
 <b>[Issue 3: I want to try multithreading]</b>
 
 To deal with this, I have to make a task system. I did some research of course.
 
-Thanks to the modern c++ concurrency library, I'll be able to stress test my own code with and without splitting threads.
+Make a simple implementation of a task queue, and figure out how to arrange tasks for it.
+
+I'll see if it works or not later.
 
 I haven't read into how Unreal does this yet. Can't do everything at once.
 
