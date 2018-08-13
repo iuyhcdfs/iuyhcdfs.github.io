@@ -38,33 +38,6 @@
 			}
 		},
 		{
-			"file": "_posts/2018-08-08-Making-A-Game-Engine-3.md",
-			"settings":
-			{
-				"buffer_size": 2094,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "_data/cv.json",
-			"settings":
-			{
-				"buffer_size": 3146,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"contents": "shopping list\n\nthermals\nrunning shoes\nmaybe stuff in china depends\n\nask mom if we're shopping there",
-			"settings":
-			{
-				"buffer_size": 99,
-				"line_ending": "Windows",
-				"name": "shopping list"
-			}
-		},
-		{
 			"file": "/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/future",
 			"settings":
 			{
@@ -88,35 +61,17 @@
 			"file": "/C/Users/David Sicong Zhou/Dropbox/this is the big japan checklist",
 			"settings":
 			{
-				"buffer_size": 4799,
+				"buffer_size": 4298,
 				"encoding": "UTF-8",
 				"line_ending": "Windows",
 				"name": "this is the big japan checklist"
 			}
 		},
 		{
-			"contents": "there are five dangerous faults which may affect a general\n\n1 recklessness which leads to destruction\n2 cowardice which leads to capture\n3 a hasty temper which can be provoked by insults\n4 a delicacy of honour which is sensitive to shame\n5 over solicitude for his men which exposes him to worry and trouble\n\nthese are the five besetting sins of a general, ruinous to the conduct of war\n\nwhen an army is overthrown and its leader slain, \nthe cause will surely be found among these five dangerous faults. \nlet them be a subject of meditation",
-			"settings":
-			{
-				"buffer_size": 539,
-				"line_ending": "Windows",
-				"name": "there are five dangerous faults which may affect a"
-			}
-		},
-		{
-			"contents": "unreal\n\nNaming Conventions\n\nThe first letter of each word in a name (e.g. type or variable) is capitalized, and there is usually no underscore between words. For example, Health and UPrimitiveComponent, but not lastMouseCoordinates or delta_coordinates.\n\nType names are prefixed with an additional upper-case letter to distinguish them from variable names. For example, FSkin is a type name, and Skin is an instance of a FSkin.\n\n    Template classes are prefixed by T.\n\n    Classes that inherit from UObject are prefixed by U.\n\n    Classes that inherit from AActor are prefixed by A.\n\n    Classes that inherit from SWidget are prefixed by S.\n\n    Classes that are abstract interfaces are prefixed by I.\n\n    Enums are prefixed by E.\n\n    Boolean variables must be prefixed by b (e.g. \"bPendingDestruction\", or \"bHasFadedIn\").\n\n    Most other classes are prefixed by F, though some subsystems use other letters.\n\nTypedefs should be prefixed by whatever is appropriate for that type: F if it's a typedef of a struct, U if it's a typedef of a UObject etc.\n\nA typedef of a particular template instantiation is no longer a template and should be prefixed accordingly, e.g.:\n\ntypedef TArray<FMyType> FArrayOfMyTypes;\n\nPrefixes are omitted in C#.\n\nUnrealHeaderTool requires the correct prefixes in most cases, so it's important to provide them.\n\nType and variable names are nouns.\n\nMethod names are verbs that describe the method's effect, or describe the return value of a method that has no effect.",
-			"settings":
-			{
-				"buffer_size": 1493,
-				"line_ending": "Windows",
-				"name": "unreal"
-			}
-		},
-		{
 			"file": "/C/Users/David Sicong Zhou/Dropbox/cool",
 			"settings":
 			{
-				"buffer_size": 10631,
+				"buffer_size": 14112,
 				"encoding": "UTF-8",
 				"line_ending": "Windows",
 				"name": "cool"
@@ -136,7 +91,33 @@
 			"file": "/C/Users/David Sicong Zhou/Dropbox/00 jp/what did nintendo want",
 			"settings":
 			{
-				"buffer_size": 35697,
+				"buffer_size": 38128,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "_posts/2018-08-09-Making-A-Game-Engine-4.md",
+			"settings":
+			{
+				"buffer_size": 2175,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "_posts/2018-08-08-Making-A-Game-Engine-3.md",
+			"settings":
+			{
+				"buffer_size": 2094,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "_posts/2018-08-09-Making-A-Game-Engine-5.md",
+			"settings":
+			{
+				"buffer_size": 255,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -145,29 +126,10 @@
 			"file": "/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/(」￣︿￣)」",
 			"settings":
 			{
-				"buffer_size": 2099,
+				"buffer_size": 3174,
 				"encoding": "UTF-8",
 				"line_ending": "Windows",
 				"name": "(」￣︿￣)」"
-			}
-		},
-		{
-			"file": "/C/Users/David Sicong Zhou/sannaigames/multithreading.txt",
-			"settings":
-			{
-				"buffer_size": 1397,
-				"encoding": "UTF-8",
-				"line_ending": "Windows",
-				"name": "a task is a small piece of independent code"
-			}
-		},
-		{
-			"file": "/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/dining philosophers except you only see how full Y",
-			"settings":
-			{
-				"buffer_size": 393,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
 			}
 		}
 	],
@@ -214,15 +176,18 @@
 	],
 	"file_history":
 	[
-		"/C/Users/David Sicong Zhou/sannaigames/iuyhcdfs.github.io/_posts/2018-08-07-Making-A-Game-Engine-2.md",
-		"/C/Users/David Sicong Zhou/sannaigames/iuyhcdfs.github.io/_posts/2018-08-08-Making-A-Game-Engine-3.md",
+		"/C/Users/David Sicong Zhou/sannaigames/multithreading.txt",
+		"/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/dining philosophers except you only see how full Y",
+		"/C/Users/David Sicong Zhou/sannaigames/iuyhcdfs.github.io/_data/cv.json",
 		"/C/Users/David Sicong Zhou/sannaigames/iuyhcdfs.github.io/index.html",
+		"/C/Users/David Sicong Zhou/sannaigames/iuyhcdfs.github.io/_posts/2018-08-09-Making-A-Game-Engine-4.md",
+		"/C/Users/David Sicong Zhou/sannaigames/iuyhcdfs.github.io/_posts/2018-08-08-Making-A-Game-Engine-3.md",
+		"/C/Users/David Sicong Zhou/sannaigames/iuyhcdfs.github.io/_posts/2018-08-07-Making-A-Game-Engine-2.md",
 		"/C/Users/David Sicong Zhou/sannaigames/iuyhcdfs.github.io/_posts/2018-08-07-Making-A-Game-Engine-3.md",
 		"/C/Users/David Sicong Zhou/sannaigames/iuyhcdfs.github.io/_posts/2018-08-04-Making-A-Game-Engine-1.md",
 		"/C/Users/David Sicong Zhou/sannaigames/iuyhcdfs.github.io/_drafts/2017-12-26-0-a-game-jam-reflection.md",
 		"/C/Users/David Sicong Zhou/sannaigames/iuyhcdfs.github.io/_posts/2018-08-04-Engine-Planning.md",
 		"/C/Users/David Sicong Zhou/sannaigames/iuyhcdfs.github.io/_posts/2018-07-16-Design-Rant-Platform-Fighters.md",
-		"/C/Users/David Sicong Zhou/sannaigames/iuyhcdfs.github.io/_data/cv.json",
 		"/C/Users/David Sicong Zhou/sannaigames/iuyhcdfs.github.io/_config.yml",
 		"/C/Users/David Sicong Zhou/sannaigames/iuyhcdfs.github.io/_posts/2018-08-01-My-Tetris-Experience.md",
 		"/C/Users/David Sicong Zhou/sannaigames/amaneshi/amaneshi.vcxproj",
@@ -234,7 +199,6 @@
 		"/C/Users/David Sicong Zhou/sannaigames/jobxx/include/jobxx/queue.h",
 		"/C/Users/David Sicong Zhou/Dropbox/[00] library/supermariobrosdisassembly.ASM",
 		"/C/Users/David Sicong Zhou/sannaigames/summary unreal engine gdc2014.txt",
-		"/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/dining philosophers except you only see how full Y",
 		"/C/Users/David Sicong Zhou/sannaigames/jobxx/include/jobxx/predicate.h",
 		"/C/Users/David Sicong Zhou/sannaigames/jobxx/CMakeSettings.json",
 		"/C/Users/David Sicong Zhou/sannaigames/jobxx/include/jobxx/park.h",
@@ -339,9 +303,7 @@
 		"/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/getting to nintendo",
 		"/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/the path forward",
 		"/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/snowyboard",
-		"/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/idea000007 LIGHTSPEED racer feb03 2018.txt",
-		"/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/idea000006 TILTturn thu jan18 2018.txt",
-		"/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/idea000004 tue jan09 2018.txt"
+		"/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/idea000007 LIGHTSPEED racer feb03 2018.txt"
 	],
 	"find":
 	{
@@ -436,7 +398,7 @@
 	"groups":
 	[
 		{
-			"selected": 7,
+			"selected": 6,
 			"sheets":
 			[
 				{
@@ -452,8 +414,8 @@
 						"selection":
 						[
 							[
-								1076,
-								1076
+								0,
+								0
 							]
 						],
 						"settings":
@@ -462,16 +424,218 @@
 							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 80.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 8,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "_posts/2018-08-08-Making-A-Game-Engine-3.md",
+					"file": "/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/future",
 					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1212,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1026,
+								1026
+							]
+						],
+						"settings":
+						{
+							"auto_name": "future",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/David Sicong Zhou/Dropbox/ok",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1562,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1562,
+								1562
+							]
+						],
+						"settings":
+						{
+							"auto_name": "ok",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 530.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/David Sicong Zhou/Dropbox/this is the big japan checklist",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4298,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								112,
+								112
+							]
+						],
+						"settings":
+						{
+							"auto_name": "this is the big japan checklist",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/Users/David Sicong Zhou/Dropbox/cool",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14112,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								14112,
+								14112
+							]
+						],
+						"settings":
+						{
+							"auto_name": "cool",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 7429.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/nintendo quotes.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11082,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1811,
+								1811
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Gunpei Yokoi",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/Users/David Sicong Zhou/Dropbox/00 jp/what did nintendo want",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 38128,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								38128,
+								38128
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 21489.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "_posts/2018-08-09-Making-A-Game-Engine-4.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2175,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								91,
+								91
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "_posts/2018-08-08-Making-A-Game-Engine-3.md",
+					"semi_transient": true,
 					"settings":
 					{
 						"buffer_size": 2094,
@@ -481,8 +645,36 @@
 						"selection":
 						[
 							[
-								835,
-								835
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "_posts/2018-08-09-Making-A-Game-Engine-5.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 255,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								255,
+								255
 							]
 						],
 						"settings":
@@ -497,306 +689,20 @@
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "_data/cv.json",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3146,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1310,
-								1310
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 1269.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 99,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								99,
-								99
-							]
-						],
-						"settings":
-						{
-							"auto_name": "shopping list",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 9,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/future",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1212,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1047,
-								1047
-							]
-						],
-						"settings":
-						{
-							"auto_name": "future",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 13,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "/C/Users/David Sicong Zhou/Dropbox/ok",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1562,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								977,
-								977
-							]
-						],
-						"settings":
-						{
-							"auto_name": "ok",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 210.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 12,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "/C/Users/David Sicong Zhou/Dropbox/this is the big japan checklist",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 4799,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1981,
-								1981
-							]
-						],
-						"settings":
-						{
-							"auto_name": "this is the big japan checklist",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 8,
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 539,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								539,
-								539
-							]
-						],
-						"settings":
-						{
-							"auto_name": "there are five dangerous faults which may affect a",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 8,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1493,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								733,
-								733
-							]
-						],
-						"settings":
-						{
-							"auto_name": "unreal",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
-					"type": "text"
-				},
-				{
-					"buffer": 9,
-					"file": "/C/Users/David Sicong Zhou/Dropbox/cool",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 10631,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"auto_name": "cool",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 11,
-					"type": "text"
-				},
-				{
 					"buffer": 10,
-					"file": "/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/nintendo quotes.txt",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 11082,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								11082,
-								11082
-							]
-						],
-						"settings":
-						{
-							"auto_name": "Gunpei Yokoi",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 4714.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 11,
-					"file": "/C/Users/David Sicong Zhou/Dropbox/00 jp/what did nintendo want",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 35697,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								35690,
-								35690
-							]
-						],
-						"settings":
-						{
-							"auto_name": "",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 20009.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 12,
 					"file": "/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/(」￣︿￣)」",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2099,
+						"buffer_size": 3174,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								375,
+								375
 							]
 						],
 						"settings":
@@ -808,64 +714,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 13,
-					"file": "/C/Users/David Sicong Zhou/sannaigames/multithreading.txt",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1397,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1197,
-								1197
-							]
-						],
-						"settings":
-						{
-							"auto_name": "a task is a small piece of independent code",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 80.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 14,
-					"type": "text"
-				},
-				{
-					"buffer": 14,
-					"file": "/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/dining philosophers except you only see how full Y",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 393,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								289,
-								289
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 10,
+					"stack_index": 9,
 					"type": "text"
 				}
 			]

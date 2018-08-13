@@ -4,7 +4,7 @@ categories:
   - Blog
 ---
 
-Game engine dev log part 3: Generalising Graphics.
+Game engine dev log part 4: Generalising Graphics.
 
 Tutorial code is great... but if you want to make an engine the code has to handle more than a triangle.
 
