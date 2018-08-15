@@ -87,4 +87,5 @@ Good thing I laid out my thoughts here, sometimes you start thinking you're wast
 
 Time isn't being wasted here at least. Until next time,
 
+
 <b><a href="https://github.com/iuyhcdfs/amaneshi">Have fun out there, won't ya?</a></b>

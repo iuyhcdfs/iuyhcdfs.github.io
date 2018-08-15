@@ -50,4 +50,5 @@ Will my optimism run dry? Or will I become the next Iwata?
 
 I have to try at least.
 
+
 <b><a href="https://github.com/iuyhcdfs/amaneshi">Have fun out there, won't ya?</a></b>

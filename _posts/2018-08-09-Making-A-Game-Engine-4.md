@@ -26,4 +26,5 @@ Speaking of shaders theres a funny way to include shaders into code with a... ch
 
 I already took care of input. Abstracting input was just providing another layer of enums. However, once I bring input and graphics together, I can start seeing how to make a multithreaded game run. The short answer is: Task Queues. What could go wrong? I'm looking forward to it!
 
+
 <b><a href="https://github.com/iuyhcdfs/amaneshi">Have fun out there, won't ya?</a></b>
