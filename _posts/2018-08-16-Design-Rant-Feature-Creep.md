@@ -68,13 +68,15 @@ You're allowed to break expectations in a sequel. You're allowed to add new feat
 
 The important thing is you keep the identity of the original game intact. You can't CHOOSE what the core identity is, and it's almost always the most significant component of the game.
 
-Bad example: Banjo Kazooie Nuts & Bolts, a driving game where you build your own vehicle. Doomed to failure since the previous two games with it's namesake were successful 3D platformers.
+Bad example: Banjo Kazooie Nuts & Bolts, a driving game where you build your own vehicle. Doomed to failure since the previous two games with its namesake were successful 3D platformers.
 
 Good example: Team Fortress 2, the only required feature was "having playable classes with roles", but had completely overhauled visuals and weapons were simpler (i.e. weapons were removed and nobody was upset).
 
-Some players also might just not touch a sequel, if they think they've had enough of the experience the original game offered.
+Some players also might just not touch a sequel, if they think they've had enough of the experience the previous game offered.
 
-In that case, its up to us to produce truly original creations that give meaningful experiences.
+In that case it's up to us to produce an entirely original work, that barely contains whatever elements are necessary for fans to identify it in the same series.
+
+Good example: Breath of the wild, which actually... "reconstructed" many of the Zelda series' conventions for the capabilities of modern hardware. (only characters, puzzles and weapons remain, everything else is new)
 
 <b>[Closing]</b>
 
@@ -91,6 +93,8 @@ What leaves people happy? It's going to be hard to make them happy if they're bu
 I guess, just keep your mind open and once you've figured it out, remember what your game is supposed to be.
 
 You want players to expect great things from you. I like this simple way of thinking.
+
+
 
 
 <b>Have fun out there, won't ya?</b>
