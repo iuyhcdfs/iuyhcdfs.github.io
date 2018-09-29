@@ -81,9 +81,28 @@
 			"file": "/C/Users/David Sicong Zhou/Dropbox/00 jp/what did nintendo want",
 			"settings":
 			{
-				"buffer_size": 49194,
+				"buffer_size": 50280,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/David Sicong Zhou/Dropbox/00 GREATEST ADVENTURE/0 worlds greatest adventure",
+			"settings":
+			{
+				"buffer_size": 744,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/wangzherongyao",
+			"settings":
+			{
+				"buffer_size": 1099,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "wangzherongyao"
 			}
 		},
 		{
@@ -100,19 +119,66 @@
 			"file": "/C/Users/David Sicong Zhou/Dropbox/00 jp/SUDDENWORDS",
 			"settings":
 			{
-				"buffer_size": 14423,
+				"buffer_size": 22765,
 				"encoding": "UTF-8",
 				"line_ending": "Windows",
 				"name": "SUDDENWORDS"
 			}
 		},
 		{
-			"file": "_posts/2018-08-22-Making-A-Game-Engine-8.md",
+			"file": "/C/Users/David Sicong Zhou/Dropbox/00 GREATEST ADVENTURE/whats a game you can join other players and leave",
 			"settings":
 			{
-				"buffer_size": 1967,
+				"buffer_size": 620,
 				"encoding": "UTF-8",
-				"line_ending": "Windows"
+				"line_ending": "Windows",
+				"name": "whats a game you can join other players and leave"
+			}
+		},
+		{
+			"contents": "guess\n\nwell \n\nfirst of all we have to be doing bucket sort right\n\nand we have to use like whatever threads\n\nso we cant assumed number of threads for a unique strat\nnor is that a good idea\n\nhow can we best divide all these tasks\n\ni think the main idea is the comparison\nbut can the functions also be split???\n\ncan ya multithread the division of a number hrrrm tho\nwe are going to just make a thread go off and compare a thing thats first\n\nbut then we need to see hmmm\n\nthe different ways we can split\n\nmore looking at it ukno\n\nresize array\nfor given indees\n\nget digits in the position\nradix emplace back\n\nso uhh\nwe get the number of digits\nwe are making buckets for digits in each thing\n\nokay\n\nthen auto j  0\n\nwhat\nok\n\neach i in radix array\nso youre goong get each vector\n\neach k of each vector\n\nnumbers to sort thing is k\ncause we already did it\nand the comparison for this shit was already done in emplace back correct?\n\nright?\nright???\n\nwell\n we can only assume that for now\n radix array is cleared for some reason\n probably to do something good memorywisewho knows\n or because thats how its marked\n \n get max\n get largest digit number for the array\n \n bad name\n \n get total digits\n 1,\n while its what\n given a number get its digits\n dunno if its even used anymore\n \n \n get degits in pos\n \n so we have num, pos, maxpos\n \n huh\n \n temp is 1\n \n pos will be max pos minus digits of num\n if pos < 1\n blegh\n  this only happens if max pos - total digits is larger than pos\n  \njwefoiajwef\n\nso total digits of num is something\nmax pos something\nif pos is out of range perhaps\n\ntemp multiplied by pow\n\nreturn the num/temp % 10 what\nso return this number.. the whole number,\nand then divide by the position's digits\n\n\nsort\n\nthread array\nstep is divide numbers to sort size by core num\n\nfloor to be make sure we dont overshoot core num batches basicalyl?\nno\nthe floor means batches are smaller\nthere might be leftovers right?\n\nso you have 15 things and 4 cores\n\n15 / 4 floored is 3.\nfour groups of three?\n\nwhat\n\nfor i, i < corenum\n\nso anyway\n\nemplace back is just\nnice put in back prob\n\nwait the thread itself\n\nyou might need to learn threading library here\n\nso thread_sort function adress\nTHIS, so what, is THIS the thread\nthis function\nno\n\nthis object obviously\n\ns perhaps a context\n\nthread sort only takes\noffset\nvector len\n\nstep is how big chunk divider\ni guess\n\nstart + step is how far\nadvance start by step\n\nthen do the rest for the last one\n\njoin each thread aka just wait em sequentially youl lget through\n\n\nthen merge them all\n\nemplace uses constructor shit\nso you create the object AT the next location\n\nrather than create and pass\n\nvector of presidents\npresident is some struct\nemplace back\nargs\ncorrect args for a constructor\nbasically you match a constructor\ncompiler THanksYou\n\ntwo strings and an int\nbam\nits in\n\nyou can emplace threads too then\nwoo hoo!\n\nyouve looked at thread sort already\n\n\n",
+			"settings":
+			{
+				"buffer_size": 2898,
+				"line_ending": "Windows",
+				"name": "guess"
+			}
+		},
+		{
+			"contents": "lets make sense of 2016 comp6771 ass5\n\nsomebody got perfect marks\n\nbool aLessB \ntakes 2 unsigned int a and b or x and y no reason\n\na smaller number obviously is less\n\nwe are radixing right\n\nthen a loop\nextract largest \n\n\nbucket sort class\n\npublic stuff obvious\n\nbonus funcs\nvoid sort with offset and length of vector\n    sorts part of vector it seems\ninline int get total digits \n    to thread the digit count\ninline int get digits in pos\n    number pos some int&wut\n    getting the digit(s?) in a position\n    more than one???\n    we'll find out\ninline void merg_all\n    total thread, steps\n    merge all the whats\n    probably join the threads \n    because we split, recombine for next phase\n    \n\nso some funciton by itself\n\nif less than less\n\nuhh\n\noh wait\nwe arent returning yet\nbut we are doing tru initially as a flag\n\nso if we cant sort out the radix\n\nthen yeah? smaller is 2nd preference\n\nyes\n\nwhile thing\n\ndivide add digit count\nreduce everything to first\n\nstatic cast overflow dodge\n\nif difference in digits....\n\noriginal number is multiplied by 10 to power of difference in digits\n\nwhy multiply by 10 to power of DIFFERENCE\n\nwell because we are simply evening the things\nlook at how its multiplying the smaller one\n\nthen we can compare\n\nwait so\n\nwhen you take the one with the most digits\nah ha\nthats how we compare the most digits\nby straight up doing the numbers\nrather than at each level\n\ntrue until proven false right\n\nif x_l == y_l \nand theyre matched in pow10\nif they are the same it can make it true\n\nso if the numbers were different\nwhats all the cases\n\nso you have two numbers\nx = 999999\nand y = 999\n\nok\ndivide\n\nx and y have 6 and 3 digits\n\nthe static cast to a long long whateve\n\nif x has more digits\nthen y is multiplied by diff\nthey match\n\nx = 999999\ny = 999000\n\n900000\nand 999\nwould create\n900000\nand 999000\n\nso you would have x > y\nbut after, xl < yl\n\ntherefore we set the flag first.\n\nif xl equals yl\nfor example\n\n9000\n90\n\nas in they are equal radix\nfirst do the original values.\n\notherwise\n\nthe final x_l < y_l compares radix\n\n\nlets look at thread_sort\nwith a size_t start and end\n\nsort element from start index to end index\n\nso numbers size if its only 1 or 0\nwhatever\n\notherwise 2d vector, radix array\n\nmax digits, \n\ngetmax.second what is that a function\nyes\n\nso pair\n\nget max\n\nmax num is use standlard library\nof numbers to sort\n\nmake a pair of max and it's digits\nhuh\n\nso second, digits of the largest\n\noh we just, wanted to know what we're dealing with\n\nso for each position\nwhere position means number of digits\nresize the radix array?\nwe had one?\nokay\njust size and type okay\nfair\n\nwhy 11\nmaybe some spec\n\ni start to end\nnum get digits in pos\nemplace back to radix array\noo\n",
+			"settings":
+			{
+				"buffer_size": 2708,
+				"line_ending": "Windows",
+				"name": "lets make sense of 2016 comp6771 ass5"
+			}
+		},
+		{
+			"contents": "survival\n\nfood and drink\n    cooking\n    earthquake supply\nbeing clean\n    laundry\n    dishes\n    garbage\n    body\n\n    ",
+			"settings":
+			{
+				"buffer_size": 120,
+				"line_ending": "Windows",
+				"name": "survival"
+			}
+		},
+		{
+			"file": "/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/stealth slime",
+			"settings":
+			{
+				"buffer_size": 513,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "stealth slime"
+			}
+		},
+		{
+			"contents": "rockdale 2216\nkyoto sakyoku matsuya\nultimo 2007",
+			"settings":
+			{
+				"buffer_size": 47,
+				"line_ending": "Windows",
+				"name": "rockdale 2216"
 			}
 		},
 		{
@@ -123,6 +189,24 @@
 				"encoding": "UTF-8",
 				"line_ending": "Windows",
 				"name": "(」￣︿￣)」"
+			}
+		},
+		{
+			"contents": "人事部長様、 恐れ入りますが、このEメールに添付された履歴書にお目通し頂けますでしょうか。お忙しいとは存じますが、よろしくお願い申し上げます。\n\nDear hiring manager, please have a look at the resume attached to this email. Thank you for your time.\n\n",
+			"settings":
+			{
+				"buffer_size": 177,
+				"line_ending": "Windows",
+				"name": "人事部長様、 恐れ入りますが、このEメールに添付された履歴書にお目通し頂けますでしょうか。お忙しいと"
+			}
+		},
+		{
+			"contents": "//---------------------------------------------------------------------------\nconst int na=36;        // vertex grid size\nconst int nb=18;\nconst int na3=na*3;     // line in grid size\nconst int nn=nb*na3;    // whole grid size\nGLfloat sphere_pos[nn]; // vertex\nGLfloat sphere_nor[nn]; // normal\n//GLfloat sphere_col[nn];   // color\nGLuint  sphere_ix [na*(nb-1)*6];    // indices\nGLuint sphere_vbo[4]={-1,-1,-1,-1};\nGLuint sphere_vao[4]={-1,-1,-1,-1};\n\nvoid sphere_init()\n    {\n    // generate the sphere data\n    GLfloat x,y,z,a,b,da,db,r=3.5;\n    int ia,ib,ix,iy;\n    da=2.0*M_PI/GLfloat(na);\n    db=    M_PI/GLfloat(nb-1);\n    // [Generate sphere point data]\n    // spherical angles a,b covering whole sphere surface\n    for (ix=0,b=-0.5*M_PI,ib=0;ib<nb;ib++,b+=db)\n     for (a=0.0,ia=0;ia<na;ia++,a+=da,ix+=3)\n        {\n        // unit sphere\n        x=cos(b)*cos(a);\n        y=cos(b)*sin(a);\n        z=sin(b);\n        sphere_pos[ix+0]=x*r;\n        sphere_pos[ix+1]=y*r;\n        sphere_pos[ix+2]=z*r;\n        sphere_nor[ix+0]=x;\n        sphere_nor[ix+1]=y;\n        sphere_nor[ix+2]=z;\n        }\n    // [Generate GL_TRIANGLE indices]\n    for (ix=0,iy=0,ib=1;ib<nb;ib++)\n        {\n        for (ia=1;ia<na;ia++,iy++)\n            {\n            // first half of QUAD\n            sphere_ix[ix]=iy;      ix++;\n            sphere_ix[ix]=iy+1;    ix++;\n            sphere_ix[ix]=iy+na;   ix++;\n            // second half of QUAD\n            sphere_ix[ix]=iy+na;   ix++;\n            sphere_ix[ix]=iy+1;    ix++;\n            sphere_ix[ix]=iy+na+1; ix++;\n            }\n        // first half of QUAD\n        sphere_ix[ix]=iy;       ix++;\n        sphere_ix[ix]=iy+1-na;  ix++;\n        sphere_ix[ix]=iy+na;    ix++;\n        // second half of QUAD\n        sphere_ix[ix]=iy+na;    ix++;\n        sphere_ix[ix]=iy-na+1;  ix++;\n        sphere_ix[ix]=iy+1;     ix++;\n        iy++;\n        }\n    // [VAO/VBO stuff]\n    GLuint i;\n    glGenVertexArrays(4,sphere_vao);\n    glGenBuffers(4,sphere_vbo);\n    glBindVertexArray(sphere_vao[0]);\n    i=0; // vertex\n    glBindBuffer(GL_ARRAY_BUFFER,sphere_vbo[i]);\n    glBufferData(GL_ARRAY_BUFFER,sizeof(sphere_pos),sphere_pos,GL_STATIC_DRAW);\n    glEnableVertexAttribArray(i);\n    glVertexAttribPointer(i,3,GL_FLOAT,GL_FALSE,0,0);\n    i=1; // indices\n    glBindBuffer(GL_ELEMENT_ARRAY_BUFFER,sphere_vbo[i]);\n    glBufferData(GL_ELEMENT_ARRAY_BUFFER,sizeof(sphere_ix),sphere_ix,GL_STATIC_DRAW);\n    glEnableVertexAttribArray(i);\n    glVertexAttribPointer(i,4,GL_UNSIGNED_INT,GL_FALSE,0,0);\n    i=2; // normal\n    glBindBuffer(GL_ARRAY_BUFFER,sphere_vbo[i]);\n    glBufferData(GL_ARRAY_BUFFER,sizeof(sphere_nor),sphere_nor,GL_STATIC_DRAW);\n    glEnableVertexAttribArray(i);\n    glVertexAttribPointer(i,3,GL_FLOAT,GL_FALSE,0,0);\n/*\n    i=3; // color\n    glBindBuffer(GL_ARRAY_BUFFER,sphere_vbo[i]);\n    glBufferData(GL_ARRAY_BUFFER,sizeof(sphere_col),sphere_col,GL_STATIC_DRAW);\n    glEnableVertexAttribArray(i);\n    glVertexAttribPointer(i,3,GL_FLOAT,GL_FALSE,0,0);\n*/\n    glBindVertexArray(0);\n    glBindBuffer(GL_ARRAY_BUFFER,0);\n    glBindBuffer(GL_ELEMENT_ARRAY_BUFFER,0);\n    glDisableVertexAttribArray(0);\n    glDisableVertexAttribArray(1);\n    glDisableVertexAttribArray(2);\n    glDisableVertexAttribArray(3);\n    }\nvoid sphere_exit()\n    {\n    glDeleteVertexArrays(4,sphere_vao);\n    glDeleteBuffers(4,sphere_vbo);\n    }\nvoid sphere_draw()\n    {\n    glEnable(GL_CULL_FACE);\n    glFrontFace(GL_CCW);\n    glEnable(GL_LIGHTING);\n    glEnable(GL_LIGHT0);\n\n    glBindVertexArray(sphere_vao[0]);\n//  glDrawArrays(GL_POINTS,0,sizeof(sphere_pos)/sizeof(GLfloat));                   // POINTS ... no indices for debug\n    glDrawElements(GL_TRIANGLES,sizeof(sphere_ix)/sizeof(GLuint),GL_UNSIGNED_INT,0);    // indices (choose just one line not both !!!)\n    glBindVertexArray(0);\n    }\n\nvoid gl_draw()\n    {\n    glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);\n\n    float aspect=float(xs)/float(ys);\n    glMatrixMode(GL_PROJECTION);\n    glLoadIdentity();\n    gluPerspective(60.0/aspect,aspect,0.1,100.0);\n    glMatrixMode(GL_TEXTURE);\n    glLoadIdentity();\n    glMatrixMode(GL_MODELVIEW);\n    glLoadIdentity();\n    glTranslatef(0.0,0.0,-10.0);\n\n    glEnable(GL_DEPTH_TEST);\n    glDisable(GL_TEXTURE_2D);\n    sphere_draw();\n\n    glFlush();\n    SwapBuffers(hdc);\n    }\n//---------------------------------------------------------------------------",
+			"settings":
+			{
+				"buffer_size": 4364,
+				"line_ending": "Windows",
+				"name": "//------------------------------------------------"
 			}
 		}
 	],
@@ -165,11 +249,18 @@
 	[
 		"/C/Users/David Sicong Zhou/sannaigames/iuyhcdfs.github.io",
 		"/C/Users/David Sicong Zhou/sannaigames/iuyhcdfs.github.io/_data",
-		"/C/Users/David Sicong Zhou/sannaigames/iuyhcdfs.github.io/_posts"
+		"/C/Users/David Sicong Zhou/sannaigames/iuyhcdfs.github.io/_posts",
+		"/C/Users/David Sicong Zhou/sannaigames/WebGLTutorials/webgl-quickstart"
 	],
 	"file_history":
 	[
+		"/C/Users/David Sicong Zhou/Dropbox/00 GREATEST ADVENTURE/STUDY 2017s2 unsw c++/00 Summary comp6771",
+		"/C/Users/David Sicong Zhou/Dropbox/00 GREATEST ADVENTURE/STUDY 2017s2 unsw c++/exam type b.cpp",
+		"/C/Users/David Sicong Zhou/Dropbox/00 GREATEST ADVENTURE/good parts of blue ocean strategy",
+		"/C/Users/David Sicong Zhou/sannaigames/iuyhcdfs.github.io/_posts/2018-08-26-Making-A-Game-Engine-9.md",
 		"/C/Users/David Sicong Zhou/sannaigames/iuyhcdfs.github.io/_posts/2018-08-20-Fresh-Notes-System-Shock-2.md",
+		"/C/Users/David Sicong Zhou/sannaigames/iuyhcdfs.github.io/_posts/2018-06-01-enjoying-randomness.md",
+		"/C/Users/David Sicong Zhou/sannaigames/iuyhcdfs.github.io/_posts/2018-08-22-Making-A-Game-Engine-8.md",
 		"/C/Users/David Sicong Zhou/Dropbox/[[00 Engineering]]/rbtree",
 		"/C/Users/David Sicong Zhou/Dropbox/00 jp/jp mobile",
 		"/C/Users/David Sicong Zhou/sannaigames/iuyhcdfs.github.io/_posts/2018-08-15-Making-A-Game-Engine-7.md",
@@ -215,7 +306,6 @@
 		"/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/platform fighters",
 		"/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/real platform fighters",
 		"/C/Users/David Sicong Zhou/sannaigames/iuyhcdfs.github.io/_posts/2018-07-17-awefawef.md",
-		"/C/Users/David Sicong Zhou/sannaigames/iuyhcdfs.github.io/_posts/2018-06-01-enjoying-randomness.md",
 		"/C/Users/David Sicong Zhou/Dropbox/[MAK GAM]/factorygen.h",
 		"/C/Users/David Sicong Zhou/Dropbox/[MAK GAM]/Derived.h",
 		"/C/Users/David Sicong Zhou/Dropbox/[MAK GAM]/Main.cpp",
@@ -291,16 +381,11 @@
 		"/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/idea000010 iron boots feb10 2018.txt",
 		"/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/idea000014 sonic but good mar3 2018.txt",
 		"/C/Users/David Sicong Zhou/Dropbox/[00] shigoto/questions for ezymath",
-		"/C/Users/David Sicong Zhou/Dropbox/[00] shigoto/as a tutor",
-		"/C/Users/David Sicong Zhou/Dropbox/tutor becoming guide",
-		"/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/idea000009 not minecraft feb10 2018.txt",
-		"/C/Users/David Sicong Zhou/Dropbox/go by what you want",
-		"/C/Users/David Sicong Zhou/Dropbox/new zealand checklist",
-		"/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/dokusou sensei/economy and financial literacy.txt"
+		"/C/Users/David Sicong Zhou/Dropbox/[00] shigoto/as a tutor"
 	],
 	"find":
 	{
-		"height": 48.0
+		"height": 36.0
 	},
 	"find_in_files":
 	{
@@ -317,6 +402,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"main",
 			"depend",
 			"music",
 			"person",
@@ -397,7 +483,7 @@
 	"groups":
 	[
 		{
-			"selected": 7,
+			"selected": 10,
 			"sheets":
 			[
 				{
@@ -413,8 +499,8 @@
 						"selection":
 						[
 							[
-								254,
-								254
+								255,
+								255
 							]
 						],
 						"settings":
@@ -423,10 +509,10 @@
 							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 189.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 6,
 					"type": "text"
 				},
 				{
@@ -442,8 +528,8 @@
 						"selection":
 						[
 							[
-								435,
-								435
+								334,
+								334
 							]
 						],
 						"settings":
@@ -471,8 +557,8 @@
 						"selection":
 						[
 							[
-								0,
-								0
+								148,
+								148
 							]
 						],
 						"settings":
@@ -481,10 +567,10 @@
 							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1323.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 9,
+					"stack_index": 8,
 					"type": "text"
 				},
 				{
@@ -500,8 +586,8 @@
 						"selection":
 						[
 							[
-								1729,
-								1729
+								4449,
+								4449
 							]
 						],
 						"settings":
@@ -510,10 +596,10 @@
 							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 378.0,
+						"translation.y": 508.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 8,
+					"stack_index": 14,
 					"type": "text"
 				},
 				{
@@ -539,10 +625,10 @@
 							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 2938.0,
+						"translation.y": 1156.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 9,
 					"type": "text"
 				},
 				{
@@ -551,15 +637,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 49194,
+						"buffer_size": 50280,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								49194,
-								49194
+								48413,
+								48413
 							]
 						],
 						"settings":
@@ -568,14 +654,71 @@
 							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 1647.0,
+						"translation.y": 40317.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/Users/David Sicong Zhou/Dropbox/00 GREATEST ADVENTURE/0 worlds greatest adventure",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 744,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								57,
+								57
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/wangzherongyao",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1099,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1097,
+								1097
+							]
+						],
+						"settings":
+						{
+							"auto_name": "wangzherongyao",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 985.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 4,
 					"type": "text"
 				},
 				{
-					"buffer": 6,
+					"buffer": 8,
 					"file": "/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/nintendo quotes.txt",
 					"semi_transient": false,
 					"settings":
@@ -587,8 +730,8 @@
 						"selection":
 						[
 							[
-								1811,
-								1811
+								100,
+								100
 							]
 						],
 						"settings":
@@ -600,24 +743,24 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 6,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
-					"buffer": 7,
+					"buffer": 9,
 					"file": "/C/Users/David Sicong Zhou/Dropbox/00 jp/SUDDENWORDS",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 14423,
+						"buffer_size": 22765,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								14423,
-								14423
+								22765,
+								22765
 							]
 						],
 						"settings":
@@ -626,42 +769,184 @@
 							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 8391.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 8,
-					"file": "_posts/2018-08-22-Making-A-Game-Engine-8.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1967,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								918,
-								918
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 14727.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
 					"type": "text"
 				},
 				{
-					"buffer": 9,
+					"buffer": 10,
+					"file": "/C/Users/David Sicong Zhou/Dropbox/00 GREATEST ADVENTURE/whats a game you can join other players and leave",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 620,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								620,
+								620
+							]
+						],
+						"settings":
+						{
+							"auto_name": "whats a game you can join other players and leave",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 39.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2898,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13,
+								13
+							]
+						],
+						"settings":
+						{
+							"auto_name": "guess",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2708,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2708,
+								2708
+							]
+						],
+						"settings":
+						{
+							"auto_name": "lets make sense of 2016 comp6771 ass5",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 372.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 120,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								120,
+								120
+							]
+						],
+						"settings":
+						{
+							"auto_name": "survival",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/stealth slime",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 513,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								425,
+								425
+							]
+						],
+						"settings":
+						{
+							"auto_name": "stealth slime",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 135.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 47,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								47,
+								47
+							]
+						],
+						"settings":
+						{
+							"auto_name": "rockdale 2216",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 18,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
 					"file": "/C/Users/David Sicong Zhou/Dropbox/[00] BLOG/(」￣︿￣)」",
 					"semi_transient": false,
 					"settings":
@@ -673,8 +958,8 @@
 						"selection":
 						[
 							[
-								270,
-								270
+								1407,
+								1407
 							]
 						],
 						"settings":
@@ -683,10 +968,66 @@
 							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
+						"translation.y": 135.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 177,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								177,
+								177
+							]
+						],
+						"settings":
+						{
+							"auto_name": "人事部長様、 恐れ入りますが、このEメールに添付された履歴書にお目通し頂けますでしょうか。お忙しいと",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4364,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								543,
+								543
+							]
+						],
+						"settings":
+						{
+							"auto_name": "//------------------------------------------------",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
 					"type": "text"
 				}
 			]
@@ -773,7 +1114,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 195.0,
+	"side_bar_width": 164.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

@@ -70,6 +70,7 @@ I ended up finishing the game before uninstalling.
 
  - The UI provides a method for players who don't learn keyboard shortcuts to easily find a way to modify their gun mode, ammo type, psionic ability, inventory, etc, by using the mouse instead.
  - The UI does not freeze the game, which adds to the horror factor! For example, Resident evil 4 stops being scary when you take the time to mix herbs in the safety of the pause menu.
+ - The UI asks a lot from the player. This is a huge risk.
  - When you aim at an object in the game, a textbox gives a description of what you're aiming at, and enemy health bars appear near them. These all visually feel like they came from the cybernetic implants in the game.
  - The music has aged well. The sound quality is sufficient.
  - The music always adds to the atmosphere. You hardly notice it while playing.
@@ -98,5 +99,16 @@ System Shock 2 put made immersion the top priority, and it succeeded. The interf
 
 This made the game playable in 2018. Harder difficulties aren't recommended on the first playthrough.
 
+Harder difficulties make upgrades cost more. That alone means you simply get less gameplay mechanics.
+
+<b>[Extra (28th August)]</b>
+
+I found out something else about system shock.
+
+The system shock games did not sell amazingly.
+
+It probably didn't manage to sell it's uniqueness, which there's plenty of.
+
+But it's not the fault of Looking Glass Studios, I mean, how can you pitch "immersion", in a trailer?...
 
 <b>Have fun out there, won't ya?</b>
