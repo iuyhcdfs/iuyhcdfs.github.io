@@ -16,7 +16,7 @@
 title: sannaigames
 email: sannaigames@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  David (iuyhcdfs) Zhou's Homepage
+  David Sicong Zhou's Homepage
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://sannaigames.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sultan_vinnie
@@ -30,7 +30,7 @@ liquid:
 markdown: kramdown
 #theme: minima
 #theme: jekyll-theme-basically-basic
-remote-theme: "mmistakes/jekyll-theme-basically-basic"
+remote-theme: "mmistakes/minimal-mistakes@4.16.0"
 #skin: steel
 plugins: # previously gems
   - jekyll-feed
