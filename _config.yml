@@ -14,38 +14,28 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: sannaigames
-email: sannaigames@gmail.com
+email:
 description: >- # this means to ignore newlines until "baseurl:"
-  David Sicong Zhou lives here!
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://sannaigames.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username:
-github_username: iuyhcdfs
+  David Sicong Zhou's Stuff
+baseurl: 
+url: http://sannaigames.com
 logo: /assets/icons/sannai.svg
+twitter_username: sultan_vinnie
+github_username: iuyhcdfs
 minimal_mistakes_skin: default
 search: true
 
-liquid:
-  error_mode: strict
-
 # Build settings
 markdown: kramdown
-#theme: minima
-#theme: jekyll-theme-basically-basic
-remote-theme: "mmistakes/minimal-mistakes@4.16.0"
-#skin: steel
+remote_theme: mmistakes/minimal-mistakes
+# Outputting
 permalink: /:categories/:title/
-plugins: # previously gems
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-paginate
-feed:
-  path: atom.xml
-
-# Pagination - https://jekyllrb.com/docs/pagination/
-paginate: 10
+paginate: 5 # amount of posts to show
 paginate_path: /page:num/
+timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+include:
+  - _pages
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -59,23 +49,6 @@ paginate_path: /page:num/
 #   - vendor/gems/
 #   - vendor/ruby/
 
-# Collections
-#collections:
-#  recipes:
-#    output: true
-#    permalink: /:collection/:path/
-
-# Front Matter Defaults
-defaults:
-   #_posts
-  - scope:
-      path: "_posts"
-      type: posts
-    values:
-      layout: post
-      read_time: true
-
-
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
@@ -86,34 +59,25 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "David Sicong Zhou"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Engineer of games, reasons to live, est. 1992"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
+    - label: ">>> GitHub <<<"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/iuyhcdfs"
+    - label: "I don't really use Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/sultan_vinnie"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/sultan_vinnie"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/iuyhcdfs"
 
 defaults:
   # _posts
