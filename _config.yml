@@ -30,7 +30,7 @@ liquid:
 markdown: kramdown
 #theme: minima
 #theme: jekyll-theme-basically-basic
-#remote-theme: "mmistakes/minimal-mistakes@4.16.0"
+remote-theme: "mmistakes/minimal-mistakes@4.16.0"
 #skin: steel
 plugins: # previously gems
   - jekyll-feed
