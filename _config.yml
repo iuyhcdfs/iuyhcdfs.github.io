@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "David Sicong Zhou"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Australian Game nerd, Software Engineer, est. 1992"
+  bio    : "Game nerd, Software Engineer, est. 1992"
   links:
     - label: ">>> GitHub <<<"
       icon: "fab fa-fw fa-github"
