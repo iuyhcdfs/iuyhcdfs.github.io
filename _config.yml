@@ -27,7 +27,7 @@ search: true
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: mmistakes/minimal-mistakes@4.16.0
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "David Sicong Zhou"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Engineer of games, reasons to live, est. 1992"
+  bio    : "Australian Game nerd, Software Engineer, est. 1992"
   links:
     - label: ">>> GitHub <<<"
       icon: "fab fa-fw fa-github"
