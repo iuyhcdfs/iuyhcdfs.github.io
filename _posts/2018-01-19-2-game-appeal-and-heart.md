@@ -1,5 +1,5 @@
 ---
-layout: post
+layout:
 title: 2. game appeal and heart
 categories:
   - Old Blog

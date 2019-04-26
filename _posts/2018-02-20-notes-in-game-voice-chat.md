@@ -1,5 +1,5 @@
 ---
-layout: post
+layout:
 title: "notes: in-game voice chat"
 categories:
   - Old Blog

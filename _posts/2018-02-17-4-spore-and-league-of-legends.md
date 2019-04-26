@@ -1,5 +1,5 @@
 ---
-layout: post
+layout:
 title: 4. Spore and League of Legends
 categories:
   - Old Blog

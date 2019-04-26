@@ -1,5 +1,5 @@
 ---
-layout: post
+layout:
 title: 5. a very nintendo chinese new year
 categories:
   - Old Blog

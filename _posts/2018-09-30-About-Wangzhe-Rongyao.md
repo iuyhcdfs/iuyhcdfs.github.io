@@ -1,4 +1,5 @@
 --- 
+layout:
 title: "About Wangzhe Rongyao"
 categories:
   - Blog

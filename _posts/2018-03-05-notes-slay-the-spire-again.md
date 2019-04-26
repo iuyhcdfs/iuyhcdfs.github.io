@@ -1,5 +1,5 @@
 ---
-layout: post
+layout:
 title: "notes: slay the spire... again"
 categories:
   - Old Blog

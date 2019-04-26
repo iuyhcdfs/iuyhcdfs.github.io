@@ -1,5 +1,5 @@
 ---
-layout: post
+layout:
 title: "8. full notes: Florence"
 categories:
   - Old Blog

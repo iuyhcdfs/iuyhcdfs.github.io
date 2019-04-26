@@ -1,4 +1,5 @@
 --- 
+layout:
 title: "Fresh Thoughts: System Shock 2"
 categories:
   - Blog

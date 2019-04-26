@@ -1,4 +1,5 @@
 --- 
+layout:
 title: "Making a game engine [5]"
 categories:
   - Blog

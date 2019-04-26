@@ -1,5 +1,5 @@
 ---
-layout: post
+layout:
 title: 1. welcome to clock town
 categories:
   - Old Blog

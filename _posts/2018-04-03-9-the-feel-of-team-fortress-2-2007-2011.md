@@ -1,5 +1,5 @@
 ---
-layout: post
+layout:
 title: 9. the feel of Team Fortress 2 (2007-2011)
 categories:
   - Old Blog

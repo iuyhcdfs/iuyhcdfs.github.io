@@ -1,5 +1,5 @@
 ---
-layout: post
+layout:
 title: "notes: loot boxes"
 categories:
   - Old Blog

@@ -1,4 +1,5 @@
 --- 
+layout:
 title: Enjoying Randomness
 categories:
   - Blog

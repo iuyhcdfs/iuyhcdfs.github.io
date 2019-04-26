@@ -1,5 +1,5 @@
 ---
-layout: post
+layout:
 title: "notes: snowboarding"
 categories:
   - Old Blog

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout:
 title: 9. breath of the wild combat
 categories:
   - Old Blog

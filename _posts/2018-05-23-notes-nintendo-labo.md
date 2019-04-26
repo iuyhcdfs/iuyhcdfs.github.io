@@ -1,4 +1,5 @@
 --- 
+layout:
 title: "Notes: Nintendo Labo"
 categories:
   - Blog

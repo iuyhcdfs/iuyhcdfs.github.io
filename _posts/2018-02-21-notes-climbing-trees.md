@@ -1,5 +1,5 @@
 ---
-layout: post
+layout:
 title: "notes: climbing trees"
 categories:
   - Old Blog

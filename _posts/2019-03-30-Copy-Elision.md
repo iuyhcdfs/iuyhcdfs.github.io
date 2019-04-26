@@ -1,10 +1,11 @@
 --- 
+layout:
 title: "Copy Elision"
 categories:
   - Blog
 ---
 
-TODO: this post
+TODO: this posts
 
 Trying to explain c++ copy elision in japanese（日本語でC++のコピーの省略の説明を試したい）
 
@@ -14,4 +15,4 @@ C++ might not give you what you see in the code. Let's take a look at "copy elis
 
 
 
-<b>世界に、楽しみにしなよ！</b>
+<b>楽しみにしなよ！</b>
