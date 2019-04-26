@@ -16,14 +16,16 @@
 title: sannaigames
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  David Sicong Zhou's Stuff
+  David Sicong Zhou's Website
 baseurl: 
 url: sannaigames.com
 logo: /assets/icons/sannai.svg
+#masthead_title: "sannaigames"
 twitter_username: sultan_vinnie
 github_username: iuyhcdfs
-minimal_mistakes_skin: default
+minimal_mistakes_skin: contrast
 search: true
+breadcrumbs: true  # disabled by default
 
 # Build settings
 markdown: kramdown
@@ -61,7 +63,7 @@ plugins:
 author:
   name   : "David Sicong Zhou"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Game nerd, Software Engineer, est. 1992"
+  bio    : "Video Games, Software Engineer, etc, est. 1992"
   links:
     - label: ">>> GitHub <<<"
       icon: "fab fa-fw fa-github"
