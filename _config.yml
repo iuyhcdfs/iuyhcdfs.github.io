@@ -63,7 +63,7 @@ plugins:
 author:
   name   : "David Sicong Zhou 周思聡"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Videogame Engineer. Working hard to repay a debt to Satoru Iwata" 
+  bio    : "Software Engineer, Video Games. Chasing after my dead heroes." 
   links:
     - label: "Code"
       icon: "fab fa-fw fa-github"
