@@ -5,6 +5,8 @@ categories:
   - Blog
 ---
 
+not finished yet まだ完成しなかった
+
 <div class="left">
     
 </div>

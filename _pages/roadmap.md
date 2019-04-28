@@ -3,6 +3,8 @@ title: "roadmap"
 permalink: /roadmap/
 ---
 
+私は岩田氏に恩恵を負う
+
 the goal is to be as amazing as satoru iwata
 
 its okay to start small. its the only way you can start at all.

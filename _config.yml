@@ -16,7 +16,7 @@
 title: sannaigames beta website
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  David Sicong Zhou's Website
+  sannaigames: David Sicong Zhou's Homepage
 baseurl: 
 url: sannaigames.com
 logo: /assets/icons/sannai.svg
@@ -63,23 +63,28 @@ plugins:
 author:
   name   : "David Sicong Zhou 周思聡"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Video Games, Software Engineer, etc, est. 1992"
+  bio    : "Primarily a Software Engineer, among others, Est. 1992."
   links:
-    - label: ">>> GitHub <<<"
+    - label: "Public Projects"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/iuyhcdfs"
-    - label: "I don't really use Twitter"
+    - label: "Thoughts"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/sultan_vinnie"
-
+    - label: "Drawings"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/sultan_vinnie"
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/sultan_vinnie"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/iuyhcdfs"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/sultan_vinnie"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/sultan_vinnie"
 
 defaults:
   # _posts
