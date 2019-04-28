@@ -5,10 +5,17 @@ categories:
   - Blog
 ---
 
-TODO: this posts
+<div class="left">
+    
+</div>
+<div class="right">
+    
+</div>
 
-Elevator design doesn't seem like game design but they are both crafting an experience, so here we go.
 
-
+<div class="full">
 
 <b>楽しみにしなよ！</b>
+
+
+</div>
