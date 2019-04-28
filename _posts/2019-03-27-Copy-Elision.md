@@ -5,6 +5,8 @@ categories:
   - Blog
 ---
 
+not yet finished まだ完成しなかった
+
 <!------------------------------------->
 <div class="left">
     A simpler version of the wikipedia's copy elision page.
