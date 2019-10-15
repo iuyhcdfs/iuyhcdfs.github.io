@@ -63,7 +63,7 @@ plugins:
 author:
   name   : "David Sicong Zhou 周思聡"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Software Engineer, Video Games. Chasing after my dead heroes." 
+  bio    : "Software Engineer: Video Games. Saving the world from boredom." 
   links:
     - label: "Code"
       icon: "fab fa-fw fa-github"
