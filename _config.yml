@@ -31,7 +31,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: David iuyhcdfs Zhou
-subtitle: 
+subtitle:  
 description: >- # this means to ignore newlines until "baseurl:"
   David's portfolio/blog. 
   Games should be optionally lifechanging, always fun.
