@@ -1,3 +1,20 @@
+# Developer's Note: This is a sample _config.yml file offered with
+# jekyll-theme-prologue for your convenience. To use it, move it to your
+# project's root directory. Please note that the following lines are
+# NECESSARY for Prologue to work correctly:
+#
+# theme: jekyll-theme-prologue
+# collections: [sections]
+#
+# They activate the theme and tell Jekyll to find your homepage content
+# in /_sections. Note where "sections" starts with an underscore
+# and where it doesn't. The social settings will make links to
+# Twitter, etc., but only if you give the URL.
+#
+# Also, be sure to customize url and baseurl for your site.
+#
+# ---------------------------------------------------------------
+#
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -13,103 +30,35 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: sannaigames beta website
-email:
+title: Your awesome title
+subtitle: Your awesome subtitle
 description: >- # this means to ignore newlines until "baseurl:"
-  sannaigames: David Sicong Zhou's Homepage
-baseurl: 
-url: sannaigames.com
-logo: /assets/icons/sannai.svg
-#masthead_title: "sannaigames"
-twitter_username: sultan_vinnie
-github_username: iuyhcdfs
-minimal_mistakes_skin: mint
-search: true
-breadcrumbs: true  # disabled by default
+  This is the demo site for a Jekyll theme version of
+  HTML5 UP's sleek, responsive site template Prologue.
+author: Your Incredible Name
+email: your-email@example.com
+avatar: assets/images/avatar.jpg
 
-# Build settings
-markdown: kramdown
+# You'll want to customize url and baseurl for your own site:
+baseurl: "/jekyll-theme-prologue" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+
+# Social settings
+# Make sure to include the full url including protocol, e.g. https://github.com/chrisbobbe
+twitter_url:
+facebook_url:
+googleplus_url:
+instagram_url:
+linkedin_url:
+github_url:
+stackoverflow_url:
+pinterest_url:
+slack_url:
+dribbble_url:
+
+# Google Analytics Tracking ID goes here:
+google_analytics:
+
+# The following settings are NECESSARY for the Prologue theme to run:
 remote_theme: chrisbobbe/jekyll-theme-prologue
-#remote_theme: mmistakes/minimal-mistakes@4.16.0
-# Outputting
-permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
-include:
-  - _pages
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
-
-# Plugins (previously gems:)
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
-  - jekyll-include-cache
-
-author:
-  name   : "David Sicong Zhou 周思聡"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Software Engineer: Video Games. Saving the world from boredom." 
-  links:
-    - label: "Code"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/iuyhcdfs"
-    - label: "Thoughts"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/sultan_vinnie"
-    - label: "Drawings"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/sultan_vinnie"
-footer:
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/iuyhcdfs"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/sultan_vinnie"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/sultan_vinnie"
-
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-  # _pages
-  - scope:
-      path: "_pages"
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
+collections: [sections]
