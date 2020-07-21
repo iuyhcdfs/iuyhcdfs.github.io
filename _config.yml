@@ -30,12 +30,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: David iuyhcdfs Zhou
-subtitle:  
+title: ゾウ・デイヴィッド
+subtitle: David Sicong Zhou
 description: >- # this means to ignore newlines until "baseurl:"
-  David's portfolio/blog. 
-  Games should be optionally lifechanging, always fun.
-  Or was it always lifechanging, optionally fun?...
+  ゾウ・デイヴィッド採用情報
 author: David Sicong Zhou
 email: david@sannaigames.com
 avatar: assets/images/avatar.jpg
