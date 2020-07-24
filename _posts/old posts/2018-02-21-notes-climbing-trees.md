@@ -1,5 +1,4 @@
 ---
-layout:
 title: "notes: climbing trees"
 categories:
   - Old Blog

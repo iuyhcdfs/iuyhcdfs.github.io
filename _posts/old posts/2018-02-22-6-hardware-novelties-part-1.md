@@ -1,5 +1,4 @@
 ---
-layout:
 title: 6. hardware novelties 
 categories:
   - Old Blog

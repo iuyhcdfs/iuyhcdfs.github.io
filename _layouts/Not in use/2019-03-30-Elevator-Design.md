@@ -1,5 +1,4 @@
---- 
-layout: single
+---  
 title: "Elevator Design"
 categories:
   - Blog

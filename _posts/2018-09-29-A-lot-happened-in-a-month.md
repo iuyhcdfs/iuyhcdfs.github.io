@@ -1,5 +1,4 @@
---- 
-layout:
+---  
 title: "A lot happened in a month"
 categories:
   - Blog

@@ -1,5 +1,4 @@
----
-layout:
+--- 
 title: "notes: slay the spire"
 categories:
   - Old Blog

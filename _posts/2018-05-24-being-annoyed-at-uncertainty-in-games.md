@@ -1,5 +1,4 @@
---- 
-layout:
+---  
 title: Being annoyed at uncertainty in games
 categories:
   - Blog

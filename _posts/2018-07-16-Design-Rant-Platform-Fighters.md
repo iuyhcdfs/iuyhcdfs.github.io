@@ -1,5 +1,4 @@
---- 
-layout:
+---  
 title: "Design Rant: Platform Fighters (Smash Bros)"
 categories:
   - Blog

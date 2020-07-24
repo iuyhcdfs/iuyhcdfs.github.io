@@ -1,4 +1,4 @@
---- 
+---  
 title: "Dual Language posts ・ 二言語のブログの記事"
 categories:
   - Blog

@@ -1,5 +1,4 @@
----
-layout:
+--- 
 title: "notes: overcooked"
 categories:
   - Old Blog

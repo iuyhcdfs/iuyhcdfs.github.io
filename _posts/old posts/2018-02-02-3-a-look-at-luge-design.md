@@ -1,5 +1,4 @@
 ---
-layout:
 title: 3. a look at luge design
 categories:
   - Old Blog

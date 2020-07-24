@@ -1,5 +1,4 @@
 ---
-layout:
 title: 7. designer responsibilities
 categories:
   - Old Blog

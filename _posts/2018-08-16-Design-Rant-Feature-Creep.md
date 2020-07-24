@@ -1,5 +1,4 @@
---- 
-layout:
+---  
 title: "Design Rant: Feature Creep"
 categories:
   - Blog

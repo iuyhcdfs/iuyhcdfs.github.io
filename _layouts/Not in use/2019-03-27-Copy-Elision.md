@@ -1,5 +1,4 @@
---- 
-layout:
+---  
 title: "Copy Elision・コーピ省略"
 categories:
   - Blog
