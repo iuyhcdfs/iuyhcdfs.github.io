@@ -1,5 +1,3 @@
-its the repo for the website
+its the repo for the website... 
 
-using minimal mistakes, its the best one
-
-trying to also make blog posts split halfway so i can display dual languages
+is this serious or for fun. another life lesson
