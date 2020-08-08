@@ -1,3 +1,3 @@
-its the repo for the website... 
+who doesnt love free web hosting
 
-is this serious or for fun. another life lesson
+if somebody ddos' me its an accomplishment
