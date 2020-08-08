@@ -6,7 +6,7 @@ categories:
 English translation of the "Learn From the President!" segment on the "Almost Daily Itoi News" website featuring Satoru Iwata
 
 今、「ほぼ日」の「社長に学ぶ！」シリーズを読んでいる。
-日本語で読みたいなら、本の会話はこちら：<https://www.1101.com/president/Iwata01.html>
+日本語で読みたいなら、本の会話はこちら：<www.1101.com/president/iwata01.html>
 
 翻訳って、難しい！でも日本語の勉強には大切だよ。ある部分は銀行の仕組みだから、「漢字通り」の翻訳で本の意味が通じない。
 せめて、私の英語は100％自然だ！ヨホホホ！
