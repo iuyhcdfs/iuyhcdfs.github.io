@@ -1,5 +1,5 @@
 ---  
-title: "ギャンブル性、良いと悪い所"
+title: "人間のギャンブル性"
 categories:
   - Blog
 ---

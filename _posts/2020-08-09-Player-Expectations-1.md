@@ -1,5 +1,5 @@
 ---  
-title: "プレイヤの予想と難易度"
+title: "プレイヤ予想と難易度"
 categories:
   - Blog
 ---
