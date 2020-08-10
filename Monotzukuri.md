@@ -5,9 +5,62 @@ icon: fa-book
 order: 3
 ---
 
-### 「物作りが好き」ってような人は必ず・・ものを作った ###
+<h3>自己PRと添付した詳しい情報ページ<br>
+「物作り好き」の証拠は「物作った」</h3>
 
-自己PRについて詳しい情報。今まで作った、今作っていること。
+<div class="row">
+  <div class="4u 12u$(mobile)">
+    <div class="item" id="Jiko-PR-Software">
+      <a href="Monotzukuri.html#Programming" class="image fit"><img src="{{ 'assets/images/pic04.jpg' | relative_url }}"
+          alt="software.jpg" /></a>
+      <header>
+        <h3>プログラム</h3>
+      </header>
+    </div>
+    <div class="item" id="Jiko-PR-Game-Dev">
+      <a href="Monotzukuri.html#Games" class="image fit"><img src="{{ 'assets/images/pic03.jpg' | relative_url }}"
+          alt="game dev.jpg" /></a>
+      <header>
+        <h3>ゲーム</h3>
+      </header>
+    </div>
+
+  </div>
+  <div class="4u 12u$(mobile)">
+    <div class="item" id="Jiko-PR-Website">
+      <a href="Monotzukuri.html#This-Site" class="image fit"><img src="{{ 'assets/images/pic07.jpg' | relative_url }}"
+          alt="website.jpg" /></a>
+      <header>
+        <h3>ウェブサイト</h3>
+      </header>
+    </div>
+    <div class="item" id="Jiko-PR-Kirby">
+      <a href="Monotzukuri.html#Kirby-Hat" class="image fit"><img src="{{ 'assets/images/pic05.jpg' | relative_url }}"
+          alt="kirby hat.jpg" /></a>
+      <header>
+        <h3>編み物も？</h3>
+      </header>
+    </div>
+
+  </div>
+  <div class="4u 12u$(mobile)">
+    <div class="item" id="Jiko-PR-Connection">
+      <a href="Monotzukuri.html#Connection" class="image fit"><img src="{{ 'assets/images/pic02.jpg' | relative_url }}"
+          alt="Connection.jpg" /></a>
+      <header>
+        <h3>人間関係</h3>
+      </header>
+    </div>
+    <div class="item" id="Jiko-PR-Drawing">
+      <a href="Monotzukuri.html#Drawings" class="image fit"><img src="{{ 'assets/images/pic06.jpg' | relative_url }}"
+          alt="drawing.jpg" /></a>
+      <header>
+        <h3>絵を描く</h3>
+      </header>
+    </div>
+
+  </div>
+</div>
 
 <div id="Programming"> </div>
 ## Programming ##
