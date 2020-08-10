@@ -1,6 +1,6 @@
 ---
-title: おまけ
-icon: fa-check
+title: 連絡
+icon: fa-envelope
 order: 5
 ---
 
