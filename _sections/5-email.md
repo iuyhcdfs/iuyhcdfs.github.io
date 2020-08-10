@@ -4,7 +4,7 @@ icon: fa-envelope
 order: 5
 ---
 
-大切な時間でここまで読んで下さってありがとうございます。
+貴重なお時間をいただき，ありがとうございます！
 
-#### メールで連絡したらすぐ返事します！ david.sicong.zhou@gmail.com ####
+#### 私がすぐメールを返事します。遠慮しないでね： david.sicong.zhou@gmail.com ####
 
