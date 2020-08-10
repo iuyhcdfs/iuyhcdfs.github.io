@@ -1,132 +1,76 @@
 ---
-title: 物作り
+title: 自己PR＋
 layout: page
 icon: fa-book
 order: 3
 ---
 
-物づくりのこだわり・・・証拠を出せないと！
-
-well i always made things... time to showcase them in a nice to read format
-
-if this is all you see, it'll probably show something awesome in a day or two
+自己PRについて詳しい情報。
 
 <div id="Programming"> </div>
 ## Programming ##
 
-[自己PRへ戻る](/#Jiko-PR)
+###  ###
+
+###  ###
+
+###  ###
+
+### Facebook Hackathon ###
+
+### Jane Street ETC ###
+
+[自己PRへ戻る](/#Jiko-PR-Software)
 
 <div id="Games"> </div>
 ## Game Development ##
 心の興味の中心。
 
-## Unity ゲームジャム ## 
+### Unity ゲームジャム ###
 市場と競争するため、バグが増えないように開発速度を上がるのは一番優先。
-### 1
+### 1: VR Gamejam
 制限された時間内に何かを作ること、ワクワクしてる！
 
-### 2
+### 2: 
 
-### 3
+### 3:
 
-### 4
+### 4:
 
-### 5
+### 5:
 
-## Unity バイクゲーム ##
+### Unity バイクゲーム ###
 魅力をもっと分かるために
 
-## Unreal ボールゲーム ##
+### Unreal ボールゲーム ###
 
-[自己PRへ戻る](/#Jiko-PR)
+[自己PRへ戻る](/#Jiko-PR-Game-Dev)
 
 <div id="This-Site"> </div>
 ## This Website ##
+自分、技術、ウェブ開発をもっと分かるために。
 
-[自己PRへ戻る](/#Jiko-PR)
+[自己PRへ戻る](/#Jiko-PR-Website)
 
 <div id="Kirby-Hat"> </div>
 ## A Kirby Hat ##
+期間：1x週末<br>
+理由：好きな女性のため・いやああ恥ずかしいい
 
 
-[自己PRへ戻る](/#Jiko-PR)
+[自己PRへ戻る](/#Jiko-PR-Kirby)
+
+
+<div id="Other"> </div>
+## Other Things ##
+期間：ずっと<br>
+理由：つまり面白いものを作りたい、意外な経験は役に立つ。
+
+[自己PRへ戻る](/#Jiko-PR-Other)
 
 <div id="Drawings"> </div>
 ## Drawings ##
+期間：毎週約2/3時間を、2019始まった<br>
+理由：相手の目を分かるため、イデアを簡単に説明するため。
 
-
-[自己PRへ戻る](/#Jiko-PR)
-
-<div id="Smiles"> </div>
-## Smiles ##
-
-[自己PRへ戻る](/#Jiko-PR)
-
-more filler textasdf
-
-more filler text
-
-
-
-more filler text
-
-more filler text
-
-more filler text
-
-more filler text
-
-more filler text
-
-more filler text
-
-more filler text
-
-more filler text
-
-more filler text
-
-more filler text
-
-more filler text
-
-more filler text
-
-more filler text
-
-more filler text
-
-more filler text
-
-more filler text
-
-more filler text
-
-more filler text
-
-more filler text
-
-more filler text
-
-more filler text
-
-more filler text
-
-more filler text
-
-more filler text
-
-more filler text
-
-more filler text
-
-more filler text
-
-more filler text
-
-more filler text
-
-more filler text
-
-[TestLink 3](#Test-Link-3)
-## part3 ##
+[自己PRへ戻る](/#Jiko-PR-Drawing)
