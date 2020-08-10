@@ -113,8 +113,8 @@ what you think could be improved
 [自己PR一覧へ戻る](/#Jiko-PR-Kirby)
 
 
-<div id="Other"> </div>
-## Other Things ##
+<div id="Connection"> </div>
+## Human Connections ##
 ### 魅力：コミュニケーション、柔軟性 ###
 
 未完成　未完成　未完成　未完成　
@@ -125,7 +125,7 @@ what you think could be improved
 和太鼓部活
 
 
-[自己PR一覧へ戻る](/#Jiko-PR-Other)
+[自己PR一覧へ戻る](/#Jiko-PR-Connection)
 
 <div id="Drawings"> </div>
 ## Drawings ##
