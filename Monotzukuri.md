@@ -62,6 +62,8 @@ order: 3
   </div>
 </div>
 
+----
+
 <div id="Programming"> </div>
 ## Programming ##
 ### 魅力：技術、挑戦性、柔軟性 ###
@@ -96,7 +98,10 @@ important points: be able to link to code if requested...
 ###  ###
 ###  ###
 
-[自己PR一覧へ戻る](/#Jiko-PR-Software)
+
+### [【自己PR一覧へ戻る】](/#Jiko-PR-Software) ###
+
+----
 
 <div id="Games"> </div>
 ## Game Development ##
@@ -131,7 +136,9 @@ Unityを学ぶため趣味でゲーム作り
 ### Unreal ボールゲーム ###
 Unrealを学ぶため趣味でゲーム作り
 
-[自己PR一覧へ戻る](/#Jiko-PR-Game-Dev)
+### [【自己PR一覧へ戻る】](/#Jiko-PR-Game-Dev) ###
+
+----
 
 <div id="This-Site"> </div>
 ## This Website ##
@@ -148,7 +155,9 @@ express quickly
 why you enjoy this interface, 
 what you think could be improved
 
-[自己PR一覧へ戻る](/#Jiko-PR-Website)
+### [【自己PR一覧へ戻る】](/#Jiko-PR-Website) ###
+
+----
 
 <div id="Kirby-Hat"> </div>
 ## A Kirby Hat ##
@@ -163,8 +172,9 @@ what you think could be improved
 クオリティ
 
 
-[自己PR一覧へ戻る](/#Jiko-PR-Kirby)
+### [【自己PR一覧へ戻る】](/#Jiko-PR-Kirby) ###
 
+----
 
 <div id="Connection"> </div>
 ## Human Connections ##
@@ -178,7 +188,9 @@ what you think could be improved
 和太鼓部活
 
 
-[自己PR一覧へ戻る](/#Jiko-PR-Connection)
+### [【自己PR一覧へ戻る】](/#Jiko-PR-Connection) ###
+
+----
 
 <div id="Drawings"> </div>
 ## Drawings ##
@@ -196,4 +208,4 @@ what you think could be improved
 
 システムも、きれいに形を書いたら、すぐに相手を説得する。
 
-[自己PR一覧へ戻る](/#Jiko-PR-Drawing)
+### [【自己PR一覧へ戻る】](/#Jiko-PR-Drawing) ###
