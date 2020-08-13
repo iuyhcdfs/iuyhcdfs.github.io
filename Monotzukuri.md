@@ -67,29 +67,19 @@ If you like making stuff, you'll have something to show!
 
 <div id="Programming"> </div>
 ## Programming ##
-### 魅力：技術、挑戦性、柔軟性 ###
-幅広い経験。
+### どんな（環境・言語）でも、コンピューターを扱えるもの ###
+
 
 未完成　
 
-未完成　
-
-未完成　
-
-未完成　
-
-未完成　
-
-未完成　
-
-
-important points: be able to link to code if requested...
+plan a variety of good stuff
+save games for game section
+competitions are about speed and teamwork
+uni projects are somethin else
 
 ### Operating System ###
 
-大学のは半年間以内2人チームOSを作ったプロジェクト。
-
-
+make a large system work in a short period of time
 
     if(code is here){
         does this look good?
@@ -99,13 +89,21 @@ important points: be able to link to code if requested...
 
 ### Pretend Microwave Controller ###
 
+challenge assembly programming
+
 大学の1週間以内2人チームと.asmのプロジェクト。
 
+
+
 ### Facebook Hackathon ###
+
+one weekend  teamwork
 
 ある週末以内4人チームとComputer Visionのプロジェクト。
 
 ### Jane Street ETC ###
+
+one day team trading algorithm competition
 
 ある4時間以内4人チームとPythonの証券取引ロボットプロジェクト。
 
@@ -120,7 +118,7 @@ important points: be able to link to code if requested...
 
 <div id="Games"> </div>
 ## Game Development ##
-### 魅力：技術、柔軟性 ###
+### 魅力を取り組む ###
 
 important points: have screenshots okay
 even if it doesnt look good.
@@ -129,41 +127,54 @@ even if it doesnt look good.
 
 未完成　
 
-未完成　
-
-未完成　
+### Unity バイクゲーム ###
+Unityを学ぶため趣味でゲーム作り
+what did you learn! how quick did you learn it!
+try out mobile stuff
+optimisation bottleneck
+how many objects  what kind of shaders shadows
+all the ways of baking different texture types
+actually making a performant thing on the phone is different
+to just having a prototype in the editor
 
 ### Unity ゲームジャム ###
 市場と競争するため、バグが増えないように開発速度を上がるのは一番優先。
 ### 1: VR Gamejam
+quickly learn unity and make a nose sword thting
+### 2: global @ 
+draw platformerr
+### 3: local @ 
+jumpman stuff
+### 4: global @ suika
+programming on lost child
+### 5: villa kujoyama
+joycon sword game
 
-### 2: 
-
-### 3:
-
-### 4:
-
-### 5:
-
-### Unity バイクゲーム ###
-Unityを学ぶため趣味でゲーム作り
-ストレス解除
 ### Unreal ボールゲーム ###
 Unrealを学ぶため趣味でゲーム作り
-
+character controller already built in for slopes etc
+but want to do zelda style jumps and make a direction only game
+from here on i'm trying 3d level design
+to be continued.
 ### [【自己PR一覧へ戻る】](/#Jiko-PR-Game-Dev) ###
 
 ----
 
 <div id="This-Site"> </div>
 ## This Website ##
-### 魅力：挑戦性、コミュニケーション ###
+### ウェブサイトのコミュニケーション ###
 
 未完成　
 
-未完成　
-
-未完成　
+1 interface, not annoying to get around
+2 rather simple setup process. github pages and a domain
+3 iterate iterate iterate. ideas and what y ou  wnated to do
+like make side scrolly for multiple pages
+or how necessary the blog is
+multiple pages or a huge home page
+what to express or talk about
+the USERS TIME IS VALUABLE SO PICKING A GOOD VARIETY
+and nothing else
 
 talk about how to actually express information
 express quickly
@@ -182,20 +193,27 @@ if you spot something, fix it. dont be satisfied with mediocre
 
 <div id="Kirby-Hat"> </div>
 ## A Kirby Hat ##
-### 魅力：柔軟性、クオリティこだわり ###
+### 暇の時間も、物作りを挑戦する ###
 
-未完成　
-未完成　
-未完成　
-未完成　
+PLAN
+text THEN pictures. keep it real for mobile. keep it succinct
+pictures can do more explaining.
 
-イメージで説明する
-クオリティ
+1 took an idea and made it real.
+2 first the hat shape involved fabric strips and a volleyball
+3 eyes and cheek patches, and the hands were very simple
+4 the shoes are tough because kirby has flat bottomed feet. a little material and sewing was essential
+5 this was actually the 5th prototype.
+the failed prototypes have been recycled, but i can describe them
+they neither looked like kirby, or a hat.
 
-talk about how its SO GOOD
-talk about how IT COULD STILL BE IMPROVED
+this could still be improved. cotton locations, breathability,
+a uniform material perhaps. these are things i'd have to talk to a manufacturer about
 
+i don't plan on profiting off another company's IP though.
 
+kirby was designed by masahiro sakurai and i believe rights belong
+to HAL and Nintendo.
 
 ### [【自己PR一覧へ戻る】](/#Jiko-PR-Kirby) ###
 
@@ -203,9 +221,27 @@ talk about how IT COULD STILL BE IMPROVED
 
 <div id="Connection"> </div>
 ## Human Connections ##
-### 魅力：コミュニケーション、柔軟性 ###
+### みんなの力を合わせる ###
 
 未完成　未完成　未完成　未完成　
+
+lets get extracurricular
+
+cse revue, bluesat, smash society
+taiko club, game design class
+drink and draw event
+in terms of japanese 2 years now in japan.
+
+each of them a short story to tell.
+what demonstrates understanding and experiencing people
+
+talk about what you notice about other people.
+its what y ou see and understand that matters
+not just  DOING stuff
+
+what matters is a team coming together
+or an idea being understood and communicated properly.
+roles are not as important as how   theyrre carried out
 
 パフォマンス
 ゲームデザイン授業を行った
@@ -227,24 +263,30 @@ satellite squad
 
 <div id="Drawings"> </div>
 ## Drawings ##
-### 魅力：コミュニケーション、挑戦性 ###
+### 「絵」はコミュニケーションの極意 ###
 
 
 未完成　未完成　未完成　未完成　
 
-FOCUS ON SKILLS DEVELOPMENT.
+the explanation needs to tag along progress.
 
-you started off
-boxes, bad hands, bad water
-slowly as you go
-more faces, notable features
-what is a line, what is dark and light
-representing what our eyes see 
-how to draw mascots
-what looks "good"
-what is  "understandable"
+when you draw something properly, everyone understands.
 
-then moderrn drawings. something is different and you  have something to show
+if i choose the right words, everyone might understand.
+
+this is the lesson. lets see what i've done.
+
+first many many boxes, understand "3d" to human eyes
+understand faces, what makes them
+understand hands
+varying light
+chraracters
+appeal
+engineering designs
+
+visual communication and verbal communication is all linked
+also weekly training
+drink and draw event before corona meant like, talk to people
 
 refer to adding joycon design stuff to game dev.
 
