@@ -1,4 +1,4 @@
----
+---Disabled!
 title: 物作った
 layout: page
 icon: fa-book
@@ -67,17 +67,12 @@ If you like making stuff, you'll have something to show!
 
 <div id="Programming"> </div>
 ## Programming ##
-### どんな（環境・言語）でも、コンピューターを扱えるもの ###
+### どんな（環境・言語）でも、コンピューターを扱える ###
 
 
-未完成　
-
-plan a variety of good stuff
-save games for game section
-competitions are about speed and teamwork
-uni projects are somethin else
 
 ### Operating System ###
+オペレーションシステムを作った。
 
 make a large system work in a short period of time
 
@@ -86,6 +81,9 @@ make a large system work in a short period of time
 
     }
 
+### Game AI ###
+played a zelda esque game
+more of an algorithmic state machine of course
 
 ### Pretend Microwave Controller ###
 
