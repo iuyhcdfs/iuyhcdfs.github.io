@@ -14,4 +14,4 @@ order: 2
 David here! Software Engineer from Australia, currently living in Kyoto.<br>
 <br>
 I also enjoy studying subjects such as 「the Japanese language」, or 「how to be a decent human being」.<br><br>
-The latter has a pretty low enrollment rate, wouldn't you say? Either way I'll try my best!
+The latter has a pretty low enrollment rate, wouldn't you say? Either way I'll do my best!

@@ -149,7 +149,7 @@ Programmers are going to feel their way of developing software is the best, and
 will thus proceed to make software in that manner. Besides, if you discover that you're wrong,
 you can always change your code later.
 
-But when these likeminded people are developing together, sometimes a pair of different coding practices
+But when these like-minded people are developing together, sometimes a pair of different coding practices
 create incompatible software.
 Thats when people are going to say "it didn't work with my code so I need you to change your code".
 
@@ -166,8 +166,8 @@ Everyone is working passionately and optimistically so they'll think "I'm right"
 So if everyone wants to take things in different directions, but nobody thinks they're wrong,
 how do you sort it out in a way thats good for everyone?...
 
-So in some way, software development happened to double as managerial training didn't it.
+...So in some way, software development happened to double as managerial training too.
 
->  Well, that's one incredible scene to start training.
+>  Wow, so training began in such a terrifying scene.
 
     end of part 2
