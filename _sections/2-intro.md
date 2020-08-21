@@ -1,6 +1,6 @@
 ---
 title: 自己紹介
-icon: fa-user
+icon: fa-th
 order: 2
 ---
 
@@ -11,7 +11,7 @@ order: 2
 <br>
 それより、なるべく気が置けないヤツになりたい。努力と根性で、頑張ります！<br>
 <br>
-David here! 「Software Engineer」 from Australia, currently living in Kyoto.<br>
+My name's David Sicong Zhou.「Software Engineer」 from Australia, currently living in Kyoto.<br>
 <br>
 I also enjoy studying subjects such as 「The Japanese Language!」and 「Why Can't We All Just Get Along?」.<br><br>
-The latter has a pretty low enrollment rate aye? Anyway, expect me to do my best at everything.
+The latter has a pretty low enrollment rate aye... anyway, nice to meet you!

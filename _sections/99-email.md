@@ -1,7 +1,7 @@
 ---
 title: 連絡
 icon: fa-envelope
-order: 5
+order: 99
 ---
 
 貴重なお時間をいただき，ありがとうございます！
