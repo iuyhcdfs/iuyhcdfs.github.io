@@ -7,6 +7,6 @@ order: 99
 貴重なお時間をいただき，ありがとうございます！
 
 
-#### 私がすぐメールを返事します。遠慮しないでね： <a href="mailto:david.sicong.zhou@gmail.com">david.sicong.zhou@gmail.com</a> ####
+#### すぐにメールを返事しますから遠慮しないで連絡をください： <a href="mailto:david.sicong.zhou@gmail.com">david.sicong.zhou@gmail.com</a> ####
 <div></div>
 Thank you so much for reading. Shoot me an email sometime!

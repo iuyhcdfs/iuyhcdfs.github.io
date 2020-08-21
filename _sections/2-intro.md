@@ -5,11 +5,11 @@ order: 2
 ---
 
 <h4>
-私はデイヴィッドと申します。オーストラリアの出身。現在は京都。<br>
+私はデイヴィッドと申します。<br>オーストラリアの出身。現在は京都。<br>
 <br>
-ソフトウェアを正しく、速く、開発します。<br>
+正しいソフトウェアを速く開発します。<br>
 <br>
-それより、なるべく気が置けないヤツになりたい。<br>努力と根性で、頑張ります！<br>
+なるべく気が置けないヤツになりたい。<br>努力と根性で、頑張ります！<br>
 <br>
 My name's David Sicong Zhou. <i>Software Engineer</i> from Australia living in Kyoto.<br>
 <br>
