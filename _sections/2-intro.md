@@ -11,7 +11,7 @@ order: 2
 <br>
 それより、なるべく気が置けないヤツになりたい。努力と根性で、頑張ります！<br>
 <br>
-David here! Software Engineer from Australia, currently living in Kyoto.<br>
+David here! 「Software Engineer」 from Australia, currently living in Kyoto.<br>
 <br>
-I also enjoy studying subjects such as 「the Japanese language」, or 「how to be a decent human being」.<br><br>
-The latter has a pretty low enrollment rate, wouldn't you say? Either way I'll do my best!
+I also enjoy studying subjects such as 「The Japanese Language!」and 「Why Can't We All Just Get Along?」.<br><br>
+The latter has a pretty low enrollment rate aye? Anyway, expect me to do my best at everything.
