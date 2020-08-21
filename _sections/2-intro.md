@@ -11,7 +11,7 @@ order: 2
 <br>
 それより、なるべく気が置けないヤツになりたい。<br>努力と根性で、頑張ります！<br>
 <br>
-My name's David Sicong Zhou.「Software Engineer」 from Australia living in Kyoto.<br>
+My name's David Sicong Zhou. <i>Software Engineer</i> from Australia living in Kyoto.<br>
 <br>
-I also enjoy studying subjects such as 「The Japanese Language!」and 「Why Can't We All Just Get Along?」<br><br>
+I also enjoy studying subjects such as <i>The Japanese Language!</i> and <i>Why Can't We All Just Get Along?</i><br><br>
 Pleasure to make your acquaintance!
