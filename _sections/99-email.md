@@ -8,5 +8,5 @@ order: 99
 
 
 #### すぐにメールを返事しますから遠慮しないで連絡をください： <a href="mailto:david.sicong.zhou@gmail.com">david.sicong.zhou@gmail.com</a> ####
-<div></div>
+<div></div><br>
 Thank you so much for reading. Shoot me an email sometime!
