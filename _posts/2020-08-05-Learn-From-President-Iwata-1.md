@@ -275,3 +275,5 @@ So from that, you could infer that it was a grave situation for them too.
 > The way he acknowledges people as just... people, is a quality of his that hasn't faded with time.
 
     end of part 1
+
+<a href="/blog/2020/08/18/Learn-From-President-Iwata-2.html"> Part 2 is here </a>
