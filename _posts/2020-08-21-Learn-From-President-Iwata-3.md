@@ -175,4 +175,4 @@ That was the beginning *this one user's* experience with computers.
 
     end of part 3
 
-<a href="/blog/2020/08/22/Learn-From-President-Iwata-4.html"> Part 4 is here </a>
+<a href="/blog/2020/08/22/Learn-From-President-Iwata-4.html">→ Part 4 is here </a>

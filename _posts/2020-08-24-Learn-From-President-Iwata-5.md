@@ -181,4 +181,4 @@ It wasn't some rapid onset of growth, but as more work appeared and tasks around
 
     end of part 5
 
-Part 6 coming soon.
+<a href="/blog/2020/08/24/Learn-From-President-Iwata-6.html">→ Part 6 is here </a>

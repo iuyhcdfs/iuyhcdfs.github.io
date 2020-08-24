@@ -270,4 +270,4 @@ So from that, you could infer that it was a grave situation for them too!
 
     end of part 1
 
-<a href="/blog/2020/08/18/Learn-From-President-Iwata-2.html"> Part 2 is here </a>
+<a href="/blog/2020/08/18/Learn-From-President-Iwata-2.html">→ Part 2 is here </a>

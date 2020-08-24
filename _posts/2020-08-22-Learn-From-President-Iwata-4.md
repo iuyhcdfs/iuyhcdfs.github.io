@@ -146,4 +146,4 @@ Should I go into that story?
 
     end of part 4
 
-<a href="/blog/2020/08/24/Learn-From-President-Iwata-5.html"> Part 5 is here </a>
+<a href="/blog/2020/08/24/Learn-From-President-Iwata-5.html">→ Part 5 is here </a>

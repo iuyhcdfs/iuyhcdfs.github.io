@@ -172,4 +172,4 @@ how do you sort it out in a way thats good for everyone?...
 
     end of part 2
 
-<a href="/blog/2020/08/21/Learn-From-President-Iwata-3.html"> Part 3 is here </a>
+<a href="/blog/2020/08/21/Learn-From-President-Iwata-3.html">→ Part 3 is here </a>
