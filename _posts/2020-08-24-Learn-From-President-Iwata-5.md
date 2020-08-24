@@ -37,7 +37,7 @@ My friend from high school went to a different university, so I was without comr
 *I probably thought that I really needed to show somebody...*
 *If I go to the Ikebukuro Seibu department store I could find like-minded enthusiasts to show my programs.*
 
-*And then, the program which would impact me the most was being coded at that very moment in the shop by its creator!*
+*And then, the program which would encourage me the most was being coded at that very moment in the shop by its creator!*
 
 > (laughter) Ahh, it's where everyone gathered.
 
