@@ -19,8 +19,8 @@ Maybe the english translation has too much syllables. Well, now I know!
     <div class="item">
       <header>
       <h3 align="right" style="word-break:keep-all">
-        We don't care how hard you ever try, you're a coward losing your emotions<div></div>
-        Sharpened wit lexical katana, is it useful or just a joke now?<div></div>
+        Don't care how hard you ever try, you're a coward losing your emotions<div></div>
+        Sharp wit lexical katana, is it useful or just a joke now?<div></div>
         <br>
         Palpitations and high tension<div></div>
         You take a breath but never give it back<div></div>
@@ -65,8 +65,8 @@ Maybe the english translation has too much syllables. Well, now I know!
         Your ace in the hole, save it up and cool your jets<div></div>
         With more you could spare you start to laugh it up<div></div>
         <br>
-        We don't care how hard you ever try, yet-my-fear-has-run-away but-why now?<div></div>
-        Sharpened wit lexical katana, not-a-bit has gone to waste somehow<div></div>
+        Don't care how hard you ever try, yet-my-fear-has-gone-away but-why now?<div></div>
+        Sharp wit lexical katana, not-a-bit has gone to waste somehow<div></div>
         <br>
         Palpitations and high tension<div></div>
         You take a breath and pass it out when<div></div>
