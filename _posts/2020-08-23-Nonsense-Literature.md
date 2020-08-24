@@ -4,7 +4,7 @@ categories:
   - Blog
 ---
 
-曲の翻訳。Translated a song this time! (Nonsense Literature by Eve).
+曲の翻訳。難しいです。Tried translating a song! Nonsense Literature by Eve. I'll do way better next song I promise. 
 
 <a href="https://www.youtube.com/watch?v=OskXF3s0UT8">Link to the song・曲はこちら・youtube.com/watch?v=OskXF3s0UT8</a>
 
@@ -12,17 +12,19 @@ English and japanese lyrics will appear side by side, except on mobile devices u
 
 タブレットやPCから見れば、英語と日本語は隣に立っている。（携帯の画面で言語が比べれにくい）
 
+Maybe the english translation has too much syllables. Well, now I know!
+
 <div class="row">
   <div class="6u 12u$(mobile)">
     <div class="item">
       <header>
-      <h3 align="right">
+      <h3 align="right" style="word-break:keep-all">
         We don't care how hard you ever try, you're a coward losing your emotions<div></div>
         Sharpened wit lexical katana, is it useful or just a joke now?<div></div>
         <br>
         Palpitations and high tension<div></div>
         You take a breath but never give it back<div></div>
-        Theres gonna be no running from the hatred for a hypocrite like you<div></div>
+        Theres gonna-be no running from the hatred for a hypocrite like you<div></div>
         <br>
         At noon a rendezvous- Beep beep addressed to who<div></div>
         Lets pour one out for the joy of having no-one to talk to.<div></div>
@@ -44,7 +46,7 @@ English and japanese lyrics will appear side by side, except on mobile devices u
         I-think my file is being overwritten, I'm burning down to darkened ashes<div></div>
         Palpitations corrupted data<div></div>
         But, wait up, it's just a joke now?<div></div>
-        Theres gonna be no running from the x̸̞̓̔̇x̶̯͋̈̈x̴̨̰̒̔ͅx̷̯͂̌̈́x̶̨̋x̷͌̑x̶ẍ̴̖́̀͂x̵̼̫̋̍́x̸̤̦͕̋ẍ̸́̈́͠ẍ̸́͂x<div></div>
+        Theres gonna-be no running from the x̸̞̓̔̇x̶̯͋̈̈x̴̨̰̒̔ͅx̷̯͂̌̈́x̶̨̋x̷͌̑x̶ẍ̴̖́̀͂x̵̼̫̋̍́x̸̤̦͕̋ẍ̸́̈́͠ẍ̸́͂x<div></div>
         <br>
         "Your true self is lie so doubt that<div></div>
         Nothing's your likeness so why try that<div></div>
@@ -68,7 +70,7 @@ English and japanese lyrics will appear side by side, except on mobile devices u
         <br>
         Palpitations and high tension<div></div>
         You take a breath and pass it out when<div></div>
-        running away from the boredom of a hypocrite like you<div></div>
+        Theres gonna-be some running cause I'm sick of hypocrisy<div></div>
         <br>
         At noon a rendezvous- Beep beep addressed to who<div></div>
         Lets pour one out for the joy of having no-one to talk to.<div></div>
