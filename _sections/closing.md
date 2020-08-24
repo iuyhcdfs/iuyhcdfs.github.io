@@ -1,5 +1,6 @@
 ---
-title: またね!
+title: またね！
+icon: fa-check
 cover-photo: assets/images/testcover.jpg
 cover-photo-alt: cover photo
 order: 99
