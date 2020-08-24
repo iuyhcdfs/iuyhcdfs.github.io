@@ -1,10 +1,10 @@
 ---  
-title: "「日→英」ナンセンス文学 -Eve"
+title: "「日→英」翻訳：ナンセンス文学 -Eve"
 categories:
   - Blog
 ---
 
-曲の翻訳。Translating a song (Nonsense Literature by Eve). Still translating it right now! 
+曲の翻訳。Translated a song this time! (Nonsense Literature by Eve).
 
 <a href="https://www.youtube.com/watch?v=OskXF3s0UT8">Link to the song・曲はこちら・youtube.com/watch?v=OskXF3s0UT8</a>
 
