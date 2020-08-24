@@ -16,10 +16,6 @@ Its just part 1/15 and yet you'll realise why he was hand picked as the presiden
 
 There are some banking teminology that doesn't survive the kanji-literal translation, i've taken the liberty of using basic words.
 
-Also, everyone's voice and choice of words is just... my own. So the "flavour" of english is about 65% Australian, 15% American, 15% British, and 5% Japanese. Whatever that means! At least its native. This is a conversation so... it should read like a conversation.
-
-Maybe it helps that I've read some of Iwata Asks already...
-
 読むシステム： How to read
 
 > Shigesato Itoi's dialogue is indented like this　糸井重里の言葉はこのふうに
@@ -49,7 +45,7 @@ We've had many conversations like this already, haven't we.
 > Many, many conversations.
 
 Well, we're renewing our usual conversations for this series.
-Renewing it is a first, at least!
+*Renewing it* is a first, at least!
 
 > As a matter of fact, this "lets learn from the president" series
 > originally started to get planned because of talking to Iwata-san:
@@ -69,7 +65,7 @@ I'm always trying and understanding new things. If it might come in useful to It
 I've got to tell him. He'll always have an astonished look on his face.
 
 > I'm happy every time it happens.
-> I always think "wow! I see!!"
+> I always think "Wow! Is that so?!"
 
 We had one of those educational conversations when "Almost Daily Itoi News" was just being established,
 and I think was one of the most profound ones that we've had by far.
@@ -91,6 +87,11 @@ However, when I moved to Nintendo, I wasn't immediately the company president.
 > Aah, so there was a short time you weren't president.
 
 At that time there was a 2 year gap.
+
+    Note: about this gap
+    During the Gamecube era,
+    Satoru Iwata was the chief of Nintendo's corporate planning division.
+    (He was being groomed for the presidency)
 
 > Even if you had a 2 year gap of presidency,
 > being president at all for this long is exceptionally rare.
@@ -123,18 +124,14 @@ When I was 31, the company had a management crisis.
 >   with the construction finished for yamanashi office,
 >   new leadership has been acquired, but the company still heads towards bankruptcy」
 
-    david's note: based on information at 
+    note: based on information at 
     <https://w.atwiki.jp/aniwotawiki/pages/27616.html>
     
-    the damage occured when japanese economic bubble of the 90's popped.
-    apparently HAL had a branch in real estate,
-    in what is described as a "somewhat dark period in hal's history".
-    well, such ventures were... the "style" at the time.
-
-    the largest issue is said to be vicious cycle of *lowering development cost*.
-    while it does improve profit, the quality of your games can lower as a result.
-    if the consumer are sensitive to lowered quality, you'll *sell less*.
-    → the vicious cycle is if the *sales losses* outweigh the *decreased dev cost*.
+    Apparently a "Dark Period" including real estate involvement during the bubble.
+    
+    Rushing out new games to lower development costs can create a vicious cycle,
+    where lowering development costs affects sales non-linearly,
+    ultimately losing more and more money as you continue to cut costs.
 
 > When that story came out, Iwata-san, I suppose you assumed the role of an engineering lead.
 
@@ -151,15 +148,15 @@ Anyway, you could say it's an exaggeration.
 That still happened, yes.
 But during then I was just representing the developers.
 
-> Being able to respond along the lines of, "How does this look from your point of view?"
+> Being able to respond with lines such as, "Well how does this look from your point of view?"
 > or "If we have to do that, we're going to be in trouble!" is nice, don't you think?
 
 Yeah.
 
-> Basically, becoming president was not such a happy occurence.
+> Basically, becoming president wasn't the most auspicious occasion.
 
 There was nothing happy about that at all.
-The company was going bankrupt due to all sorts of reasons,
+The company was going bankrupt due to all sorts of reasons:
 for starters, our debts exceeded 1 billion yen.
 
 > Owch!
@@ -171,7 +168,7 @@ Our mission was to clear a debt 1.5 billion yen over 6 years.
 
 It's as you say.
 Under those circumstances, we couldn't avoid causing trouble for others...
-It wasn't an era where we could feel very proud about ourselves.
+It wasn't an era where we could proudly hold our heads up high.
 
 In this world, companies that can peacefully negotiate terms are few.
 Practically speaking, theres no way any company gets to repay a tenth of a debt every twenty years.
@@ -181,7 +178,7 @@ Over 6 years, we had to repay 250 million yen a year.
 
 > And on top of that, you'd have to sort out everyones wages too.
 
-Concerning the costs just to maintain the company,
+In order to just keep the company afloat,
 we put up the company building and land as collateral
 in order to acquire new loans, which we had to repay alongside existing debt.
 
@@ -227,9 +224,6 @@ I'm the individual responsible for compensating that debt.
 >
 > Even now, it's per Iwata-san's character, to teach us about what he's discovered.
 
-
-    david: thankfully this isn't like hanzawa naoki. understanding people is way more important than revenge
-
 Well, even in an extreme situation, I could still look at the way forward.
 I asked myself questions like: "Given our entire situation, in what manner should I approach the bank?".
 Should I greet them as "The new company president"?
@@ -244,26 +238,26 @@ Well... that 32 year old brat decided to go and say
 Of course when I did, they respectfully responded with
 "Well... do your best."
 "But you're going to be in serious trouble! If you don't properly pay it all back that is!"
-...said the bank staff member, somewhat oppresively.
+...said the bank staff member, somewhat aggressively.
 
 > Well whatever type of person you get, you weren't in a position to talk back with anything.
 
 Yep. Theres a rather interesting fact that the oppressive bank staff member
 had to change their title soon afterwards.
 
-    I could be wrong here, it was literally written as "change their name"... what does this imply?
-    I just thought title might be position (i.e. demoted)
+    Note: could literally be a name change signifying running away from one's current life
+    OR could mean change of title (most likely due to demotion or transfer into a lesser branch)
 
 > Oh!
 
-So from that, you could infer that it was a grave situation for them too.
+So from that, you could infer that it was a grave situation for them too!
 
 > (hahaha)
 > Well would you look at that! Explaining the other party's point of view again!
 > Instead of declaring that "The bad guys always lose"
 > and instead thinking that "Life was tough for the other person, so their personality went a little off course"...
 >
-> Ahh, truly, this is Iwata-san's character.
+> Ahh, truly, this is the character known as Iwata-san.
 >
 > When people stitch together a story, I think we typically embellish our tales
 > with polarising aspects. Things are black or white, good or evil, male or female.
