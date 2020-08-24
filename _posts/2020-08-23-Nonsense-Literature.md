@@ -4,16 +4,13 @@ categories:
   - Blog
 ---
 
-Translating a song (Nonsense Literature by Eve). Still translating it right now! （途中の翻訳）
+曲の翻訳。Translating a song (Nonsense Literature by Eve). Still translating it right now! 
 
 <a href="https://www.youtube.com/watch?v=OskXF3s0UT8">Link to the song・曲はこちら・youtube.com/watch?v=OskXF3s0UT8</a>
 
 English and japanese lyrics will appear side by side, except on mobile devices unfortunately.
 
-翻訳すると意外と寂しい歌詞だと気づいたwww  The lyrics were more sad than I thought!
-
 タブレットやPCから見れば、英語と日本語は隣に立っている。（携帯の画面で言語が比べれにくい）
-
 
 <div class="row">
   <div class="6u 12u$(mobile)">
