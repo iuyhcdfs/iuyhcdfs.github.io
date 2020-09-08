@@ -20,6 +20,17 @@ And Satoru Iwata's dialogue isn't indented　岩田聡の言葉はこのふう�
     社長に学ぶ！
     『6』常に自分課していたこと。
 
+> So your timeline at HAL Laboratory was part-time, becoming in charge of development, then the development director?
+
+Yeah.
+I was seen as the one responsible for development,
+so somehow my business card had section chief printed on it. At the same time I started acting as the development director too.
+
+> Well thats how the young "Iwata-kun" was at the start.
+> 
+> 「岩田っていうものがおるんや」
+
+
     ／not translated yet
 
     end of part 6

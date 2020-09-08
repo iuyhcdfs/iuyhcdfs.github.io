@@ -1,17 +1,20 @@
 ---
-title: 自己紹介
+title: Self-Introduction
 icon: fa-th
 order: 2
 ---
 
+<h2>【自己紹介】</h2>
+<div></div><br>
+
 <h4>
-私はデイヴィッドと申します。<br>オーストラリアの出身。現在は京都。<br>
+デイヴィッドです。<br>オーストラリアの出身ですが、今京都に住んでいます。<br>
 <br>
-速くて、正しくて、開発します。<br>
+ソフトウェアを速く、正しく、開発します。<br>
 <br>
-それより、なるべく気が置けないヤツになりたい。<br>努力と根性で、頑張ります！<br>
+私のモットは【気さくなヤツを俺になる！】。<br>努力と根性で、仕事に頑張ります！<br>
 <br>
 My name's David Sicong Zhou. <i>Software Engineer</i> from Australia living in Kyoto.<br>
 <br>
-I also enjoy studying subjects such as <i>The Japanese Language!</i> and <i>Why Can't We All Just Get Along?</i><br><br>
+I'm here to make really good software and really good friends, even out of the enemies.<br><br>
 Pleasure to make your acquaintance!

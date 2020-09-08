@@ -1,12 +1,18 @@
 ---
-title: 連絡
+title: How to contact me
 icon: fa-envelope
 order: 98
 ---
 
+<h2>【連絡先】</h2>
+<div></div><br>
+
 貴重なお時間をいただき，ありがとうございます！
 
+Thanks for taking the time to read this. I appreciate it!
 
-#### すぐにメールを返事しますから遠慮しないで連絡をください： <a href="mailto:david.sicong.zhou@gmail.com">david.sicong.zhou@gmail.com</a> ####
-<div></div><br>
-Thank you so much for reading. Shoot me an email sometime!
+いつでも連絡ください。すぐにお返事します。
+
+Shoot me an email sometime! I respond pretty quick.
+
+#### <a href="mailto:david.sicong.zhou@gmail.com">email: david.sicong.zhou@gmail.com</a> ####
