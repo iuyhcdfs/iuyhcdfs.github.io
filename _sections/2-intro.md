@@ -1,10 +1,10 @@
 ---
-title: Self-Introduction
+title: 自己紹介
 icon: fa-th
 order: 2
 ---
 
-<h2>【自己紹介】</h2>
+<h2>Self Introduction</h2>
 <div></div><br>
 
 <h4>
@@ -12,9 +12,10 @@ order: 2
 <br>
 ソフトウェアを速く、正しく、開発します。<br>
 <br>
-私のモットは【気さくなヤツを俺になる！】。<br>努力と根性で、仕事に頑張ります！<br>
+私のモットーは【誰にでも気さくに！】です。<br>努力と根性で、仕事に取り組みます！<br>
 <br>
-My name's David Sicong Zhou. <i>Software Engineer</i> from Australia living in Kyoto.<br>
+My name's David Sicong Zhou and <i>I teach computers new tricks.</i> <br>
+Australian programmer living in Kyoto, Japan.<br>
 <br>
-I'm here to make really good software and really good friends, even out of the enemies.<br><br>
+I personally enjoy making good software and good friends. Also good food.<br><br>
 Pleasure to make your acquaintance!
