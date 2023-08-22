@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Whats new:
+# FUN GAMES
 
 I HAVENT FINISHED A GAME WORTHY OF MAKING MONEY YET HOLD ON
 
