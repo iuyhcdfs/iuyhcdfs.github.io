@@ -6,8 +6,4 @@ layout: default
 
 IM WORKING ON IT
 
-I HAVENT FINISHED A GAME WORTHY OF MAKING MONEY YET HOLD ON
-
-I AM LEARNING SO MUCH RIGHT NOW!!!
-
-AHAHAHAHAHA
+just gonna put releases in chronological order here
