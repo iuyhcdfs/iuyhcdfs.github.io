@@ -2,124 +2,124 @@
 layout: default
 ---
 
-## VIDEOGAMES
+## videogames!
 
 making a game about cats but you're the cat toy and you gotta watch out
 
-theres like 30 other design documents, but one game at a time
+theres like 30 other design documents, but one game at a time!
 
 
 
 
 <p>
-test the length of homepage
+HI THERE DONT MIND ME, just testing how cramped scrolling this page is
 
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
 <p>
 keep scrolling
 <p>
+keep scrolling
 <p>
+keep scrolling
 <p>
+keep scrolling
 <p>
+keep scrolling
 <p>
+keep scrolling
 <p>
+keep scrolling
 <p>
+keep scrolling
 <p>
+keep scrolling
 <p>
+keep scrolling
 <p>
+keep scrolling
 <p>
+keep scrolling
 <p>
+keep scrolling
 <p>
+keep scrolling
 <p>
+keep scrolling
 <p>
+keep scrolling
 <p>
+keep scrolling
 <p>
+keep scrolling
 <p>
+keep scrolling
 <p>
+keep scrolling
 <p>
+keep scrolling
 <p>
+keep scrolling
 <p>
+keep scrolling
 <p>
+keep scrolling
+<p>
+keep scrolling
+<p>
+keep scrolling
+<p>
+keep scrolling
+<p>
+keep scrolling
+<p>
+keep scrolling
+<p>
+keep scrolling
+<p>
+keep scrolling
+<p>
+keep scrolling
 <p>
 good
 <p>
+keep scrolling
 <p>
+keep scrolling
 <p>
+keep scrolling
 <p>
+keep scrolling
 <p>
+good
 <p>
+keep scrolling
 <p>
+keep scrolling
 <p>
+keep scrolling
 <p>
+keep scrolling
 <p>
+good
 <p>
+keep scrolling
 <p>
+keep scrolling
 <p>
+keep scrolling
 <p>
+keep scrolling
 <p>
+good
 <p>
+keep scrolling
 <p>
+keep scrolling
 <p>
+keep scrolling
 <p>
+keep scrolling
 <p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
+good
 <p>
 <p>
 hmm ok this should be fine. i'll disable the home page button to avoid losing your spot or something
