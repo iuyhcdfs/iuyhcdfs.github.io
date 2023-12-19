@@ -4,6 +4,4 @@ layout: default
 
 ## VIDEOGAMES
 
-IM WORKING ON IT
-
-just gonna put releases in chronological order here
+making a game about cats but you're the cat toy and you gotta watch out
