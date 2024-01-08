@@ -41,7 +41,7 @@ cant say its something your parents should see
 a life that is shameful to such a degree..
 
 is the sky a space thats full of unending potential?
-or-a void that makes me existential?
+does it just make me existential?
 
 do something stupid
 is there nothing to it
