@@ -2,10 +2,7 @@
 layout: default
 ---
 
-## videogames!
+still working on games
+turns out making a game that is fit to sell has many more steps than the original prototype
 
-learning unreal engine stuff (currently ai)
-
-heres a tip that will evaporate: the unreal documentation for behavior trees is the best way to learn, even if its boring
-
-playable gameplay demo before the end of january wow!
+cant wait to actually have a game done wooo
